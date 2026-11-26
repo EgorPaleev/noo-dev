@@ -1,0 +1,50 @@
+{
+  "type": "frontend-page",
+  "title": "Страница и маршрутизация",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "frontend/skills/create-fsd-page/SKILL.md",
+      "allPresets": [
+        "next-app-router",
+        "fsd"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/create-fsd-page/SKILL.md",
+      "kind": "skills",
+      "title": "Create FSD Page"
+    },
+    {
+      "id": "frontend/skills/create-fsd-react-router-page/SKILL.md",
+      "allPresets": [
+        "vite-react-router",
+        "fsd"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/create-fsd-react-router-page/SKILL.md",
+      "kind": "skills",
+      "title": "Create FSD React Router Page"
+    },
+    {
+      "id": "frontend/workflows/adding-react-router-page.md",
+      "allPresets": [
+        "vite-react-router",
+        "fsd"
+      ],
+      "load": "default",
+      "path": "frontend/workflows/adding-react-router-page.md",
+      "kind": "workflows",
+      "title": "Adding an FSD React Router Page"
+    }
+  ]
+}

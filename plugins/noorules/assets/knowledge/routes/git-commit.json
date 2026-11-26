@@ -1,0 +1,45 @@
+{
+  "type": "git-commit",
+  "title": "Подготовка коммита",
+  "inputs": [
+    "change-set"
+  ],
+  "output": "commit-ready",
+  "materials": [
+    {
+      "id": "git/workflows/select-commit-changes.md",
+      "load": "default",
+      "path": "git/workflows/select-commit-changes.md",
+      "kind": "workflows",
+      "title": "Выбор состава коммита"
+    },
+    {
+      "id": "git/rules/conventional-header.md",
+      "load": "default",
+      "path": "git/rules/conventional-header.md",
+      "kind": "rules",
+      "title": "Формат заголовка Conventional Commits"
+    },
+    {
+      "id": "git/rules/breaking-change.md",
+      "load": "default",
+      "path": "git/rules/breaking-change.md",
+      "kind": "rules",
+      "title": "Несовместимое изменение"
+    },
+    {
+      "id": "git/rules/body-and-trailers.md",
+      "load": "default",
+      "path": "git/rules/body-and-trailers.md",
+      "kind": "rules",
+      "title": "Тело и подвал сообщения"
+    },
+    {
+      "id": "git/checklists/commit-ready.md",
+      "load": "default",
+      "path": "git/checklists/commit-ready.md",
+      "kind": "checklists",
+      "title": "Проверка готовности коммита"
+    }
+  ]
+}

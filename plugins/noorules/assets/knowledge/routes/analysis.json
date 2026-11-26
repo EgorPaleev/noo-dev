@@ -1,0 +1,33 @@
+{
+  "type": "analysis",
+  "title": "Анализ функционального кейса",
+  "inputs": [
+    "project-brief"
+  ],
+  "output": "functional-case",
+  "materials": [
+    {
+      "id": "engineering/rules/trace-requirements.md",
+      "load": "default",
+      "path": "engineering/rules/trace-requirements.md",
+      "kind": "rules",
+      "title": "trace-requirements"
+    },
+    {
+      "id": "product/workflows/discovery-and-analysis.md",
+      "load": "default",
+      "path": "product/workflows/discovery-and-analysis.md",
+      "kind": "workflows",
+      "title": "Проработка проекта и анализ кейсов"
+    },
+    {
+      "id": "product/skills/sovpa-case-analysis/SKILL.md",
+      "load": "on-demand",
+      "path": "product/skills/sovpa-case-analysis/SKILL.md",
+      "kind": "skills",
+      "title": "Аналитика и подготовка кейсов",
+      "scope": "sovpa",
+      "lifecycle": "project-snapshot"
+    }
+  ]
+}

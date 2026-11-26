@@ -1,0 +1,46 @@
+{
+  "type": "frontend-modal",
+  "title": "Модальное окно",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "frontend/checklists/overlay.md",
+      "load": "default",
+      "path": "frontend/checklists/overlay.md",
+      "kind": "checklists",
+      "title": "Проверка модального окна"
+    },
+    {
+      "id": "frontend/skills/create-react-modal/SKILL.md",
+      "allPresets": [
+        "react",
+        "zustand"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/create-react-modal/SKILL.md",
+      "kind": "skills",
+      "title": "Create React Modal"
+    },
+    {
+      "id": "frontend/workflows/adding-modal.md",
+      "allPresets": [
+        "react",
+        "zustand"
+      ],
+      "load": "default",
+      "path": "frontend/workflows/adding-modal.md",
+      "kind": "workflows",
+      "title": "Adding a React Modal or Drawer"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature-Sliced Design"
+  short_description: "Apply official FSD v2.1 architecture guidance"
+  default_prompt: "Use $feature-sliced-design to place the requested code in the correct FSD layer and preserve project boundaries."

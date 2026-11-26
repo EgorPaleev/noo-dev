@@ -1,0 +1,49 @@
+{
+  "type": "backend-module",
+  "title": "Новый backend-модуль",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "engineering/rules/follow-nest-module-patterns.md",
+      "allPresets": [
+        "nest-fastify"
+      ],
+      "load": "default",
+      "path": "engineering/rules/follow-nest-module-patterns.md",
+      "kind": "rules",
+      "title": "follow-nest-module-patterns"
+    },
+    {
+      "id": "backend/skills/new-module/SKILL.md",
+      "allPresets": [
+        "nest-fastify",
+        "nest-starter"
+      ],
+      "load": "on-demand",
+      "path": "backend/skills/new-module/SKILL.md",
+      "kind": "skills",
+      "title": "Новый доменный модуль"
+    },
+    {
+      "id": "backend/rules/nest/docs/architecture/MODULE-BOUNDARIES.md",
+      "allPresets": [
+        "nest-fastify",
+        "nest-starter"
+      ],
+      "load": "default",
+      "path": "backend/rules/nest/docs/architecture/MODULE-BOUNDARIES.md",
+      "kind": "rules",
+      "title": "Изоляция модулей"
+    }
+  ]
+}

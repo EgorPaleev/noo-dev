@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create HeroUI Form Control"
+  short_description: "Создать HeroUI-контрол для React Hook Form"
+  default_prompt: "Use $create-heroui-form-control to add a typed HeroUI field adapter for React Hook Form."

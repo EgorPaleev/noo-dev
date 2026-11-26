@@ -1,0 +1,34 @@
+{
+  "type": "mobile-offline",
+  "title": "Работа вне сети",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "mobile/rules/offline-state.md",
+      "load": "default",
+      "path": "mobile/rules/offline-state.md",
+      "kind": "rules",
+      "title": "Мобильное состояние вне сети"
+    },
+    {
+      "id": "mobile/checklists/platform-verification.md",
+      "load": "default",
+      "path": "mobile/checklists/platform-verification.md",
+      "kind": "checklists",
+      "title": "Проверки мобильной фичи"
+    },
+    {
+      "id": "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md",
+      "load": "on-demand",
+      "projectPath": "docs/data-flow-offline-first.md",
+      "path": "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md",
+      "kind": "references",
+      "title": "Offline-First: сеть → Room → UI",
+      "scope": "nootinder-mobile",
+      "lifecycle": "project-snapshot"
+    }
+  ]
+}

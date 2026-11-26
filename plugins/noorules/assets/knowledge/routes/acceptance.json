@@ -1,0 +1,25 @@
+{
+  "type": "acceptance",
+  "title": "Приёмка",
+  "inputs": [
+    "functional-case",
+    "qa-report"
+  ],
+  "output": "acceptance-decision",
+  "materials": [
+    {
+      "id": "engineering/rules/ground-handoff.md",
+      "load": "default",
+      "path": "engineering/rules/ground-handoff.md",
+      "kind": "rules",
+      "title": "ground-handoff"
+    },
+    {
+      "id": "product/workflows/quality-and-release.md",
+      "load": "default",
+      "path": "product/workflows/quality-and-release.md",
+      "kind": "workflows",
+      "title": "Проверка, приёмка и выпуск"
+    }
+  ]
+}

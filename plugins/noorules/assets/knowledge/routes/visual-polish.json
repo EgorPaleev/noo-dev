@@ -1,0 +1,29 @@
+{
+  "type": "visual-polish",
+  "title": "Визуальная доработка интерфейса",
+  "inputs": [
+    "design-deliverable"
+  ],
+  "output": "visual-polish-plan",
+  "materials": [
+    {
+      "id": "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md",
+      "load": "on-demand",
+      "path": "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md",
+      "kind": "skills",
+      "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)",
+      "scope": "client-sovpa",
+      "lifecycle": "project-snapshot"
+    },
+    {
+      "id": "frontend/skills/high-end-visual-design/SKILL.md",
+      "exceptScopes": [
+        "client-sovpa"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/high-end-visual-design/SKILL.md",
+      "kind": "skills",
+      "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)"
+    }
+  ]
+}

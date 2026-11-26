@@ -1,0 +1,12 @@
+{
+  "engineering/skills/review-changes/SKILL.md": {
+    "path": "engineering/skills/review-changes/SKILL.md",
+    "kind": "skills",
+    "title": "Review Changes"
+  },
+  "engineering/skills/review-changes/agents/openai.yaml": {
+    "path": "engineering/skills/review-changes/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  }
+}

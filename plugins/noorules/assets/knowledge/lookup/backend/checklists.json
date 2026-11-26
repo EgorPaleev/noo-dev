@@ -1,0 +1,12 @@
+{
+  "backend/checklists/nest-change.md": {
+    "path": "backend/checklists/nest-change.md",
+    "kind": "checklists",
+    "title": "Ревью изменений NestJS"
+  },
+  "backend/checklists/nest/docs/testing-security/SECURITY.md": {
+    "path": "backend/checklists/nest/docs/testing-security/SECURITY.md",
+    "kind": "checklists",
+    "title": "Security-чеклист"
+  }
+}

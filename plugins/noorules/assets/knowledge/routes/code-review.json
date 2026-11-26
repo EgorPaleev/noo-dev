@@ -1,0 +1,53 @@
+{
+  "type": "code-review",
+  "title": "Ревью кода",
+  "inputs": [
+    "change-set",
+    "verification-report"
+  ],
+  "output": "review-report",
+  "materials": [
+    {
+      "id": "engineering/rules/verify-change.md",
+      "load": "default",
+      "path": "engineering/rules/verify-change.md",
+      "kind": "rules",
+      "title": "verify-change"
+    },
+    {
+      "id": "engineering/skills/review-changes/SKILL.md",
+      "load": "on-demand",
+      "path": "engineering/skills/review-changes/SKILL.md",
+      "kind": "skills",
+      "title": "Review Changes"
+    },
+    {
+      "id": "backend/skills/review-conventions/SKILL.md",
+      "allPresets": [
+        "nest-fastify",
+        "nest-starter"
+      ],
+      "load": "on-demand",
+      "path": "backend/skills/review-conventions/SKILL.md",
+      "kind": "skills",
+      "title": "Чек-лист конвенций стартер-пака"
+    },
+    {
+      "id": "engineering/checklists/test-evidence.md",
+      "load": "default",
+      "path": "engineering/checklists/test-evidence.md",
+      "kind": "checklists",
+      "title": "Подтверждение тестов"
+    },
+    {
+      "id": "backend/checklists/nest-change.md",
+      "allPresets": [
+        "nest-fastify"
+      ],
+      "load": "default",
+      "path": "backend/checklists/nest-change.md",
+      "kind": "checklists",
+      "title": "Ревью изменений NestJS"
+    }
+  ]
+}

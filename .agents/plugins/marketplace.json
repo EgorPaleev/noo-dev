@@ -1,0 +1,17 @@
+{
+  "name": "noorules-dev",
+  "plugins": [
+    {
+      "name": "noorules",
+      "source": {
+        "source": "local",
+        "path": "./plugins/noorules"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

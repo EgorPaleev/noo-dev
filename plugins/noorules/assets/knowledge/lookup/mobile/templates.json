@@ -1,0 +1,9 @@
+{
+  "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md": {
+    "path": "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md",
+    "kind": "templates",
+    "title": "NNNN. Title",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "api-endpoint",
+  "title": "Изменение HTTP API",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "engineering/rules/keep-http-contracts-in-sync.md",
+      "load": "default",
+      "path": "engineering/rules/keep-http-contracts-in-sync.md",
+      "kind": "rules",
+      "title": "keep-http-contracts-in-sync"
+    },
+    {
+      "id": "backend/rules/go/verification.md",
+      "anyPreset": [
+        "go-fiber"
+      ],
+      "load": "default",
+      "path": "backend/rules/go/verification.md",
+      "kind": "rules",
+      "title": "Проверка изменений Go"
+    },
+    {
+      "id": "backend/references/nest/docs/recipes/CONTROLLERS.md",
+      "anyPreset": [
+        "nest-fastify"
+      ],
+      "load": "on-demand",
+      "path": "backend/references/nest/docs/recipes/CONTROLLERS.md",
+      "kind": "references",
+      "title": "Controllers"
+    },
+    {
+      "id": "backend/skills/sovpa-backend-change/SKILL.md",
+      "load": "on-demand",
+      "path": "backend/skills/sovpa-backend-change/SKILL.md",
+      "kind": "skills",
+      "title": "Изменение бэкенда Sovpa",
+      "scope": "nootinder-api",
+      "lifecycle": "project-snapshot"
+    },
+    {
+      "id": "backend/rules/http/input-validation.md",
+      "load": "default",
+      "path": "backend/rules/http/input-validation.md",
+      "kind": "rules",
+      "title": "Вход HTTP и ошибки валидации"
+    },
+    {
+      "id": "backend/rules/http/response-contract.md",
+      "load": "default",
+      "path": "backend/rules/http/response-contract.md",
+      "kind": "rules",
+      "title": "Совместимость ответа HTTP"
+    }
+  ]
+}

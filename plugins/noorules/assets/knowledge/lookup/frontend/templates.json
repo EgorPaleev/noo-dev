@@ -1,0 +1,17 @@
+{
+  "frontend/templates/project-agents.md": {
+    "path": "frontend/templates/project-agents.md",
+    "kind": "templates",
+    "title": "Project name"
+  },
+  "frontend/templates/project-context.md": {
+    "path": "frontend/templates/project-context.md",
+    "kind": "templates",
+    "title": "Project Context"
+  },
+  "frontend/templates/rule.md": {
+    "path": "frontend/templates/rule.md",
+    "kind": "templates",
+    "title": "Rule title"
+  }
+}

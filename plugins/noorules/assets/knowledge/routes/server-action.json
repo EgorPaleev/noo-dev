@@ -1,0 +1,20 @@
+{
+  "type": "server-action",
+  "title": "Next.js Server Action",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "frontend/skills/create-server-action/SKILL.md",
+      "allPresets": [
+        "next-app-router"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/create-server-action/SKILL.md",
+      "kind": "skills",
+      "title": "Create Server Action"
+    }
+  ]
+}

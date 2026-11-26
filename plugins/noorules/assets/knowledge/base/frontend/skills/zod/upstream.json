@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/anivar/zod-skill.git",
+  "skillPath": ".",
+  "sourceVersion": "1.1.0",
+  "license": "MIT",
+  "adaptedAt": "2026-09-10",
+  "adaptation": "Condensed for ai-engineering-rules and corrected against official Zod 4 documentation and installed Zod 4.3.6, 4.4.3 and 4.5.4 packages."
+}

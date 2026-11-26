@@ -1,0 +1,17 @@
+{
+  "git/rules/body-and-trailers.md": {
+    "path": "git/rules/body-and-trailers.md",
+    "kind": "rules",
+    "title": "Тело и подвал сообщения"
+  },
+  "git/rules/breaking-change.md": {
+    "path": "git/rules/breaking-change.md",
+    "kind": "rules",
+    "title": "Несовместимое изменение"
+  },
+  "git/rules/conventional-header.md": {
+    "path": "git/rules/conventional-header.md",
+    "kind": "rules",
+    "title": "Формат заголовка Conventional Commits"
+  }
+}

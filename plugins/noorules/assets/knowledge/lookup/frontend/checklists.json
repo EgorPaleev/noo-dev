@@ -1,0 +1,12 @@
+{
+  "frontend/checklists/delivery.md": {
+    "path": "frontend/checklists/delivery.md",
+    "kind": "checklists",
+    "title": "Delivery Checklist"
+  },
+  "frontend/checklists/overlay.md": {
+    "path": "frontend/checklists/overlay.md",
+    "kind": "checklists",
+    "title": "Проверка модального окна"
+  }
+}

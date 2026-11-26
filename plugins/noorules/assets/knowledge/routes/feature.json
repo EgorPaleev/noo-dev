@@ -1,0 +1,37 @@
+{
+  "type": "feature",
+  "title": "Реализация функции",
+  "inputs": [
+    "implementation-plan"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "engineering/rules/preserve-go-boundaries.md",
+      "anyPreset": [
+        "go-fiber"
+      ],
+      "load": "default",
+      "path": "engineering/rules/preserve-go-boundaries.md",
+      "kind": "rules",
+      "title": "preserve-go-boundaries"
+    },
+    {
+      "id": "engineering/rules/follow-nest-module-patterns.md",
+      "anyPreset": [
+        "nest-fastify"
+      ],
+      "load": "default",
+      "path": "engineering/rules/follow-nest-module-patterns.md",
+      "kind": "rules",
+      "title": "follow-nest-module-patterns"
+    }
+  ]
+}

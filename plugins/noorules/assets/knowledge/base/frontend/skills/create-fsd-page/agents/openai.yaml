@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create FSD Page"
+  short_description: "Create a project-aligned FSD page"
+  default_prompt: "Use $create-fsd-page to add an account settings page using this repository’s documented conventions."

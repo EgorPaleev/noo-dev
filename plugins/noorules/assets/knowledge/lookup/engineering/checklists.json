@@ -1,0 +1,12 @@
+{
+  "engineering/checklists/documentation-ready.md": {
+    "path": "engineering/checklists/documentation-ready.md",
+    "kind": "checklists",
+    "title": "Проверка проектной документации"
+  },
+  "engineering/checklists/test-evidence.md": {
+    "path": "engineering/checklists/test-evidence.md",
+    "kind": "checklists",
+    "title": "Подтверждение тестов"
+  }
+}

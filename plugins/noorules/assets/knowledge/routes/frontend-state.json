@@ -1,0 +1,61 @@
+{
+  "type": "frontend-state",
+  "title": "Клиентское состояние и запросы",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "frontend/skills/create-redux-slice/SKILL.md",
+      "anyPreset": [
+        "redux-toolkit"
+      ],
+      "when": "При добавлении Redux-среза",
+      "load": "on-demand",
+      "path": "frontend/skills/create-redux-slice/SKILL.md",
+      "kind": "skills",
+      "title": "Create Redux Slice"
+    },
+    {
+      "id": "frontend/skills/create-rtk-query-endpoint/SKILL.md",
+      "anyPreset": [
+        "redux-toolkit"
+      ],
+      "when": "Когда в проекте уже используется RTK Query и задача затрагивает endpoint",
+      "load": "on-demand",
+      "path": "frontend/skills/create-rtk-query-endpoint/SKILL.md",
+      "kind": "skills",
+      "title": "Create RTK Query Endpoint"
+    },
+    {
+      "id": "frontend/skills/create-redux-saga/SKILL.md",
+      "anyPreset": [
+        "redux-saga"
+      ],
+      "when": "Если задача изменяет существующую saga",
+      "load": "on-demand",
+      "path": "frontend/skills/create-redux-saga/SKILL.md",
+      "kind": "skills",
+      "title": "Create Redux Saga"
+    },
+    {
+      "id": "frontend/skills/zustand/SKILL.md",
+      "anyPreset": [
+        "zustand"
+      ],
+      "when": "Если затрагивается Zustand-стор или настройка Zustand",
+      "load": "on-demand",
+      "path": "frontend/skills/zustand/SKILL.md",
+      "kind": "skills",
+      "title": "Zustand 5"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "product/skills/product-prototyping/SKILL.md": {
+    "path": "product/skills/product-prototyping/SKILL.md",
+    "kind": "skills",
+    "title": "Продуктовые прототипы",
+    "scope": "noolink",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/product-prototyping/agents/openai.yaml": {
+    "path": "product/skills/product-prototyping/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai",
+    "scope": "noolink",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/product-prototyping/references/noolink.md": {
+    "path": "product/skills/product-prototyping/references/noolink.md",
+    "kind": "references",
+    "title": "Прототип Noolink",
+    "scope": "noolink",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/product-prototyping/references/platforms.md": {
+    "path": "product/skills/product-prototyping/references/platforms.md",
+    "kind": "references",
+    "title": "Платформы и компоновка",
+    "scope": "noolink",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/product-prototyping/references/review.md": {
+    "path": "product/skills/product-prototyping/references/review.md",
+    "kind": "references",
+    "title": "Проверка и передача",
+    "scope": "noolink",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/product-prototyping/references/sovpa-visual-style.md": {
+    "path": "product/skills/product-prototyping/references/sovpa-visual-style.md",
+    "kind": "references",
+    "title": "Визуальный профиль Sovpa",
+    "scope": "noolink",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/sovpa-case-analysis/SKILL.md": {
+    "path": "product/skills/sovpa-case-analysis/SKILL.md",
+    "kind": "skills",
+    "title": "Аналитика и подготовка кейсов",
+    "scope": "sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/sovpa-case-analysis/references/project-context.md": {
+    "path": "backend/skills/sovpa-backend-change/references/project-context.md",
+    "kind": "references",
+    "title": "Контекст реального проекта",
+    "scope": "sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/sovpa-project-discovery/SKILL.md": {
+    "path": "product/skills/sovpa-project-discovery/SKILL.md",
+    "kind": "skills",
+    "title": "Проработка проекта",
+    "scope": "sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/sovpa-project-discovery/references/project-context.md": {
+    "path": "backend/skills/sovpa-backend-change/references/project-context.md",
+    "kind": "references",
+    "title": "Контекст реального проекта",
+    "scope": "sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/sovpa-prototype-design/SKILL.md": {
+    "path": "product/skills/sovpa-prototype-design/SKILL.md",
+    "kind": "skills",
+    "title": "Прототипирование и дизайн",
+    "scope": "sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "product/skills/sovpa-prototype-design/references/project-context.md": {
+    "path": "backend/skills/sovpa-backend-change/references/project-context.md",
+    "kind": "references",
+    "title": "Контекст реального проекта",
+    "scope": "sovpa",
+    "lifecycle": "project-snapshot"
+  }
+}

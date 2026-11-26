@@ -1,0 +1,17 @@
+{
+  "type": "model-selection",
+  "title": "Подбор модели для задачи или этапов",
+  "inputs": [
+    "task-brief"
+  ],
+  "output": "model-plan",
+  "materials": [
+    {
+      "id": "engineering/rules/model-routing.md",
+      "load": "default",
+      "path": "engineering/rules/model-routing.md",
+      "kind": "rules",
+      "title": "Выбор модели по задаче"
+    }
+  ]
+}

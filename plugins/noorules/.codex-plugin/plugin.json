@@ -1,0 +1,9 @@
+{
+  "name": "noorules",
+  "version": "0.4.6",
+  "description": "Разработка, ревью, тестирование и выпуск.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "NooRules Dev"
+  }
+}

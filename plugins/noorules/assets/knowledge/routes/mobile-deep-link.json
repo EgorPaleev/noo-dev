@@ -1,0 +1,34 @@
+{
+  "type": "mobile-deep-link",
+  "title": "Мобильная deeplink-навигация",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "mobile/rules/deep-link.md",
+      "load": "default",
+      "path": "mobile/rules/deep-link.md",
+      "kind": "rules",
+      "title": "Вход в приложение по ссылке"
+    },
+    {
+      "id": "mobile/checklists/platform-verification.md",
+      "load": "default",
+      "path": "mobile/checklists/platform-verification.md",
+      "kind": "checklists",
+      "title": "Проверки мобильной фичи"
+    },
+    {
+      "id": "mobile/references/projects/nootinder-mobile/docs/deeplinks.md",
+      "load": "on-demand",
+      "projectPath": "docs/deeplinks.md",
+      "path": "mobile/references/projects/nootinder-mobile/docs/deeplinks.md",
+      "kind": "references",
+      "title": "Диплинки",
+      "scope": "nootinder-mobile",
+      "lifecycle": "project-snapshot"
+    }
+  ]
+}

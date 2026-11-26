@@ -1,0 +1,7 @@
+interface:
+  display_name: "Create MUI Form Control"
+  short_description: "Создать MUI-контрол для React Hook Form"
+  default_prompt: "Use $create-mui-form-control to add a typed Material UI field adapter for React Hook Form."
+
+policy:
+  allow_implicit_invocation: true

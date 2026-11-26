@@ -1,0 +1,7 @@
+{
+  "git/workflows/select-commit-changes.md": {
+    "path": "git/workflows/select-commit-changes.md",
+    "kind": "workflows",
+    "title": "Выбор состава коммита"
+  }
+}

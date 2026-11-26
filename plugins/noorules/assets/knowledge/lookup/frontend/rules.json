@@ -1,0 +1,192 @@
+{
+  "frontend/rules/architecture/bff/auth-session-reference.md": {
+    "path": "frontend/rules/architecture/bff/auth-session-reference.md",
+    "kind": "rules",
+    "title": "BFF Auth Session Reference"
+  },
+  "frontend/rules/architecture/bff/boundary.md": {
+    "path": "frontend/rules/architecture/bff/boundary.md",
+    "kind": "rules",
+    "title": "Backend-for-Frontend Boundary"
+  },
+  "frontend/rules/architecture/fsd/core.md": {
+    "path": "frontend/rules/architecture/fsd/core.md",
+    "kind": "rules",
+    "title": "Feature-Sliced Design Core"
+  },
+  "frontend/rules/architecture/fsd/nextjs-app-router.md": {
+    "path": "frontend/rules/architecture/fsd/nextjs-app-router.md",
+    "kind": "rules",
+    "title": "FSD with Next.js App Router"
+  },
+  "frontend/rules/architecture/fsd/nextjs-pages-router.md": {
+    "path": "frontend/rules/architecture/fsd/nextjs-pages-router.md",
+    "kind": "rules",
+    "title": "FSD with Next.js Pages Router"
+  },
+  "frontend/rules/architecture/fsd/public-api.md": {
+    "path": "frontend/rules/architecture/fsd/public-api.md",
+    "kind": "rules",
+    "title": "Feature-Sliced Public API"
+  },
+  "frontend/rules/architecture/fsd/react-router.md": {
+    "path": "frontend/rules/architecture/fsd/react-router.md",
+    "kind": "rules",
+    "title": "FSD with React Router"
+  },
+  "frontend/rules/core/code-quality.md": {
+    "path": "frontend/rules/core/code-quality.md",
+    "kind": "rules",
+    "title": "Code Quality"
+  },
+  "frontend/rules/core/documentation.md": {
+    "path": "frontend/rules/core/documentation.md",
+    "kind": "rules",
+    "title": "Documentation Maintenance"
+  },
+  "frontend/rules/core/error-handling.md": {
+    "path": "frontend/rules/core/error-handling.md",
+    "kind": "rules",
+    "title": "Error Handling"
+  },
+  "frontend/rules/core/testing.md": {
+    "path": "frontend/rules/core/testing.md",
+    "kind": "rules",
+    "title": "Testing"
+  },
+  "frontend/rules/form-boundaries.md": {
+    "path": "frontend/rules/form-boundaries.md",
+    "kind": "rules",
+    "title": "Валидация и состояния формы"
+  },
+  "frontend/rules/stacks/heroui/components.md": {
+    "path": "frontend/rules/stacks/heroui/components.md",
+    "kind": "rules",
+    "title": "HeroUI Components"
+  },
+  "frontend/rules/stacks/heroui/react-hook-form-fields.md": {
+    "path": "frontend/rules/stacks/heroui/react-hook-form-fields.md",
+    "kind": "rules",
+    "title": "HeroUI React Hook Form Fields"
+  },
+  "frontend/rules/stacks/mui/components.md": {
+    "path": "frontend/rules/stacks/mui/components.md",
+    "kind": "rules",
+    "title": "MUI Components"
+  },
+  "frontend/rules/stacks/mui/react-hook-form-fields.md": {
+    "path": "frontend/rules/stacks/mui/react-hook-form-fields.md",
+    "kind": "rules",
+    "title": "MUI React Hook Form Fields"
+  },
+  "frontend/rules/stacks/mui/styling-and-theme.md": {
+    "path": "frontend/rules/stacks/mui/styling-and-theme.md",
+    "kind": "rules",
+    "title": "MUI Styling and Theme"
+  },
+  "frontend/rules/stacks/nextjs-app-router/app-router.md": {
+    "path": "frontend/rules/stacks/nextjs-app-router/app-router.md",
+    "kind": "rules",
+    "title": "Next.js App Router"
+  },
+  "frontend/rules/stacks/nextjs-app-router/route-handlers.md": {
+    "path": "frontend/rules/stacks/nextjs-app-router/route-handlers.md",
+    "kind": "rules",
+    "title": "Next.js Route Handlers"
+  },
+  "frontend/rules/stacks/nextjs-app-router/server-actions.md": {
+    "path": "frontend/rules/stacks/nextjs-app-router/server-actions.md",
+    "kind": "rules",
+    "title": "Next.js Server Actions"
+  },
+  "frontend/rules/stacks/nextjs-app-router/server-components.md": {
+    "path": "frontend/rules/stacks/nextjs-app-router/server-components.md",
+    "kind": "rules",
+    "title": "Next.js Server and Client Components"
+  },
+  "frontend/rules/stacks/nextjs-pages-router/pages-router.md": {
+    "path": "frontend/rules/stacks/nextjs-pages-router/pages-router.md",
+    "kind": "rules",
+    "title": "Next.js Pages Router"
+  },
+  "frontend/rules/stacks/react-hook-form/forms.md": {
+    "path": "frontend/rules/stacks/react-hook-form/forms.md",
+    "kind": "rules",
+    "title": "React Hook Form"
+  },
+  "frontend/rules/stacks/react/auth-session.md": {
+    "path": "frontend/rules/stacks/react/auth-session.md",
+    "kind": "rules",
+    "title": "React SPA Auth Session"
+  },
+  "frontend/rules/stacks/react/component-conventions.md": {
+    "path": "frontend/rules/stacks/react/component-conventions.md",
+    "kind": "rules",
+    "title": "React Component Conventions"
+  },
+  "frontend/rules/stacks/react/modal-manager.md": {
+    "path": "frontend/rules/stacks/react/modal-manager.md",
+    "kind": "rules",
+    "title": "React Modal Manager"
+  },
+  "frontend/rules/stacks/react/url-query-state.md": {
+    "path": "frontend/rules/stacks/react/url-query-state.md",
+    "kind": "rules",
+    "title": "React URL Query State"
+  },
+  "frontend/rules/stacks/redux-saga/workflows.md": {
+    "path": "frontend/rules/stacks/redux-saga/workflows.md",
+    "kind": "rules",
+    "title": "Redux-Saga Workflows"
+  },
+  "frontend/rules/stacks/redux-toolkit/state-management.md": {
+    "path": "frontend/rules/stacks/redux-toolkit/state-management.md",
+    "kind": "rules",
+    "title": "Redux Toolkit State Management"
+  },
+  "frontend/rules/stacks/rtk-query/data-fetching.md": {
+    "path": "frontend/rules/stacks/rtk-query/data-fetching.md",
+    "kind": "rules",
+    "title": "RTK Query Data Fetching"
+  },
+  "frontend/rules/stacks/tanstack-query/data-fetching.md": {
+    "path": "frontend/rules/stacks/tanstack-query/data-fetching.md",
+    "kind": "rules",
+    "title": "TanStack Query Data Fetching"
+  },
+  "frontend/rules/stacks/tanstack-table/tables.md": {
+    "path": "frontend/rules/stacks/tanstack-table/tables.md",
+    "kind": "rules",
+    "title": "TanStack Table"
+  },
+  "frontend/rules/stacks/typescript/documentation-comments.md": {
+    "path": "frontend/rules/stacks/typescript/documentation-comments.md",
+    "kind": "rules",
+    "title": "TypeScript Documentation Comments"
+  },
+  "frontend/rules/stacks/typescript/naming-and-types.md": {
+    "path": "frontend/rules/stacks/typescript/naming-and-types.md",
+    "kind": "rules",
+    "title": "TypeScript Naming and Types"
+  },
+  "frontend/rules/stacks/ui-library/components.md": {
+    "path": "frontend/rules/stacks/ui-library/components.md",
+    "kind": "rules",
+    "title": "Component UI Library"
+  },
+  "frontend/rules/stacks/vitest/testing.md": {
+    "path": "frontend/rules/stacks/vitest/testing.md",
+    "kind": "rules",
+    "title": "Vitest Testing"
+  },
+  "frontend/rules/stacks/zod/validation.md": {
+    "path": "frontend/rules/stacks/zod/validation.md",
+    "kind": "rules",
+    "title": "Zod Validation"
+  },
+  "frontend/rules/stacks/zustand/state-management.md": {
+    "path": "frontend/rules/stacks/zustand/state-management.md",
+    "kind": "rules",
+    "title": "Zustand State Management"
+  }
+}

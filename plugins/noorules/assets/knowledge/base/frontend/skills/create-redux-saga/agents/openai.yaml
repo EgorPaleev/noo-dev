@@ -1,0 +1,7 @@
+interface:
+  display_name: "Create Redux Saga"
+  short_description: "Создать Redux-Saga workflow"
+  default_prompt: "Use $create-redux-saga to add a cancellable Redux-Saga workflow with explicit concurrency, supervision and tests."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "version": "0.4.0",
+  "presets": {
+    "core": {
+      "rules": [
+        "trace-requirements",
+        "verify-prototype",
+        "plan-change",
+        "verify-change",
+        "ground-handoff"
+      ]
+    },
+    "react": {
+      "dependencies": [
+        "react"
+      ],
+      "rules": [
+        "use-project-ui"
+      ]
+    },
+    "next-app-router": {
+      "dependencies": [
+        "next"
+      ],
+      "paths": [
+        "app",
+        "src/app"
+      ],
+      "rules": [
+        "respect-app-router"
+      ]
+    },
+    "vite-react-router": {
+      "dependencies": [
+        "vite",
+        "react"
+      ],
+      "anyDependencies": [
+        "react-router",
+        "react-router-dom"
+      ],
+      "rules": [
+        "follow-route-structure"
+      ]
+    },
+    "go-fiber": {
+      "goModule": "github.com/gofiber/fiber",
+      "rules": [
+        "preserve-go-boundaries",
+        "keep-http-contracts-in-sync"
+      ]
+    },
+    "nest-fastify": {
+      "dependencies": [
+        "@nestjs/core",
+        "@nestjs/platform-fastify"
+      ],
+      "rules": [
+        "follow-nest-module-patterns",
+        "keep-http-contracts-in-sync"
+      ]
+    },
+    "prisma": {
+      "dependencies": [
+        "prisma"
+      ],
+      "paths": [
+        "prisma",
+        "prisma.config.ts"
+      ],
+      "rules": [
+        "verify-schema-changes"
+      ]
+    },
+    "kotlin-multiplatform": {
+      "kotlinMultiplatform": true,
+      "rules": [
+        "respect-kmp-boundaries"
+      ]
+    },
+    "mui": {
+      "dependencies": [
+        "@mui/material"
+      ],
+      "rules": []
+    },
+    "heroui": {
+      "dependencies": [
+        "@heroui/react"
+      ],
+      "rules": []
+    },
+    "redux-toolkit": {
+      "dependencies": [
+        "@reduxjs/toolkit"
+      ],
+      "rules": []
+    },
+    "redux-saga": {
+      "dependencies": [
+        "redux-saga"
+      ],
+      "rules": []
+    },
+    "zustand": {
+      "dependencies": [
+        "zustand"
+      ],
+      "rules": []
+    },
+    "zod": {
+      "dependencies": [
+        "zod"
+      ],
+      "rules": []
+    },
+    "remotion": {
+      "dependencies": [
+        "remotion"
+      ],
+      "rules": []
+    },
+    "fsd": {
+      "allPaths": [
+        "src/features",
+        "src/shared"
+      ],
+      "paths": [
+        "src/pages",
+        "src/_pages",
+        "src/widgets",
+        "src/entities"
+      ],
+      "rules": []
+    },
+    "react-hook-form": {
+      "dependencies": [
+        "react-hook-form"
+      ],
+      "rules": []
+    },
+    "nest-starter": {
+      "dependencies": [
+        "@nestjs/core",
+        "joi"
+      ],
+      "allPaths": [
+        "src/config/configuration.ts",
+        "src/config/validation.schema.ts"
+      ],
+      "rules": []
+    }
+  },
+  "rules": {
+    "plan-change": {
+      "stages": [
+        "plan",
+        "implement"
+      ],
+      "material": "engineering/rules/plan-change.md",
+      "readNext": [
+        "frontend/rules/core/code-quality.md"
+      ]
+    },
+    "verify-change": {
+      "stages": [
+        "verify",
+        "review",
+        "qa"
+      ],
+      "material": "engineering/rules/verify-change.md",
+      "readNext": [
+        "engineering/checklists/test-evidence.md"
+      ]
+    },
+    "ground-handoff": {
+      "stages": [
+        "review",
+        "qa",
+        "acceptance",
+        "release"
+      ],
+      "material": "engineering/rules/ground-handoff.md",
+      "readNext": [
+        "product/workflows/quality-and-release.md"
+      ]
+    },
+    "use-project-ui": {
+      "stages": [
+        "prototype",
+        "plan",
+        "implement",
+        "review"
+      ],
+      "material": "engineering/rules/use-project-ui.md",
+      "readNext": [
+        "frontend/rules/stacks/react/component-conventions.md"
+      ]
+    },
+    "respect-app-router": {
+      "stages": [
+        "plan",
+        "implement",
+        "review"
+      ],
+      "material": "engineering/rules/respect-app-router.md",
+      "readNext": [
+        "frontend/rules/stacks/nextjs-app-router/app-router.md"
+      ]
+    },
+    "follow-route-structure": {
+      "stages": [
+        "plan",
+        "implement",
+        "review"
+      ],
+      "material": "engineering/rules/follow-route-structure.md",
+      "readNext": [
+        "frontend/workflows/adding-react-router-page.md"
+      ]
+    },
+    "preserve-go-boundaries": {
+      "stages": [
+        "plan",
+        "implement",
+        "review"
+      ],
+      "material": "engineering/rules/preserve-go-boundaries.md",
+      "readNext": [
+        "backend/rules/go/verification.md"
+      ]
+    },
+    "follow-nest-module-patterns": {
+      "stages": [
+        "plan",
+        "implement",
+        "review"
+      ],
+      "material": "engineering/rules/follow-nest-module-patterns.md",
+      "readNext": [
+        "backend/references/nest/docs/recipes/CONTROLLERS.md"
+      ]
+    },
+    "keep-http-contracts-in-sync": {
+      "stages": [
+        "implement",
+        "verify",
+        "review"
+      ],
+      "material": "engineering/rules/keep-http-contracts-in-sync.md"
+    },
+    "verify-schema-changes": {
+      "stages": [
+        "plan",
+        "implement",
+        "verify",
+        "review"
+      ],
+      "material": "engineering/rules/verify-schema-changes.md"
+    },
+    "trace-requirements": {
+      "stages": [
+        "discovery",
+        "analysis"
+      ],
+      "material": "engineering/rules/trace-requirements.md",
+      "readNext": [
+        "product/workflows/discovery-and-analysis.md"
+      ]
+    },
+    "verify-prototype": {
+      "stages": [
+        "prototype"
+      ],
+      "material": "engineering/rules/verify-prototype.md",
+      "readNext": [
+        "product/workflows/prototyping.md"
+      ]
+    },
+    "respect-kmp-boundaries": {
+      "stages": [
+        "plan",
+        "implement",
+        "verify",
+        "review"
+      ],
+      "material": "mobile/rules/kmp/project-boundaries.md"
+    }
+  },
+  "pipelines": {
+    "product-change": [
+      {
+        "id": "discovery",
+        "inputs": [
+          "request"
+        ],
+        "output": "project-brief",
+        "task": "discovery"
+      },
+      {
+        "id": "analysis",
+        "inputs": [
+          "project-brief"
+        ],
+        "output": "functional-case",
+        "task": "analysis"
+      },
+      {
+        "id": "prototype",
+        "inputs": [
+          "functional-case"
+        ],
+        "output": "prototype",
+        "task": "prototype"
+      },
+      {
+        "id": "plan",
+        "inputs": [
+          "functional-case",
+          "prototype"
+        ],
+        "output": "implementation-plan",
+        "task": "implementation-plan"
+      },
+      {
+        "id": "implement",
+        "inputs": [
+          "implementation-plan"
+        ],
+        "output": "change-set",
+        "task": "feature"
+      },
+      {
+        "id": "verify",
+        "inputs": [
+          "functional-case",
+          "change-set"
+        ],
+        "output": "verification-report",
+        "task": "test"
+      },
+      {
+        "id": "review",
+        "inputs": [
+          "change-set",
+          "verification-report"
+        ],
+        "output": "review-report",
+        "task": "code-review"
+      },
+      {
+        "id": "qa",
+        "inputs": [
+          "functional-case",
+          "change-set",
+          "review-report"
+        ],
+        "output": "qa-report",
+        "task": "qa"
+      },
+      {
+        "id": "acceptance",
+        "inputs": [
+          "functional-case",
+          "qa-report"
+        ],
+        "output": "acceptance-decision",
+        "task": "acceptance"
+      },
+      {
+        "id": "release",
+        "inputs": [
+          "change-set",
+          "acceptance-decision"
+        ],
+        "output": "release-package",
+        "task": "release"
+      }
+    ]
+  },
+  "compatibleProfileCatalogs": [
+    "0.1.0",
+    "0.2.0",
+    "0.3.0"
+  ],
+  "scopes": [
+    {
+      "id": "sovpa",
+      "packageName": "sovpa-app-client"
+    },
+    {
+      "id": "client-sovpa",
+      "packageName": "sovpa-site"
+    },
+    {
+      "id": "nootinder-client",
+      "packageName": "nootinder-client"
+    },
+    {
+      "id": "nootinder-api",
+      "goModule": "github.com/evrostos/nootinder-golang-api"
+    },
+    {
+      "id": "nootinder-mobile",
+      "paths": [
+        "docs/adr/0001-modular-feature-api-impl.md",
+        "shared/build.gradle.kts",
+        "iosApp"
+      ]
+    },
+    {
+      "id": "noolink",
+      "paths": [
+        "case-1-vhod",
+        "case-13-admin",
+        "skills/product-prototyping/SKILL.md"
+      ]
+    },
+    {
+      "id": "restomagic-front",
+      "packageName": "restomagic-front"
+    }
+  ]
+}

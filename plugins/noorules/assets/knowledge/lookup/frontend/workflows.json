@@ -1,0 +1,92 @@
+{
+  "frontend/workflows/adding-bff-auth-session.md": {
+    "path": "frontend/workflows/adding-bff-auth-session.md",
+    "kind": "workflows",
+    "title": "Adding a BFF Auth Session"
+  },
+  "frontend/workflows/adding-client-query.md": {
+    "path": "frontend/workflows/adding-client-query.md",
+    "kind": "workflows",
+    "title": "Adding a Client Query"
+  },
+  "frontend/workflows/adding-data-list-page.md": {
+    "path": "frontend/workflows/adding-data-list-page.md",
+    "kind": "workflows",
+    "title": "Adding a React Data List Page"
+  },
+  "frontend/workflows/adding-form.md": {
+    "path": "frontend/workflows/adding-form.md",
+    "kind": "workflows",
+    "title": "Adding a Form"
+  },
+  "frontend/workflows/adding-fsd-entity.md": {
+    "path": "frontend/workflows/adding-fsd-entity.md",
+    "kind": "workflows",
+    "title": "Adding an FSD Entity"
+  },
+  "frontend/workflows/adding-modal.md": {
+    "path": "frontend/workflows/adding-modal.md",
+    "kind": "workflows",
+    "title": "Adding a React Modal or Drawer"
+  },
+  "frontend/workflows/adding-nextjs-pages-router-page.md": {
+    "path": "frontend/workflows/adding-nextjs-pages-router-page.md",
+    "kind": "workflows",
+    "title": "Adding an FSD Next.js Pages Router Page"
+  },
+  "frontend/workflows/adding-page.md": {
+    "path": "frontend/workflows/adding-page.md",
+    "kind": "workflows",
+    "title": "Adding a Page"
+  },
+  "frontend/workflows/adding-react-router-page.md": {
+    "path": "frontend/workflows/adding-react-router-page.md",
+    "kind": "workflows",
+    "title": "Adding an FSD React Router Page"
+  },
+  "frontend/workflows/adding-redux-saga.md": {
+    "path": "frontend/workflows/adding-redux-saga.md",
+    "kind": "workflows",
+    "title": "Adding a Redux-Saga Workflow"
+  },
+  "frontend/workflows/adding-redux-slice.md": {
+    "path": "frontend/workflows/adding-redux-slice.md",
+    "kind": "workflows",
+    "title": "Adding a Redux Toolkit Slice"
+  },
+  "frontend/workflows/adding-route-handler.md": {
+    "path": "frontend/workflows/adding-route-handler.md",
+    "kind": "workflows",
+    "title": "Adding a Route Handler"
+  },
+  "frontend/workflows/adding-rtk-query-endpoint.md": {
+    "path": "frontend/workflows/adding-rtk-query-endpoint.md",
+    "kind": "workflows",
+    "title": "Adding an RTK Query Endpoint"
+  },
+  "frontend/workflows/adding-server-action.md": {
+    "path": "frontend/workflows/adding-server-action.md",
+    "kind": "workflows",
+    "title": "Adding a Server Action"
+  },
+  "frontend/workflows/adding-table.md": {
+    "path": "frontend/workflows/adding-table.md",
+    "kind": "workflows",
+    "title": "Adding a Table"
+  },
+  "frontend/workflows/adding-url-backed-list-state.md": {
+    "path": "frontend/workflows/adding-url-backed-list-state.md",
+    "kind": "workflows",
+    "title": "Adding URL-Backed List State"
+  },
+  "frontend/workflows/code-review.md": {
+    "path": "frontend/workflows/code-review.md",
+    "kind": "workflows",
+    "title": "Code Review"
+  },
+  "frontend/workflows/rule-discovery.md": {
+    "path": "frontend/workflows/rule-discovery.md",
+    "kind": "workflows",
+    "title": "Rule Discovery"
+  }
+}

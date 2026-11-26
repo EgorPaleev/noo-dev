@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/jezweb/claude-skills.git",
+  "skillPath": "skills/zustand-state-management",
+  "sourceVersion": "1.0.0",
+  "sourceArchiveSha256": "5169c61613d47a3058771b0ebde8414d3cc47c131b6c66341c4005a78170cbd2",
+  "license": "MIT",
+  "adaptedAt": "2026-09-10",
+  "adaptation": "Condensed for ai-engineering-rules and corrected against official Zustand 5 documentation and installed Zustand 5.0.12 through 5.0.15 package types. Upstream scripts, templates, rules, README and scaffold placeholders were intentionally omitted."
+}

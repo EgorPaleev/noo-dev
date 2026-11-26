@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create FSD Entity"
+  short_description: "Place and create a justified FSD entity"
+  default_prompt: "Use $create-fsd-entity to decide where the requested domain model belongs and scaffold it only if justified."

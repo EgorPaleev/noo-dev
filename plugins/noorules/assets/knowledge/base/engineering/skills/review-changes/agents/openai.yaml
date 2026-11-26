@@ -1,0 +1,7 @@
+interface:
+  display_name: "Review Changes"
+  short_description: "Проверить изменения по правилам проекта"
+  default_prompt: "Use $review-changes to review the current changes against this project's selected rules and report findings, verdict, and risk without modifying code."
+
+policy:
+  allow_implicit_invocation: true

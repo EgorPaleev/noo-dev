@@ -1,0 +1,22 @@
+{
+  "engineering/templates/adr.md": {
+    "path": "engineering/templates/adr.md",
+    "kind": "templates",
+    "title": "Шаблон ADR"
+  },
+  "engineering/templates/checklist.md": {
+    "path": "engineering/templates/checklist.md",
+    "kind": "templates",
+    "title": "Шаблон чек-листа"
+  },
+  "engineering/templates/rule.md": {
+    "path": "engineering/templates/rule.md",
+    "kind": "templates",
+    "title": "Шаблон правила"
+  },
+  "engineering/templates/workflow.md": {
+    "path": "engineering/templates/workflow.md",
+    "kind": "templates",
+    "title": "Шаблон процесса"
+  }
+}

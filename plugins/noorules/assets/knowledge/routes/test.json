@@ -1,0 +1,55 @@
+{
+  "type": "test",
+  "title": "Тесты и проверки",
+  "inputs": [
+    "functional-case",
+    "change-set"
+  ],
+  "output": "verification-report",
+  "materials": [
+    {
+      "id": "engineering/rules/verify-change.md",
+      "load": "default",
+      "path": "engineering/rules/verify-change.md",
+      "kind": "rules",
+      "title": "verify-change"
+    },
+    {
+      "id": "backend/rules/go/verification.md",
+      "anyPreset": [
+        "go-fiber"
+      ],
+      "load": "default",
+      "path": "backend/rules/go/verification.md",
+      "kind": "rules",
+      "title": "Проверка изменений Go"
+    },
+    {
+      "id": "mobile/checklists/platform-verification.md",
+      "anyPreset": [
+        "kotlin-multiplatform"
+      ],
+      "load": "default",
+      "path": "mobile/checklists/platform-verification.md",
+      "kind": "checklists",
+      "title": "Проверки мобильной фичи"
+    },
+    {
+      "id": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
+      "load": "on-demand",
+      "projectPath": "docs/mobile-testing.md",
+      "path": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
+      "kind": "references",
+      "title": "Как проверять мобильное приложение",
+      "scope": "nootinder-mobile",
+      "lifecycle": "project-snapshot"
+    },
+    {
+      "id": "engineering/checklists/test-evidence.md",
+      "load": "default",
+      "path": "engineering/checklists/test-evidence.md",
+      "kind": "checklists",
+      "title": "Подтверждение тестов"
+    }
+  ]
+}

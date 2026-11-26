@@ -1,0 +1,7 @@
+{
+  "backend/workflows/environment-config.md": {
+    "path": "backend/workflows/environment-config.md",
+    "kind": "workflows",
+    "title": "Изменение конфигурации окружения"
+  }
+}

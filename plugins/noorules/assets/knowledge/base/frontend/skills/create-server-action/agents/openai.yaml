@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Server Action"
+  short_description: "Create a project-safe Next.js Server Action"
+  default_prompt: "Use $create-server-action to add the requested mutation after checking whether a Server Action is the project-approved transport."

@@ -1,0 +1,39 @@
+{
+  "type": "database-migration",
+  "title": "Схема данных и миграция",
+  "inputs": [
+    "schema-change"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/verify-schema-changes.md",
+      "load": "default",
+      "path": "engineering/rules/verify-schema-changes.md",
+      "kind": "rules",
+      "title": "verify-schema-changes"
+    },
+    {
+      "id": "backend/references/nest/docs/recipes/PRISMA.md",
+      "allPresets": [
+        "nest-fastify",
+        "nest-starter",
+        "prisma"
+      ],
+      "load": "on-demand",
+      "path": "backend/references/nest/docs/recipes/PRISMA.md",
+      "kind": "references",
+      "title": "Работа с Prisma"
+    },
+    {
+      "id": "backend/rules/go/verification.md",
+      "anyPreset": [
+        "go-fiber"
+      ],
+      "load": "default",
+      "path": "backend/rules/go/verification.md",
+      "kind": "rules",
+      "title": "Проверка изменений Go"
+    }
+  ]
+}

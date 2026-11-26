@@ -1,0 +1,67 @@
+{
+  "type": "frontend-form",
+  "title": "Форма и валидация",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "frontend/rules/form-boundaries.md",
+      "load": "default",
+      "path": "frontend/rules/form-boundaries.md",
+      "kind": "rules",
+      "title": "Валидация и состояния формы"
+    },
+    {
+      "id": "frontend/workflows/adding-form.md",
+      "allPresets": [
+        "react",
+        "react-hook-form"
+      ],
+      "load": "default",
+      "path": "frontend/workflows/adding-form.md",
+      "kind": "workflows",
+      "title": "Adding a Form"
+    },
+    {
+      "id": "frontend/skills/create-mui-form-control/SKILL.md",
+      "allPresets": [
+        "react-hook-form",
+        "mui"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/create-mui-form-control/SKILL.md",
+      "kind": "skills",
+      "title": "Create MUI Form Control"
+    },
+    {
+      "id": "frontend/skills/create-heroui-form-control/SKILL.md",
+      "allPresets": [
+        "react-hook-form",
+        "heroui"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/create-heroui-form-control/SKILL.md",
+      "kind": "skills",
+      "title": "Create HeroUI Form Control"
+    },
+    {
+      "id": "frontend/skills/zod/SKILL.md",
+      "anyPreset": [
+        "zod"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/zod/SKILL.md",
+      "kind": "skills",
+      "title": "Zod 4"
+    }
+  ]
+}

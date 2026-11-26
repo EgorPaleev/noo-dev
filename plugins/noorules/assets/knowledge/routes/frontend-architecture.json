@@ -1,0 +1,17 @@
+{
+  "type": "frontend-architecture",
+  "title": "Архитектура FSD",
+  "inputs": [
+    "project-evidence"
+  ],
+  "output": "architecture-plan",
+  "materials": [
+    {
+      "id": "frontend/skills/feature-sliced-design/SKILL.md",
+      "load": "on-demand",
+      "path": "frontend/skills/feature-sliced-design/SKILL.md",
+      "kind": "skills",
+      "title": "Feature-Sliced Design (FSD) v2.1"
+    }
+  ]
+}

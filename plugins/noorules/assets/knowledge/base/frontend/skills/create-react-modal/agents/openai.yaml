@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create React Modal"
+  short_description: "Создать типизированную React-модалку"
+  default_prompt: "Use $create-react-modal to add a typed modal or drawer that follows this project's ownership and registry conventions."

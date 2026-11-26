@@ -1,0 +1,17 @@
+{
+  "type": "research",
+  "title": "Литературный обзор и исследование",
+  "inputs": [
+    "research-question"
+  ],
+  "output": "research-plan",
+  "materials": [
+    {
+      "id": "research/workflows/literature-and-experiments.md",
+      "load": "default",
+      "path": "research/workflows/literature-and-experiments.md",
+      "kind": "workflows",
+      "title": "Литературный обзор и план экспериментов"
+    }
+  ]
+}

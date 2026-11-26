@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit"
+  short_description: "Create a reviewed Conventional Commit"
+  default_prompt: "Use $commit to review the current changes and create one intentional Conventional Commit."

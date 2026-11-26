@@ -1,0 +1,31 @@
+{
+  "type": "web-design",
+  "title": "Дизайн веб-интерфейса",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "design-deliverable",
+  "materials": [
+    {
+      "id": "product/workflows/prototyping.md",
+      "load": "default",
+      "path": "product/workflows/prototyping.md",
+      "kind": "workflows",
+      "title": "Прототипирование"
+    },
+    {
+      "id": "frontend/skills/design-taste-frontend/SKILL.md",
+      "load": "on-demand",
+      "path": "frontend/skills/design-taste-frontend/SKILL.md",
+      "kind": "skills",
+      "title": "tasteskill: Anti-Slop Frontend Skill"
+    },
+    {
+      "id": "frontend/skills/redesign-existing-projects/SKILL.md",
+      "load": "on-demand",
+      "path": "frontend/skills/redesign-existing-projects/SKILL.md",
+      "kind": "skills",
+      "title": "Redesign Skill"
+    }
+  ]
+}

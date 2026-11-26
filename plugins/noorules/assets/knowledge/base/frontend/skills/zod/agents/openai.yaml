@@ -1,0 +1,7 @@
+interface:
+  display_name: "Zod 4"
+  short_description: "Разработка и проверка схем Zod 4"
+  default_prompt: "Use $zod to create or update a Zod 4 schema using the installed API and the project's validation conventions."
+
+policy:
+  allow_implicit_invocation: true

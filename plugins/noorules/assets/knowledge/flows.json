@@ -1,0 +1,358 @@
+{
+  "version": "0.4.6",
+  "tasks": {
+    "discovery": {
+      "skill": "noo-clarify",
+      "inputs": [
+        "request"
+      ],
+      "output": "project-brief"
+    },
+    "analysis": {
+      "skill": "noo-clarify",
+      "inputs": [
+        "project-brief"
+      ],
+      "output": "functional-case"
+    },
+    "prototype": {
+      "skill": "noo-prototype",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "prototype"
+    },
+    "implementation-plan": {
+      "skill": "noo-spec",
+      "inputs": [
+        "functional-case",
+        "prototype"
+      ],
+      "output": "implementation-plan"
+    },
+    "feature": {
+      "skill": "noo-implement",
+      "inputs": [
+        "implementation-plan"
+      ],
+      "output": "change-set"
+    },
+    "bugfix": {
+      "skill": "noo-implement",
+      "inputs": [
+        "bug-report"
+      ],
+      "output": "change-set"
+    },
+    "refactor": {
+      "skill": "noo-implement",
+      "inputs": [
+        "change-request"
+      ],
+      "output": "change-set"
+    },
+    "api-endpoint": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "backend-module": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "environment-config": {
+      "skill": "noo-implement",
+      "inputs": [
+        "configuration-change"
+      ],
+      "output": "change-set"
+    },
+    "database-migration": {
+      "skill": "noo-implement",
+      "inputs": [
+        "schema-change"
+      ],
+      "output": "change-set"
+    },
+    "frontend-page": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "frontend-form": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "frontend-modal": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "frontend-state": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "frontend-entity": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "server-action": {
+      "skill": "noo-implement",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "mobile-feature": {
+      "skill": "noo-mobile",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "mobile-offline": {
+      "skill": "noo-mobile",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "mobile-deep-link": {
+      "skill": "noo-mobile",
+      "inputs": [
+        "functional-case"
+      ],
+      "output": "change-set"
+    },
+    "test": {
+      "skill": "noo-test",
+      "inputs": [
+        "functional-case",
+        "change-set"
+      ],
+      "output": "verification-report"
+    },
+    "code-review": {
+      "skill": "noo-review",
+      "inputs": [
+        "change-set",
+        "verification-report"
+      ],
+      "output": "review-report"
+    },
+    "qa": {
+      "skill": "noo-delivery",
+      "inputs": [
+        "functional-case",
+        "change-set",
+        "review-report"
+      ],
+      "output": "qa-report"
+    },
+    "acceptance": {
+      "skill": "noo-delivery",
+      "inputs": [
+        "functional-case",
+        "qa-report"
+      ],
+      "output": "acceptance-decision"
+    },
+    "release": {
+      "skill": "noo-delivery",
+      "inputs": [
+        "change-set",
+        "acceptance-decision"
+      ],
+      "output": "release-package"
+    },
+    "git-convention": {
+      "skill": "noo-git",
+      "inputs": [],
+      "output": "commit-conventions"
+    },
+    "git-commit": {
+      "skill": "noo-git",
+      "inputs": [
+        "change-set"
+      ],
+      "output": "commit-ready"
+    },
+    "model-selection": {
+      "skill": "noo-model",
+      "inputs": [
+        "task-brief"
+      ],
+      "output": "model-plan"
+    }
+  },
+  "pipelines": {
+    "product-change": [
+      {
+        "skill": "noo-clarify",
+        "inputs": [
+          "request"
+        ],
+        "output": "project-brief",
+        "id": "discovery",
+        "task": "discovery"
+      },
+      {
+        "skill": "noo-clarify",
+        "inputs": [
+          "project-brief"
+        ],
+        "output": "functional-case",
+        "id": "analysis",
+        "task": "analysis"
+      },
+      {
+        "skill": "noo-prototype",
+        "inputs": [
+          "functional-case"
+        ],
+        "output": "prototype",
+        "id": "prototype",
+        "task": "prototype"
+      },
+      {
+        "skill": "noo-spec",
+        "inputs": [
+          "functional-case",
+          "prototype"
+        ],
+        "output": "implementation-plan",
+        "id": "plan",
+        "task": "implementation-plan"
+      },
+      {
+        "skill": "noo-implement",
+        "inputs": [
+          "implementation-plan"
+        ],
+        "output": "change-set",
+        "id": "implement",
+        "task": "feature"
+      },
+      {
+        "skill": "noo-test",
+        "inputs": [
+          "functional-case",
+          "change-set"
+        ],
+        "output": "verification-report",
+        "id": "verify",
+        "task": "test"
+      },
+      {
+        "skill": "noo-review",
+        "inputs": [
+          "change-set",
+          "verification-report"
+        ],
+        "output": "review-report",
+        "id": "review",
+        "task": "code-review"
+      },
+      {
+        "skill": "noo-delivery",
+        "inputs": [
+          "functional-case",
+          "change-set",
+          "review-report"
+        ],
+        "output": "qa-report",
+        "id": "qa",
+        "task": "qa"
+      },
+      {
+        "skill": "noo-delivery",
+        "inputs": [
+          "functional-case",
+          "qa-report"
+        ],
+        "output": "acceptance-decision",
+        "id": "acceptance",
+        "task": "acceptance"
+      },
+      {
+        "skill": "noo-delivery",
+        "inputs": [
+          "change-set",
+          "acceptance-decision"
+        ],
+        "output": "release-package",
+        "id": "release",
+        "task": "release"
+      }
+    ],
+    "review-only": [
+      {
+        "skill": "noo-review",
+        "inputs": [
+          "change-set"
+        ],
+        "output": "review-report",
+        "id": "review",
+        "task": "code-review"
+      }
+    ],
+    "delivery": [
+      {
+        "skill": "noo-spec",
+        "inputs": [
+          "functional-case"
+        ],
+        "output": "implementation-plan",
+        "id": "plan",
+        "task": "implementation-plan"
+      },
+      {
+        "skill": "noo-implement",
+        "inputs": [
+          "implementation-plan"
+        ],
+        "output": "change-set",
+        "id": "implement",
+        "task": "feature"
+      },
+      {
+        "skill": "noo-test",
+        "inputs": [
+          "functional-case",
+          "change-set"
+        ],
+        "output": "verification-report",
+        "id": "verify",
+        "task": "test"
+      },
+      {
+        "skill": "noo-review",
+        "inputs": [
+          "change-set",
+          "verification-report"
+        ],
+        "output": "review-report",
+        "id": "review",
+        "task": "code-review"
+      }
+    ]
+  }
+}

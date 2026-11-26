@@ -1,0 +1,135 @@
+{
+  "product/references/team/AI/AI-внедрение-видение.md": {
+    "path": "product/references/team/AI/AI-внедрение-видение.md",
+    "kind": "references",
+    "title": "Моё видение внедрения AI",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 1. Настройка проекта в Битрикс.md": {
+    "path": "product/references/team/Шаг 1. Настройка проекта в Битрикс.md",
+    "kind": "references",
+    "title": "Кто настраивает",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 10. Приёмка задачи.md": {
+    "path": "product/references/team/Шаг 10. Приёмка задачи.md",
+    "kind": "references",
+    "title": "Шаг 10. Приёмка задачи",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 11. Релиз и ХотФикс.md": {
+    "path": "product/references/team/Шаг 11. Релиз и ХотФикс.md",
+    "kind": "references",
+    "title": "Время и день релиза",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 12. Коммуникации внутри команды.md": {
+    "path": "product/references/team/Шаг 12. Коммуникации внутри команды.md",
+    "kind": "references",
+    "title": "Каналы связи",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 13. Коммуникации с клиентом.md": {
+    "path": "product/references/team/Шаг 13. Коммуникации с клиентом.md",
+    "kind": "references",
+    "title": "Основная точка контакта",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 2. Ведение задач в Битрикс.md": {
+    "path": "product/references/team/Шаг 2. Ведение задач в Битрикс.md",
+    "kind": "references",
+    "title": "Источники задач",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 3. Жизненный цикл задачи.md": {
+    "path": "product/references/team/Шаг 3. Жизненный цикл задачи.md",
+    "kind": "references",
+    "title": "Жизненный цикл задачи",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 4. Оценка задач.md": {
+    "path": "product/references/team/Шаг 4. Оценка задач.md",
+    "kind": "references",
+    "title": "Кто оценивает",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 5. Работа разработчика с задачей.md": {
+    "path": "product/references/team/Шаг 5. Работа разработчика с задачей.md",
+    "kind": "references",
+    "title": "1. Взять задачу в работу",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 6. Код-ревью.md": {
+    "path": "product/references/team/Шаг 6. Код-ревью.md",
+    "kind": "references",
+    "title": "Шаг 6. Код-ревью",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 7. Тестирование.md": {
+    "path": "product/references/team/Шаг 7. Тестирование.md",
+    "kind": "references",
+    "title": "Шаг 7. Тестирование",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 8. Работа с багами.md": {
+    "path": "product/references/team/Шаг 8. Работа с багами.md",
+    "kind": "references",
+    "title": "Шаг 8. Работа с багами",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шаг 9. Работа со стендами.md": {
+    "path": "product/references/team/Шаг 9. Работа со стендами.md",
+    "kind": "references",
+    "title": "Шаг 9. Работа со стендами",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шпаргалки по должности/Роль — QA.md": {
+    "path": "product/references/team/Шпаргалки по должности/Роль — QA.md",
+    "kind": "references",
+    "title": "Шпаргалка: QA (Тестировщик)",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шпаргалки по должности/Роль — Менеджер.md": {
+    "path": "product/references/team/Шпаргалки по должности/Роль — Менеджер.md",
+    "kind": "references",
+    "title": "Шпаргалка: Менеджер",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шпаргалки по должности/Роль — Разработчик.md": {
+    "path": "product/references/team/Шпаргалки по должности/Роль — Разработчик.md",
+    "kind": "references",
+    "title": "Шпаргалка: Разработчик",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шпаргалки по должности/Роль — Старший разработчик.md": {
+    "path": "product/references/team/Шпаргалки по должности/Роль — Старший разработчик.md",
+    "kind": "references",
+    "title": "Шпаргалка: Старший разработчик",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "product/references/team/Шпаргалки по должности/Роль — Тим·Тех лид.md": {
+    "path": "product/references/team/Шпаргалки по должности/Роль — Тим·Тех лид.md",
+    "kind": "references",
+    "title": "Шпаргалка: Тим/Тех лид",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  }
+}

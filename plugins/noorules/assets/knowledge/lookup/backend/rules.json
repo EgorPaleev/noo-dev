@@ -1,0 +1,62 @@
+{
+  "backend/rules/go/verification.md": {
+    "path": "backend/rules/go/verification.md",
+    "kind": "rules",
+    "title": "Проверка изменений Go"
+  },
+  "backend/rules/http/input-validation.md": {
+    "path": "backend/rules/http/input-validation.md",
+    "kind": "rules",
+    "title": "Вход HTTP и ошибки валидации"
+  },
+  "backend/rules/http/response-contract.md": {
+    "path": "backend/rules/http/response-contract.md",
+    "kind": "rules",
+    "title": "Совместимость ответа HTTP"
+  },
+  "backend/rules/nest/docs/architecture/MODULE-BOUNDARIES.md": {
+    "path": "backend/rules/nest/docs/architecture/MODULE-BOUNDARIES.md",
+    "kind": "rules",
+    "title": "Изоляция модулей"
+  },
+  "backend/rules/nest/docs/architecture/MODULE-STRUCTURE.md": {
+    "path": "backend/rules/nest/docs/architecture/MODULE-STRUCTURE.md",
+    "kind": "rules",
+    "title": "Структура доменного модуля"
+  },
+  "backend/rules/nest/docs/conventions/CONSTANTS.md": {
+    "path": "backend/rules/nest/docs/conventions/CONSTANTS.md",
+    "kind": "rules",
+    "title": "Константы"
+  },
+  "backend/rules/nest/docs/conventions/FORMATTING.md": {
+    "path": "backend/rules/nest/docs/conventions/FORMATTING.md",
+    "kind": "rules",
+    "title": "Форматирование"
+  },
+  "backend/rules/nest/docs/conventions/NAMING.md": {
+    "path": "backend/rules/nest/docs/conventions/NAMING.md",
+    "kind": "rules",
+    "title": "Naming и DTO"
+  },
+  "backend/rules/nest/docs/conventions/TYPESCRIPT.md": {
+    "path": "backend/rules/nest/docs/conventions/TYPESCRIPT.md",
+    "kind": "rules",
+    "title": "Типизация"
+  },
+  "backend/rules/nest/docs/principles/ADR.md": {
+    "path": "backend/rules/nest/docs/principles/ADR.md",
+    "kind": "rules",
+    "title": "ADR — лог архитектурных решений"
+  },
+  "backend/rules/nest/docs/principles/GENERAL.md": {
+    "path": "backend/rules/nest/docs/principles/GENERAL.md",
+    "kind": "rules",
+    "title": "Общие правила"
+  },
+  "backend/rules/nest/docs/principles/LANGUAGE.md": {
+    "path": "backend/rules/nest/docs/principles/LANGUAGE.md",
+    "kind": "rules",
+    "title": "Язык"
+  }
+}

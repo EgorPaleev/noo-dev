@@ -1,0 +1,38 @@
+# Типы задач NooRules
+
+- [discovery](routes/discovery.json) · Проработка проекта
+- [analysis](routes/analysis.json) · Анализ функционального кейса
+- [prototype](routes/prototype.json) · Прототипирование
+- [implementation-plan](routes/implementation-plan.json) · План разработки
+- [feature](routes/feature.json) · Реализация функции
+- [bugfix](routes/bugfix.json) · Исправление бага
+- [refactor](routes/refactor.json) · Рефакторинг
+- [test](routes/test.json) · Тесты и проверки
+- [code-review](routes/code-review.json) · Ревью кода
+- [qa](routes/qa.json) · Функциональное тестирование
+- [acceptance](routes/acceptance.json) · Приёмка
+- [release](routes/release.json) · Подготовка выпуска
+- [docs](routes/docs.json) · Документация проекта
+- [adr](routes/adr.json) · Архитектурное решение
+- [git-convention](routes/git-convention.json) · Соглашения об оформлении коммитов
+- [git-commit](routes/git-commit.json) · Подготовка коммита
+- [mobile-feature](routes/mobile-feature.json) · Мобильная фича
+- [api-endpoint](routes/api-endpoint.json) · Изменение HTTP API
+- [backend-module](routes/backend-module.json) · Новый backend-модуль
+- [database-migration](routes/database-migration.json) · Схема данных и миграция
+- [environment-config](routes/environment-config.json) · Конфигурация окружения
+- [frontend-page](routes/frontend-page.json) · Страница и маршрутизация
+- [frontend-form](routes/frontend-form.json) · Форма и валидация
+- [frontend-modal](routes/frontend-modal.json) · Модальное окно
+- [frontend-state](routes/frontend-state.json) · Клиентское состояние и запросы
+- [web-design](routes/web-design.json) · Дизайн веб-интерфейса
+- [site-case](routes/site-case.json) · Кейс на сайте
+- [site-news](routes/site-news.json) · Новость на сайте
+- [research](routes/research.json) · Литературный обзор и исследование
+- [frontend-entity](routes/frontend-entity.json) · Сущность FSD
+- [server-action](routes/server-action.json) · Next.js Server Action
+- [frontend-architecture](routes/frontend-architecture.json) · Архитектура FSD
+- [visual-polish](routes/visual-polish.json) · Визуальная доработка интерфейса
+- [mobile-offline](routes/mobile-offline.json) · Работа вне сети
+- [mobile-deep-link](routes/mobile-deep-link.json) · Мобильная deeplink-навигация
+- [model-selection](routes/model-selection.json) · Подбор модели для задачи или этапов

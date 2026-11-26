@@ -1,0 +1,25 @@
+{
+  "type": "implementation-plan",
+  "title": "План разработки",
+  "inputs": [
+    "functional-case",
+    "prototype"
+  ],
+  "output": "implementation-plan",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "engineering/rules/trace-requirements.md",
+      "load": "default",
+      "path": "engineering/rules/trace-requirements.md",
+      "kind": "rules",
+      "title": "trace-requirements"
+    }
+  ]
+}

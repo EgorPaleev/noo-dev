@@ -1,0 +1,14 @@
+{
+  "name": "noorules-dev",
+  "owner": {
+    "name": "NooRules"
+  },
+  "description": "Разработка, ревью, тестирование и выпуск.",
+  "plugins": [
+    {
+      "name": "noorules",
+      "source": "./plugins/noorules",
+      "description": "Разработка, ревью, тестирование и выпуск."
+    }
+  ]
+}

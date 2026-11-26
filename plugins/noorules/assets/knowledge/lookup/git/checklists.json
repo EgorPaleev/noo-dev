@@ -1,0 +1,7 @@
+{
+  "git/checklists/commit-ready.md": {
+    "path": "git/checklists/commit-ready.md",
+    "kind": "checklists",
+    "title": "Проверка готовности коммита"
+  }
+}

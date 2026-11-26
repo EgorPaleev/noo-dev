@@ -1,0 +1,284 @@
+{
+  "frontend/skills/add-case/SKILL.md": {
+    "path": "frontend/skills/add-case/SKILL.md",
+    "kind": "skills",
+    "title": "Новый кейс Sovpa",
+    "scope": "client-sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "frontend/skills/add-case/scripts/crop-screens.py": {
+    "path": "frontend/skills/add-case/scripts/crop-screens.py.txt",
+    "kind": "assets",
+    "title": "crop-screens",
+    "scope": "client-sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "frontend/skills/add-case/scripts/shot.mjs": {
+    "path": "frontend/skills/add-case/scripts/shot.mjs",
+    "kind": "assets",
+    "title": "shot",
+    "scope": "client-sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "frontend/skills/add-news/SKILL.md": {
+    "path": "frontend/skills/add-news/SKILL.md",
+    "kind": "skills",
+    "title": "Новая новость Sovpa",
+    "scope": "client-sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "frontend/skills/add-news/scripts/convert-images.py": {
+    "path": "frontend/skills/add-news/scripts/convert-images.py.txt",
+    "kind": "assets",
+    "title": "convert-images",
+    "scope": "client-sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "frontend/skills/create-fsd-entity/SKILL.md": {
+    "path": "frontend/skills/create-fsd-entity/SKILL.md",
+    "kind": "skills",
+    "title": "Create FSD Entity"
+  },
+  "frontend/skills/create-fsd-entity/agents/openai.yaml": {
+    "path": "frontend/skills/create-fsd-entity/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-fsd-page/SKILL.md": {
+    "path": "frontend/skills/create-fsd-page/SKILL.md",
+    "kind": "skills",
+    "title": "Create FSD Page"
+  },
+  "frontend/skills/create-fsd-page/agents/openai.yaml": {
+    "path": "frontend/skills/create-fsd-page/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-fsd-react-router-page/SKILL.md": {
+    "path": "frontend/skills/create-fsd-react-router-page/SKILL.md",
+    "kind": "skills",
+    "title": "Create FSD React Router Page"
+  },
+  "frontend/skills/create-fsd-react-router-page/agents/openai.yaml": {
+    "path": "frontend/skills/create-fsd-react-router-page/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-heroui-form-control/SKILL.md": {
+    "path": "frontend/skills/create-heroui-form-control/SKILL.md",
+    "kind": "skills",
+    "title": "Create HeroUI Form Control"
+  },
+  "frontend/skills/create-heroui-form-control/agents/openai.yaml": {
+    "path": "frontend/skills/create-heroui-form-control/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-mui-form-control/SKILL.md": {
+    "path": "frontend/skills/create-mui-form-control/SKILL.md",
+    "kind": "skills",
+    "title": "Create MUI Form Control"
+  },
+  "frontend/skills/create-mui-form-control/agents/openai.yaml": {
+    "path": "frontend/skills/create-mui-form-control/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-react-modal/SKILL.md": {
+    "path": "frontend/skills/create-react-modal/SKILL.md",
+    "kind": "skills",
+    "title": "Create React Modal"
+  },
+  "frontend/skills/create-react-modal/agents/openai.yaml": {
+    "path": "frontend/skills/create-react-modal/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-redux-saga/SKILL.md": {
+    "path": "frontend/skills/create-redux-saga/SKILL.md",
+    "kind": "skills",
+    "title": "Create Redux Saga"
+  },
+  "frontend/skills/create-redux-saga/agents/openai.yaml": {
+    "path": "frontend/skills/create-redux-saga/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-redux-slice/SKILL.md": {
+    "path": "frontend/skills/create-redux-slice/SKILL.md",
+    "kind": "skills",
+    "title": "Create Redux Slice"
+  },
+  "frontend/skills/create-redux-slice/agents/openai.yaml": {
+    "path": "frontend/skills/create-redux-slice/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-rtk-query-endpoint/SKILL.md": {
+    "path": "frontend/skills/create-rtk-query-endpoint/SKILL.md",
+    "kind": "skills",
+    "title": "Create RTK Query Endpoint"
+  },
+  "frontend/skills/create-rtk-query-endpoint/agents/openai.yaml": {
+    "path": "frontend/skills/create-rtk-query-endpoint/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/create-server-action/SKILL.md": {
+    "path": "frontend/skills/create-server-action/SKILL.md",
+    "kind": "skills",
+    "title": "Create Server Action"
+  },
+  "frontend/skills/create-server-action/agents/openai.yaml": {
+    "path": "frontend/skills/create-server-action/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/design-taste-frontend/SKILL.md": {
+    "path": "frontend/skills/design-taste-frontend/SKILL.md",
+    "kind": "skills",
+    "title": "tasteskill: Anti-Slop Frontend Skill"
+  },
+  "frontend/skills/feature-sliced-design/SKILL.md": {
+    "path": "frontend/skills/feature-sliced-design/SKILL.md",
+    "kind": "skills",
+    "title": "Feature-Sliced Design (FSD) v2.1"
+  },
+  "frontend/skills/feature-sliced-design/agents/openai.yaml": {
+    "path": "frontend/skills/feature-sliced-design/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/feature-sliced-design/references/asset-handling.md": {
+    "path": "frontend/skills/feature-sliced-design/references/asset-handling.md",
+    "kind": "references",
+    "title": "Asset Handling"
+  },
+  "frontend/skills/feature-sliced-design/references/cross-import-patterns.md": {
+    "path": "frontend/skills/feature-sliced-design/references/cross-import-patterns.md",
+    "kind": "references",
+    "title": "Cross-Import Resolution Patterns"
+  },
+  "frontend/skills/feature-sliced-design/references/excessive-entities.md": {
+    "path": "frontend/skills/feature-sliced-design/references/excessive-entities.md",
+    "kind": "references",
+    "title": "Excessive Entities"
+  },
+  "frontend/skills/feature-sliced-design/references/framework-integration.md": {
+    "path": "frontend/skills/feature-sliced-design/references/framework-integration.md",
+    "kind": "references",
+    "title": "Framework Integration"
+  },
+  "frontend/skills/feature-sliced-design/references/layer-structure.md": {
+    "path": "frontend/skills/feature-sliced-design/references/layer-structure.md",
+    "kind": "references",
+    "title": "Layer Structure Reference"
+  },
+  "frontend/skills/feature-sliced-design/references/migration-guide.md": {
+    "path": "frontend/skills/feature-sliced-design/references/migration-guide.md",
+    "kind": "references",
+    "title": "Migration Guide"
+  },
+  "frontend/skills/feature-sliced-design/references/practical-examples.md": {
+    "path": "frontend/skills/feature-sliced-design/references/practical-examples.md",
+    "kind": "references",
+    "title": "Practical Examples"
+  },
+  "frontend/skills/feature-sliced-design/upstream.json": {
+    "path": "frontend/skills/feature-sliced-design/upstream.json",
+    "kind": "assets",
+    "title": "upstream"
+  },
+  "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md": {
+    "path": "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md",
+    "kind": "skills",
+    "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)",
+    "scope": "client-sovpa",
+    "lifecycle": "project-snapshot"
+  },
+  "frontend/skills/high-end-visual-design/SKILL.md": {
+    "path": "frontend/skills/high-end-visual-design/SKILL.md",
+    "kind": "skills",
+    "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)"
+  },
+  "frontend/skills/redesign-existing-projects/SKILL.md": {
+    "path": "frontend/skills/redesign-existing-projects/SKILL.md",
+    "kind": "skills",
+    "title": "Redesign Skill"
+  },
+  "frontend/skills/zod/LICENSE": {
+    "path": "frontend/skills/zod/LICENSE",
+    "kind": "assets",
+    "title": "LICENSE"
+  },
+  "frontend/skills/zod/SKILL.md": {
+    "path": "frontend/skills/zod/SKILL.md",
+    "kind": "skills",
+    "title": "Zod 4"
+  },
+  "frontend/skills/zod/agents/openai.yaml": {
+    "path": "frontend/skills/zod/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/zod/references/api-v4.md": {
+    "path": "frontend/skills/zod/references/api-v4.md",
+    "kind": "references",
+    "title": "Zod 4 API Decisions"
+  },
+  "frontend/skills/zod/references/migration-v4.md": {
+    "path": "frontend/skills/zod/references/migration-v4.md",
+    "kind": "references",
+    "title": "Migrating to Zod 4"
+  },
+  "frontend/skills/zod/references/testing.md": {
+    "path": "frontend/skills/zod/references/testing.md",
+    "kind": "references",
+    "title": "Testing Zod Schemas"
+  },
+  "frontend/skills/zod/upstream.json": {
+    "path": "frontend/skills/zod/upstream.json",
+    "kind": "assets",
+    "title": "upstream"
+  },
+  "frontend/skills/zustand/LICENSE": {
+    "path": "frontend/skills/zustand/LICENSE",
+    "kind": "assets",
+    "title": "LICENSE"
+  },
+  "frontend/skills/zustand/SKILL.md": {
+    "path": "frontend/skills/zustand/SKILL.md",
+    "kind": "skills",
+    "title": "Zustand 5"
+  },
+  "frontend/skills/zustand/agents/openai.yaml": {
+    "path": "frontend/skills/zustand/agents/openai.yaml",
+    "kind": "assets",
+    "title": "openai"
+  },
+  "frontend/skills/zustand/references/api-v5.md": {
+    "path": "frontend/skills/zustand/references/api-v5.md",
+    "kind": "references",
+    "title": "Zustand 5 API Decisions"
+  },
+  "frontend/skills/zustand/references/migration-v5.md": {
+    "path": "frontend/skills/zustand/references/migration-v5.md",
+    "kind": "references",
+    "title": "Migrating from Zustand 4 to 5"
+  },
+  "frontend/skills/zustand/references/persistence-nextjs.md": {
+    "path": "frontend/skills/zustand/references/persistence-nextjs.md",
+    "kind": "references",
+    "title": "Zustand Persistence and Next.js"
+  },
+  "frontend/skills/zustand/references/testing.md": {
+    "path": "frontend/skills/zustand/references/testing.md",
+    "kind": "references",
+    "title": "Testing Zustand Stores"
+  },
+  "frontend/skills/zustand/upstream.json": {
+    "path": "frontend/skills/zustand/upstream.json",
+    "kind": "assets",
+    "title": "upstream"
+  }
+}

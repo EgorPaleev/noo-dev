@@ -1,0 +1,31 @@
+{
+  "type": "refactor",
+  "title": "Рефакторинг",
+  "inputs": [
+    "change-request"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "engineering/rules/plan-change.md",
+      "load": "default",
+      "path": "engineering/rules/plan-change.md",
+      "kind": "rules",
+      "title": "plan-change"
+    },
+    {
+      "id": "engineering/rules/verify-change.md",
+      "load": "default",
+      "path": "engineering/rules/verify-change.md",
+      "kind": "rules",
+      "title": "verify-change"
+    },
+    {
+      "id": "frontend/rules/core/code-quality.md",
+      "load": "default",
+      "path": "frontend/rules/core/code-quality.md",
+      "kind": "rules",
+      "title": "Code Quality"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "backend/references/go/architecture/architecture.md": {
+    "path": "backend/references/go/architecture/architecture.md",
+    "kind": "references",
+    "title": "Architecture",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "backend/references/go/context/context.md": {
+    "path": "backend/references/go/context/context.md",
+    "kind": "references",
+    "title": "Context",
+    "scope": "nootinder-api",
+    "lifecycle": "project-snapshot"
+  },
+  "backend/references/go/conventions/conventions.md": {
+    "path": "backend/references/go/conventions/conventions.md",
+    "kind": "references",
+    "title": "Conventions",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "backend/references/go/testing-security/verification.md": {
+    "path": "backend/references/go/testing-security/verification.md",
+    "kind": "references",
+    "title": "Verification",
+    "scope": "noosoft",
+    "lifecycle": "historical"
+  },
+  "backend/references/nest/docs/recipes/CONFIGURATION.md": {
+    "path": "backend/references/nest/docs/recipes/CONFIGURATION.md",
+    "kind": "references",
+    "title": "Конфигурация"
+  },
+  "backend/references/nest/docs/recipes/CONTROLLERS.md": {
+    "path": "backend/references/nest/docs/recipes/CONTROLLERS.md",
+    "kind": "references",
+    "title": "Controllers"
+  },
+  "backend/references/nest/docs/recipes/EVENTS.md": {
+    "path": "backend/references/nest/docs/recipes/EVENTS.md",
+    "kind": "references",
+    "title": "Event listeners"
+  },
+  "backend/references/nest/docs/recipes/EXTERNAL-INTEGRATIONS.md": {
+    "path": "backend/references/nest/docs/recipes/EXTERNAL-INTEGRATIONS.md",
+    "kind": "references",
+    "title": "Интеграции с внешними сервисами"
+  },
+  "backend/references/nest/docs/recipes/GUARDS.md": {
+    "path": "backend/references/nest/docs/recipes/GUARDS.md",
+    "kind": "references",
+    "title": "Guards и декораторы доступа"
+  },
+  "backend/references/nest/docs/recipes/INTERCEPTORS.md": {
+    "path": "backend/references/nest/docs/recipes/INTERCEPTORS.md",
+    "kind": "references",
+    "title": "Глобальные interceptor'ы"
+  },
+  "backend/references/nest/docs/recipes/PAGINATION.md": {
+    "path": "backend/references/nest/docs/recipes/PAGINATION.md",
+    "kind": "references",
+    "title": "Пагинация и общие DTO"
+  },
+  "backend/references/nest/docs/recipes/PRISMA.md": {
+    "path": "backend/references/nest/docs/recipes/PRISMA.md",
+    "kind": "references",
+    "title": "Работа с Prisma"
+  },
+  "backend/references/nest/docs/recipes/REDIS.md": {
+    "path": "backend/references/nest/docs/recipes/REDIS.md",
+    "kind": "references",
+    "title": "Redis"
+  },
+  "backend/references/nest/docs/recipes/REQUEST-CONTEXT.md": {
+    "path": "backend/references/nest/docs/recipes/REQUEST-CONTEXT.md",
+    "kind": "references",
+    "title": "Request context через AsyncLocalStorage"
+  },
+  "backend/references/nest/docs/recipes/VALIDATORS.md": {
+    "path": "backend/references/nest/docs/recipes/VALIDATORS.md",
+    "kind": "references",
+    "title": "Кастомные class-validator constraint'ы"
+  },
+  "backend/references/nest/docs/testing-security/TESTING.md": {
+    "path": "backend/references/nest/docs/testing-security/TESTING.md",
+    "kind": "references",
+    "title": "Тестирование"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Manrope-OFL.txt": {
+    "path": "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Manrope-OFL.txt",
+    "kind": "assets",
+    "title": "Manrope-OFL",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Roboto-OFL.txt": {
+    "path": "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Roboto-OFL.txt",
+    "kind": "assets",
+    "title": "Roboto-OFL",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png": {
+    "path": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png",
+    "kind": "assets",
+    "title": "01-modules-and-kmp",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png": {
+    "path": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png",
+    "kind": "assets",
+    "title": "02-feature-layers",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png": {
+    "path": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png",
+    "kind": "assets",
+    "title": "03-stack-offline-multitenant",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  }
+}

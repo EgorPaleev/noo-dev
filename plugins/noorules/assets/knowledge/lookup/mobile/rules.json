@@ -1,0 +1,45 @@
+{
+  "mobile/rules/deep-link.md": {
+    "path": "mobile/rules/deep-link.md",
+    "kind": "rules",
+    "title": "Вход в приложение по ссылке"
+  },
+  "mobile/rules/kmp/project-boundaries.md": {
+    "path": "mobile/rules/kmp/project-boundaries.md",
+    "kind": "rules",
+    "title": "Kotlin Multiplatform и границы модулей"
+  },
+  "mobile/rules/offline-state.md": {
+    "path": "mobile/rules/offline-state.md",
+    "kind": "rules",
+    "title": "Мобильное состояние вне сети"
+  },
+  "mobile/rules/projects/nootinder-mobile/.cursor/rules/kmp-agent.mdc": {
+    "path": "mobile/rules/projects/nootinder-mobile/.cursor/rules/kmp-agent.mdc",
+    "kind": "rules",
+    "title": "sovpa agent rules",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/rules/projects/nootinder-mobile/.cursorrules": {
+    "path": "mobile/rules/projects/nootinder-mobile/.cursorrules",
+    "kind": "rules",
+    "title": ".cursorrules",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/rules/projects/nootinder-mobile/CLAUDE.md": {
+    "path": "mobile/rules/projects/nootinder-mobile/CLAUDE.md",
+    "kind": "rules",
+    "title": "CLAUDE.md",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md": {
+    "path": "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md",
+    "kind": "rules",
+    "title": "AGENT.md",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  }
+}

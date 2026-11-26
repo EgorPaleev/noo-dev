@@ -1,0 +1,17 @@
+{
+  "product/workflows/discovery-and-analysis.md": {
+    "path": "product/workflows/discovery-and-analysis.md",
+    "kind": "workflows",
+    "title": "Проработка проекта и анализ кейсов"
+  },
+  "product/workflows/prototyping.md": {
+    "path": "product/workflows/prototyping.md",
+    "kind": "workflows",
+    "title": "Прототипирование"
+  },
+  "product/workflows/quality-and-release.md": {
+    "path": "product/workflows/quality-and-release.md",
+    "kind": "workflows",
+    "title": "Проверка, приёмка и выпуск"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "site-news",
+  "title": "Новость на сайте",
+  "inputs": [
+    "news-content"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "frontend/skills/add-news/SKILL.md",
+      "load": "on-demand",
+      "path": "frontend/skills/add-news/SKILL.md",
+      "kind": "skills",
+      "title": "Новая новость Sovpa",
+      "scope": "client-sovpa",
+      "lifecycle": "project-snapshot"
+    }
+  ]
+}

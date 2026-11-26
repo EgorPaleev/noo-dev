@@ -1,0 +1,21 @@
+{
+  "type": "frontend-entity",
+  "title": "Сущность FSD",
+  "inputs": [
+    "functional-case"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "frontend/skills/create-fsd-entity/SKILL.md",
+      "allPresets": [
+        "react",
+        "fsd"
+      ],
+      "load": "on-demand",
+      "path": "frontend/skills/create-fsd-entity/SKILL.md",
+      "kind": "skills",
+      "title": "Create FSD Entity"
+    }
+  ]
+}

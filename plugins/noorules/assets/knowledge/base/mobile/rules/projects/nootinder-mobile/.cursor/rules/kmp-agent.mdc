@@ -1,0 +1,25 @@
+---
+description: KMP + Compose Multiplatform agent rules for sovpa
+alwaysApply: true
+---
+
+# sovpa agent rules
+
+Read and strictly follow `docs/AGENTS.md`. Also use `docs/architecture.md` and `docs/commands.md`.
+
+This is a **Kotlin Multiplatform + Compose Multiplatform** project (Android + iOS). Architecture is still evolving — prefer small, safe changes. Do not assume Android-only patterns in `commonMain`.
+
+## Critical rules
+
+- No Android-only or iOS-only APIs in `commonMain`.
+- Update all `expect`/`actual` implementations together.
+- Do not add dependencies or change Kotlin/Compose/Gradle/AGP versions without confirmation.
+- Versions only via `gradle/libs.versions.toml`.
+- Prefer `./scripts/check-fast.sh` or targeted tasks; avoid `./gradlew build` and `clean` by default.
+- After changes, run relevant tests and report results.
+- If iOS cannot be built/tested here, mark iOS as unverified.
+- Do not delete failing tests.
+- Do not introduce heavy architecture changes without approval.
+- Reference feature for full vertical slices: `feature-auth-api` / `feature-auth-impl`.
+- Do not commit secrets, `local.properties`, keystores, or API keys.
+- Do not add code comments or KDoc, even if nearby code has them; leave existing comments untouched unless asked.

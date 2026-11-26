@@ -1,0 +1,7 @@
+interface:
+  display_name: "Create RTK Query Endpoint"
+  short_description: "Создать endpoint RTK Query"
+  default_prompt: "Use $create-rtk-query-endpoint to add an RTK Query endpoint with project-aligned transport, caching and invalidation."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,29 @@
+{
+  "type": "git-convention",
+  "title": "Соглашения об оформлении коммитов",
+  "inputs": [],
+  "output": "commit-conventions",
+  "materials": [
+    {
+      "id": "git/rules/conventional-header.md",
+      "load": "default",
+      "path": "git/rules/conventional-header.md",
+      "kind": "rules",
+      "title": "Формат заголовка Conventional Commits"
+    },
+    {
+      "id": "git/rules/breaking-change.md",
+      "load": "default",
+      "path": "git/rules/breaking-change.md",
+      "kind": "rules",
+      "title": "Несовместимое изменение"
+    },
+    {
+      "id": "git/rules/body-and-trailers.md",
+      "load": "default",
+      "path": "git/rules/body-and-trailers.md",
+      "kind": "rules",
+      "title": "Тело и подвал сообщения"
+    }
+  ]
+}

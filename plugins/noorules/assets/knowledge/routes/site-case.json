@@ -1,0 +1,19 @@
+{
+  "type": "site-case",
+  "title": "Кейс на сайте",
+  "inputs": [
+    "case-content"
+  ],
+  "output": "change-set",
+  "materials": [
+    {
+      "id": "frontend/skills/add-case/SKILL.md",
+      "load": "on-demand",
+      "path": "frontend/skills/add-case/SKILL.md",
+      "kind": "skills",
+      "title": "Новый кейс Sovpa",
+      "scope": "client-sovpa",
+      "lifecycle": "project-snapshot"
+    }
+  ]
+}

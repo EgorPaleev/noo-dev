@@ -1,0 +1,149 @@
+{
+  "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md",
+    "kind": "references",
+    "title": "0001. Modular feature api/impl split",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md",
+    "kind": "references",
+    "title": "0002. Feature layered architecture (Presentation / Domain / Data)",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0003-offline-first.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0003-offline-first.md",
+    "kind": "references",
+    "title": "0003. Offline-First data strategy",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0004-multi-tenant-theming.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0004-multi-tenant-theming.md",
+    "kind": "references",
+    "title": "0004. Multi-tenant theming and feature flags",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0005-feature-news-module.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0005-feature-news-module.md",
+    "kind": "references",
+    "title": "0005. Feature News module (лента новостей саммита)",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0006-localization-strings.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0006-localization-strings.md",
+    "kind": "references",
+    "title": "0006. Локализация: строковые ресурсы, UiText и StringProvider",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0007-summit-chat-socket.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0007-summit-chat-socket.md",
+    "kind": "references",
+    "title": "0007. Сокет чатов на уровне саммита",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0008-call-sign-in.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0008-call-sign-in.md",
+    "kind": "references",
+    "title": "0008. Вход звонком через /api/auth/otp",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0009-summit-profile-bio-cache.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0009-summit-profile-bio-cache.md",
+    "kind": "references",
+    "title": "ADR 0009: Хранение описания участника саммита",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0010-program-type-cache.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0010-program-type-cache.md",
+    "kind": "references",
+    "title": "ADR 0010: Типы программы из API в фильтрах и кеше",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/0011-connectivity-recovery.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/0011-connectivity-recovery.md",
+    "kind": "references",
+    "title": "ADR 0011: Общий статус подключения и обновление после восстановления сети",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/adr/README.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/adr/README.md",
+    "kind": "references",
+    "title": "Architecture Decision Records (ADR)",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/architecture.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
+    "kind": "references",
+    "title": "Architecture",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/cache-improvement-proposal.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/cache-improvement-proposal.md",
+    "kind": "references",
+    "title": "Предложение по кешу",
+    "scope": "nootinder-mobile",
+    "lifecycle": "historical"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/commands.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/commands.md",
+    "kind": "references",
+    "title": "Commands",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md",
+    "kind": "references",
+    "title": "Offline-First: сеть → Room → UI",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/deeplinks.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/deeplinks.md",
+    "kind": "references",
+    "title": "Диплинки",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/implementation-progress.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/implementation-progress.md",
+    "kind": "references",
+    "title": "Прогресс приведения мобильного приложения к PWA",
+    "scope": "nootinder-mobile",
+    "lifecycle": "historical"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
+    "kind": "references",
+    "title": "Как проверять мобильное приложение",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/prompts/README.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/prompts/README.md",
+    "kind": "references",
+    "title": "Automation prompts",
+    "scope": "nootinder-mobile",
+    "lifecycle": "project-snapshot"
+  },
+  "mobile/references/projects/nootinder-mobile/docs/pwa-parity-audit.md": {
+    "path": "mobile/references/projects/nootinder-mobile/docs/pwa-parity-audit.md",
+    "kind": "references",
+    "title": "Соответствие мобильного приложения PWA",
+    "scope": "nootinder-mobile",
+    "lifecycle": "historical"
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Create Redux Slice"
+  short_description: "Создать Redux Toolkit slice"
+  default_prompt: "Use $create-redux-slice to add a typed Redux Toolkit slice that follows the project's state ownership and store conventions."
+
+policy:
+  allow_implicit_invocation: true

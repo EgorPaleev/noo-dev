@@ -1,0 +1,41 @@
+{
+  "type": "adr",
+  "title": "Архитектурное решение",
+  "inputs": [
+    "decision-evidence"
+  ],
+  "output": "architecture-decision",
+  "materials": [
+    {
+      "id": "engineering/templates/adr.md",
+      "load": "default",
+      "path": "engineering/templates/adr.md",
+      "kind": "templates",
+      "title": "Шаблон ADR"
+    },
+    {
+      "id": "engineering/checklists/documentation-ready.md",
+      "load": "default",
+      "path": "engineering/checklists/documentation-ready.md",
+      "kind": "checklists",
+      "title": "Проверка проектной документации"
+    },
+    {
+      "id": "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md",
+      "load": "on-demand",
+      "projectPath": "docs/adr/0000-template.md",
+      "path": "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md",
+      "kind": "templates",
+      "title": "NNNN. Title",
+      "scope": "nootinder-mobile",
+      "lifecycle": "project-snapshot"
+    },
+    {
+      "id": "engineering/rules/decision-history.md",
+      "load": "default",
+      "path": "engineering/rules/decision-history.md",
+      "kind": "rules",
+      "title": "История ADR"
+    }
+  ]
+}

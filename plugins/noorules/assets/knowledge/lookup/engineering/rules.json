@@ -1,0 +1,77 @@
+{
+  "engineering/rules/decision-history.md": {
+    "path": "engineering/rules/decision-history.md",
+    "kind": "rules",
+    "title": "История ADR"
+  },
+  "engineering/rules/follow-nest-module-patterns.md": {
+    "path": "engineering/rules/follow-nest-module-patterns.md",
+    "kind": "rules",
+    "title": "follow-nest-module-patterns"
+  },
+  "engineering/rules/follow-route-structure.md": {
+    "path": "engineering/rules/follow-route-structure.md",
+    "kind": "rules",
+    "title": "follow-route-structure"
+  },
+  "engineering/rules/ground-handoff.md": {
+    "path": "engineering/rules/ground-handoff.md",
+    "kind": "rules",
+    "title": "ground-handoff"
+  },
+  "engineering/rules/keep-http-contracts-in-sync.md": {
+    "path": "engineering/rules/keep-http-contracts-in-sync.md",
+    "kind": "rules",
+    "title": "keep-http-contracts-in-sync"
+  },
+  "engineering/rules/model-routing.md": {
+    "path": "engineering/rules/model-routing.md",
+    "kind": "rules",
+    "title": "Выбор модели по задаче"
+  },
+  "engineering/rules/plan-change.md": {
+    "path": "engineering/rules/plan-change.md",
+    "kind": "rules",
+    "title": "plan-change"
+  },
+  "engineering/rules/preserve-go-boundaries.md": {
+    "path": "engineering/rules/preserve-go-boundaries.md",
+    "kind": "rules",
+    "title": "preserve-go-boundaries"
+  },
+  "engineering/rules/project-facts.md": {
+    "path": "engineering/rules/project-facts.md",
+    "kind": "rules",
+    "title": "Происхождение фактов"
+  },
+  "engineering/rules/respect-app-router.md": {
+    "path": "engineering/rules/respect-app-router.md",
+    "kind": "rules",
+    "title": "respect-app-router"
+  },
+  "engineering/rules/trace-requirements.md": {
+    "path": "engineering/rules/trace-requirements.md",
+    "kind": "rules",
+    "title": "trace-requirements"
+  },
+  "engineering/rules/use-project-ui.md": {
+    "path": "engineering/rules/use-project-ui.md",
+    "kind": "rules",
+    "title": "use-project-ui"
+  },
+  "engineering/rules/verify-change.md": {
+    "path": "engineering/rules/verify-change.md",
+    "kind": "rules",
+    "title": "verify-change"
+  },
+  "engineering/rules/verify-prototype.md": {
+    "path": "engineering/rules/verify-prototype.md",
+    "kind": "rules",
+    "title": "verify-prototype"
+  },
+  "engineering/rules/verify-schema-changes.md": {
+    "path": "engineering/rules/verify-schema-changes.md",
+    "kind": "rules",
+    "title": "verify-schema-changes"
+  }
+}

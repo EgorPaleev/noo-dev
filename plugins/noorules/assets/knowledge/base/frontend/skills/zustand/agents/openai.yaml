@@ -1,0 +1,7 @@
+interface:
+  display_name: "Zustand 5"
+  short_description: "Разработка и проверка Zustand stores"
+  default_prompt: "Use $zustand to create or update a Zustand 5 store using the installed API and the project's state-management conventions."
+
+policy:
+  allow_implicit_invocation: true

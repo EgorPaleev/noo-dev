@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create FSD React Router Page"
+  short_description: "Создать FSD-страницу для React Router"
+  default_prompt: "Use $create-fsd-react-router-page to add an FSD page and register its React Router route."

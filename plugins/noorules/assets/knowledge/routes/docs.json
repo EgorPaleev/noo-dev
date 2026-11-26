@@ -1,0 +1,41 @@
+{
+  "type": "docs",
+  "title": "Документация проекта",
+  "inputs": [
+    "project-evidence"
+  ],
+  "output": "project-documentation",
+  "materials": [
+    {
+      "id": "engineering/checklists/documentation-ready.md",
+      "load": "default",
+      "path": "engineering/checklists/documentation-ready.md",
+      "kind": "checklists",
+      "title": "Проверка проектной документации"
+    },
+    {
+      "id": "frontend/rules/core/documentation.md",
+      "load": "default",
+      "path": "frontend/rules/core/documentation.md",
+      "kind": "rules",
+      "title": "Documentation Maintenance"
+    },
+    {
+      "id": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
+      "load": "on-demand",
+      "projectPath": "docs/architecture.md",
+      "path": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
+      "kind": "references",
+      "title": "Architecture",
+      "scope": "nootinder-mobile",
+      "lifecycle": "project-snapshot"
+    },
+    {
+      "id": "engineering/rules/project-facts.md",
+      "load": "default",
+      "path": "engineering/rules/project-facts.md",
+      "kind": "rules",
+      "title": "Происхождение фактов"
+    }
+  ]
+}
