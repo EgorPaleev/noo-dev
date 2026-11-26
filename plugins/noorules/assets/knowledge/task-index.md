@@ -2,8 +2,8 @@
 
 - [discovery](routes/discovery.json) · Проработка проекта
 - [analysis](routes/analysis.json) · Анализ функционального кейса
-- [prototype](routes/prototype.json) · Прототипирование
 - [implementation-plan](routes/implementation-plan.json) · План разработки
+- [working-branch](routes/working-branch.json) · Подготовка рабочей ветки
 - [feature](routes/feature.json) · Реализация функции
 - [bugfix](routes/bugfix.json) · Исправление бага
 - [refactor](routes/refactor.json) · Рефакторинг

@@ -1,6 +1,11 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "tasks": {
+    "working-branch": {
+      "skill": "noo-branch",
+      "inputs": [],
+      "output": "working-branch"
+    },
     "discovery": {
       "skill": "noo-clarify",
       "inputs": [
@@ -14,13 +19,6 @@
         "project-brief"
       ],
       "output": "functional-case"
-    },
-    "prototype": {
-      "skill": "noo-prototype",
-      "inputs": [
-        "functional-case"
-      ],
-      "output": "prototype"
     },
     "implementation-plan": {
       "skill": "noo-spec",
@@ -210,13 +208,23 @@
   "pipelines": {
     "product-change": [
       {
+        "skill": "noo-branch",
+        "inputs": [],
+        "output": "working-branch",
+        "id": "prepare-branch",
+        "task": "working-branch"
+      },
+      {
         "skill": "noo-clarify",
         "inputs": [
           "request"
         ],
         "output": "project-brief",
         "id": "discovery",
-        "task": "discovery"
+        "task": "discovery",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-clarify",
@@ -225,16 +233,10 @@
         ],
         "output": "functional-case",
         "id": "analysis",
-        "task": "analysis"
-      },
-      {
-        "skill": "noo-prototype",
-        "inputs": [
-          "functional-case"
-        ],
-        "output": "prototype",
-        "id": "prototype",
-        "task": "prototype"
+        "task": "analysis",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-spec",
@@ -245,7 +247,7 @@
           "prototype"
         ],
         "dependsOn": [
-          "prototype"
+          "prepare-branch"
         ],
         "output": "implementation-plan",
         "id": "plan",
@@ -258,7 +260,10 @@
         ],
         "output": "change-set",
         "id": "implement",
-        "task": "feature"
+        "task": "feature",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-test",
@@ -268,7 +273,10 @@
         ],
         "output": "verification-report",
         "id": "verify",
-        "task": "test"
+        "task": "test",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-review",
@@ -279,6 +287,7 @@
           "verification-report"
         ],
         "dependsOn": [
+          "prepare-branch",
           "verify"
         ],
         "output": "review-report",
@@ -294,7 +303,10 @@
         ],
         "output": "qa-report",
         "id": "qa",
-        "task": "qa"
+        "task": "qa",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-delivery",
@@ -304,7 +316,10 @@
         ],
         "output": "acceptance-decision",
         "id": "acceptance",
-        "task": "acceptance"
+        "task": "acceptance",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-delivery",
@@ -314,7 +329,10 @@
         ],
         "output": "release-package",
         "id": "release",
-        "task": "release"
+        "task": "release",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       }
     ],
     "review-only": [
@@ -333,6 +351,13 @@
     ],
     "delivery": [
       {
+        "skill": "noo-branch",
+        "inputs": [],
+        "output": "working-branch",
+        "id": "prepare-branch",
+        "task": "working-branch"
+      },
+      {
         "skill": "noo-spec",
         "inputs": [
           "functional-case"
@@ -342,7 +367,10 @@
         ],
         "output": "implementation-plan",
         "id": "plan",
-        "task": "implementation-plan"
+        "task": "implementation-plan",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-implement",
@@ -351,7 +379,10 @@
         ],
         "output": "change-set",
         "id": "implement",
-        "task": "feature"
+        "task": "feature",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-test",
@@ -361,7 +392,10 @@
         ],
         "output": "verification-report",
         "id": "verify",
-        "task": "test"
+        "task": "test",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "skill": "noo-review",
@@ -372,6 +406,7 @@
           "verification-report"
         ],
         "dependsOn": [
+          "prepare-branch",
           "verify"
         ],
         "output": "review-report",
