@@ -2,7 +2,9 @@
   "type": "implementation-plan",
   "title": "План разработки",
   "inputs": [
-    "functional-case",
+    "functional-case"
+  ],
+  "optionalInputs": [
     "prototype"
   ],
   "output": "implementation-plan",

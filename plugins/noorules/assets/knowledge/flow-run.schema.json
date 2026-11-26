@@ -55,6 +55,7 @@
         "task": {"$ref": "#/$defs/id"},
         "skill": {"$ref": "#/$defs/id"},
         "inputs": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/id"}},
+        "optionalInputs": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/id"}},
         "dependsOn": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/id"}},
         "output": {"$ref": "#/$defs/id"},
         "status": {"enum": ["pending", "waiting", "completed", "stale"]},

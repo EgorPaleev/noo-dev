@@ -2,7 +2,9 @@
   "type": "code-review",
   "title": "Ревью кода",
   "inputs": [
-    "change-set",
+    "change-set"
+  ],
+  "optionalInputs": [
     "verification-report"
   ],
   "output": "review-report",

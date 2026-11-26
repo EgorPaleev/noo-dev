@@ -1,5 +1,5 @@
 {
-  "version": "0.4.6",
+  "version": "0.4.7",
   "tasks": {
     "discovery": {
       "skill": "noo-clarify",
@@ -25,7 +25,9 @@
     "implementation-plan": {
       "skill": "noo-spec",
       "inputs": [
-        "functional-case",
+        "functional-case"
+      ],
+      "optionalInputs": [
         "prototype"
       ],
       "output": "implementation-plan"
@@ -153,7 +155,9 @@
     "code-review": {
       "skill": "noo-review",
       "inputs": [
-        "change-set",
+        "change-set"
+      ],
+      "optionalInputs": [
         "verification-report"
       ],
       "output": "review-report"
@@ -235,7 +239,12 @@
       {
         "skill": "noo-spec",
         "inputs": [
-          "functional-case",
+          "functional-case"
+        ],
+        "optionalInputs": [
+          "prototype"
+        ],
+        "dependsOn": [
           "prototype"
         ],
         "output": "implementation-plan",
@@ -264,8 +273,13 @@
       {
         "skill": "noo-review",
         "inputs": [
-          "change-set",
+          "change-set"
+        ],
+        "optionalInputs": [
           "verification-report"
+        ],
+        "dependsOn": [
+          "verify"
         ],
         "output": "review-report",
         "id": "review",
@@ -309,6 +323,9 @@
         "inputs": [
           "change-set"
         ],
+        "optionalInputs": [
+          "verification-report"
+        ],
         "output": "review-report",
         "id": "review",
         "task": "code-review"
@@ -319,6 +336,9 @@
         "skill": "noo-spec",
         "inputs": [
           "functional-case"
+        ],
+        "optionalInputs": [
+          "prototype"
         ],
         "output": "implementation-plan",
         "id": "plan",
@@ -346,8 +366,13 @@
       {
         "skill": "noo-review",
         "inputs": [
-          "change-set",
+          "change-set"
+        ],
+        "optionalInputs": [
           "verification-report"
+        ],
+        "dependsOn": [
+          "verify"
         ],
         "output": "review-report",
         "id": "review",

@@ -317,7 +317,12 @@
       {
         "id": "plan",
         "inputs": [
-          "functional-case",
+          "functional-case"
+        ],
+        "optionalInputs": [
+          "prototype"
+        ],
+        "dependsOn": [
           "prototype"
         ],
         "output": "implementation-plan",
@@ -343,8 +348,13 @@
       {
         "id": "review",
         "inputs": [
-          "change-set",
+          "change-set"
+        ],
+        "optionalInputs": [
           "verification-report"
+        ],
+        "dependsOn": [
+          "verify"
         ],
         "output": "review-report",
         "task": "code-review"
