@@ -1,11 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.0",
+  "version": "0.6.0",
   "presets": {
     "core": {
       "rules": [
         "trace-requirements",
-        "verify-prototype",
         "plan-change",
         "verify-change",
         "ground-handoff"
@@ -188,7 +187,6 @@
     },
     "use-project-ui": {
       "stages": [
-        "prototype",
         "plan",
         "implement",
         "review"
@@ -269,15 +267,6 @@
         "product/workflows/discovery-and-analysis.md"
       ]
     },
-    "verify-prototype": {
-      "stages": [
-        "prototype"
-      ],
-      "material": "engineering/rules/verify-prototype.md",
-      "readNext": [
-        "product/workflows/prototyping.md"
-      ]
-    },
     "respect-kmp-boundaries": {
       "stages": [
         "plan",
@@ -291,12 +280,21 @@
   "pipelines": {
     "product-change": [
       {
+        "id": "prepare-branch",
+        "inputs": [],
+        "output": "working-branch",
+        "task": "working-branch"
+      },
+      {
         "id": "discovery",
         "inputs": [
           "request"
         ],
         "output": "project-brief",
-        "task": "discovery"
+        "task": "discovery",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "id": "analysis",
@@ -304,15 +302,10 @@
           "project-brief"
         ],
         "output": "functional-case",
-        "task": "analysis"
-      },
-      {
-        "id": "prototype",
-        "inputs": [
-          "functional-case"
-        ],
-        "output": "prototype",
-        "task": "prototype"
+        "task": "analysis",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "id": "plan",
@@ -322,11 +315,11 @@
         "optionalInputs": [
           "prototype"
         ],
-        "dependsOn": [
-          "prototype"
-        ],
         "output": "implementation-plan",
-        "task": "implementation-plan"
+        "task": "implementation-plan",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "id": "implement",
@@ -334,7 +327,10 @@
           "implementation-plan"
         ],
         "output": "change-set",
-        "task": "feature"
+        "task": "feature",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "id": "verify",
@@ -343,7 +339,10 @@
           "change-set"
         ],
         "output": "verification-report",
-        "task": "test"
+        "task": "test",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "id": "review",
@@ -354,6 +353,7 @@
           "verification-report"
         ],
         "dependsOn": [
+          "prepare-branch",
           "verify"
         ],
         "output": "review-report",
@@ -367,7 +367,10 @@
           "review-report"
         ],
         "output": "qa-report",
-        "task": "qa"
+        "task": "qa",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "id": "acceptance",
@@ -376,7 +379,10 @@
           "qa-report"
         ],
         "output": "acceptance-decision",
-        "task": "acceptance"
+        "task": "acceptance",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       },
       {
         "id": "release",
@@ -385,7 +391,10 @@
           "acceptance-decision"
         ],
         "output": "release-package",
-        "task": "release"
+        "task": "release",
+        "dependsOn": [
+          "prepare-branch"
+        ]
       }
     ]
   },
@@ -393,6 +402,7 @@
     "0.1.0",
     "0.2.0",
     "0.3.0",
-    "0.4.0"
+    "0.4.0",
+    "0.5.0"
   ]
 }
