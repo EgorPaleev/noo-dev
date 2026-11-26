@@ -21,16 +21,6 @@
       "title": "Documentation Maintenance"
     },
     {
-      "id": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-      "load": "on-demand",
-      "projectPath": "docs/architecture.md",
-      "path": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-      "kind": "references",
-      "title": "Architecture",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
-    },
-    {
       "id": "engineering/rules/project-facts.md",
       "load": "default",
       "path": "engineering/rules/project-facts.md",

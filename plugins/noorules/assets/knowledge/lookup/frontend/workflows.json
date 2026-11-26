@@ -84,6 +84,11 @@
     "kind": "workflows",
     "title": "Code Review"
   },
+  "frontend/workflows/publishing-site-content.md": {
+    "path": "frontend/workflows/publishing-site-content.md",
+    "kind": "workflows",
+    "title": "Публикация контента на сайте"
+  },
   "frontend/workflows/rule-discovery.md": {
     "path": "frontend/workflows/rule-discovery.md",
     "kind": "workflows",

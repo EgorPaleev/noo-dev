@@ -33,16 +33,6 @@
       "title": "Проверки мобильной фичи"
     },
     {
-      "id": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
-      "load": "on-demand",
-      "projectPath": "docs/mobile-testing.md",
-      "path": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
-      "kind": "references",
-      "title": "Как проверять мобильное приложение",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
-    },
-    {
       "id": "engineering/checklists/test-evidence.md",
       "load": "default",
       "path": "engineering/checklists/test-evidence.md",

@@ -19,25 +19,6 @@
       "path": "product/workflows/prototyping.md",
       "kind": "workflows",
       "title": "Прототипирование"
-    },
-    {
-      "id": "product/skills/product-prototyping/SKILL.md",
-      "load": "on-demand",
-      "projectPath": "skills/product-prototyping/SKILL.md",
-      "path": "product/skills/product-prototyping/SKILL.md",
-      "kind": "skills",
-      "title": "Продуктовые прототипы",
-      "scope": "noolink",
-      "lifecycle": "project-snapshot"
-    },
-    {
-      "id": "product/skills/sovpa-prototype-design/SKILL.md",
-      "load": "on-demand",
-      "path": "product/skills/sovpa-prototype-design/SKILL.md",
-      "kind": "skills",
-      "title": "Прототипирование и дизайн",
-      "scope": "sovpa",
-      "lifecycle": "project-snapshot"
     }
   ]
 }

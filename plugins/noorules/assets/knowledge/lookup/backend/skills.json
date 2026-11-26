@@ -1,52 +1,17 @@
 {
-  "backend/skills/add-env-var-variant-ac9400f4/SKILL.md": {
-    "path": "backend/skills/add-env-var-variant-ac9400f4/SKILL.md",
-    "kind": "skills",
-    "title": "Добавление переменной окружения",
-    "scope": "legacy",
-    "lifecycle": "historical"
-  },
   "backend/skills/add-env-var/SKILL.md": {
     "path": "backend/skills/add-env-var/SKILL.md",
     "kind": "skills",
     "title": "Добавление переменной окружения"
-  },
-  "backend/skills/new-module-variant-39d8f6e0/SKILL.md": {
-    "path": "backend/skills/new-module-variant-39d8f6e0/SKILL.md",
-    "kind": "skills",
-    "title": "Новый доменный модуль",
-    "scope": "legacy",
-    "lifecycle": "historical"
   },
   "backend/skills/new-module/SKILL.md": {
     "path": "backend/skills/new-module/SKILL.md",
     "kind": "skills",
     "title": "Новый доменный модуль"
   },
-  "backend/skills/review-conventions-variant-0e659378/SKILL.md": {
-    "path": "backend/skills/review-conventions-variant-0e659378/SKILL.md",
-    "kind": "skills",
-    "title": "Чек-лист конвенций стартер-пака",
-    "scope": "legacy",
-    "lifecycle": "historical"
-  },
   "backend/skills/review-conventions/SKILL.md": {
     "path": "backend/skills/review-conventions/SKILL.md",
     "kind": "skills",
     "title": "Чек-лист конвенций стартер-пака"
-  },
-  "backend/skills/sovpa-backend-change/SKILL.md": {
-    "path": "backend/skills/sovpa-backend-change/SKILL.md",
-    "kind": "skills",
-    "title": "Изменение бэкенда Sovpa",
-    "scope": "nootinder-api",
-    "lifecycle": "project-snapshot"
-  },
-  "backend/skills/sovpa-backend-change/references/project-context.md": {
-    "path": "backend/skills/sovpa-backend-change/references/project-context.md",
-    "kind": "references",
-    "title": "Контекст реального проекта",
-    "scope": "nootinder-api",
-    "lifecycle": "project-snapshot"
   }
 }

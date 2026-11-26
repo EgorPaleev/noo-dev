@@ -105,8 +105,6 @@
     "frontend/skills/typescript/libraries/zod/references/migration-v4.md": "frontend/skills/zod/references/migration-v4.md",
     "frontend/skills/typescript/libraries/zod/references/testing.md": "frontend/skills/zod/references/testing.md",
     "frontend/skills/typescript/libraries/zod/upstream.json": "frontend/skills/zod/upstream.json",
-    "frontend/skills/utils/commit/SKILL.md": "git/skills/commit/SKILL.md",
-    "frontend/skills/utils/commit/agents/openai.yaml": "git/skills/commit/agents/openai.yaml",
     "frontend/skills/utils/review-changes/SKILL.md": "engineering/skills/review-changes/SKILL.md",
     "frontend/skills/utils/review-changes/agents/openai.yaml": "engineering/skills/review-changes/agents/openai.yaml",
     "frontend/stacks/heroui/components.md": "frontend/rules/stacks/heroui/components.md",
@@ -157,16 +155,6 @@
     "frontend/workflows/code-review.md": "frontend/workflows/code-review.md",
     "frontend/workflows/rule-discovery.md": "frontend/workflows/rule-discovery.md",
     "mobile/kmp/project-boundaries.md": "mobile/rules/kmp/project-boundaries.md",
-    "mobile/references/projects/nootinder-mobile/.cursor/rules/kmp-agent.mdc": "mobile/rules/projects/nootinder-mobile/.cursor/rules/kmp-agent.mdc",
-    "mobile/references/projects/nootinder-mobile/.cursorrules": "mobile/rules/projects/nootinder-mobile/.cursorrules",
-    "mobile/references/projects/nootinder-mobile/CLAUDE.md": "mobile/rules/projects/nootinder-mobile/CLAUDE.md",
-    "mobile/references/projects/nootinder-mobile/docs/AGENTS.md": "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md",
-    "mobile/references/projects/nootinder-mobile/docs/adr/0000-template.md": "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md",
-    "mobile/references/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png",
-    "mobile/references/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png",
-    "mobile/references/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png",
-    "mobile/references/projects/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md": "mobile/workflows/projects/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md",
-    "mobile/references/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md": "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md",
     "process/discovery-and-analysis.md": "product/workflows/discovery-and-analysis.md",
     "process/prototyping.md": "product/workflows/prototyping.md",
     "process/quality-and-release.md": "product/workflows/quality-and-release.md",
@@ -182,34 +170,14 @@
     "rules/use-project-ui.md": "engineering/rules/use-project-ui.md",
     "rules/verify-change.md": "engineering/rules/verify-change.md",
     "rules/verify-prototype.md": "engineering/rules/verify-prototype.md",
-    "rules/verify-schema-changes.md": "engineering/rules/verify-schema-changes.md",
-    "team-process/AI/AI-внедрение-видение.md": "product/references/team/AI/AI-внедрение-видение.md",
-    "team-process/Шаг 1. Настройка проекта в Битрикс.md": "product/references/team/Шаг 1. Настройка проекта в Битрикс.md",
-    "team-process/Шаг 10. Приёмка задачи.md": "product/references/team/Шаг 10. Приёмка задачи.md",
-    "team-process/Шаг 11. Релиз и ХотФикс.md": "product/references/team/Шаг 11. Релиз и ХотФикс.md",
-    "team-process/Шаг 12. Коммуникации внутри команды.md": "product/references/team/Шаг 12. Коммуникации внутри команды.md",
-    "team-process/Шаг 13. Коммуникации с клиентом.md": "product/references/team/Шаг 13. Коммуникации с клиентом.md",
-    "team-process/Шаг 2. Ведение задач в Битрикс.md": "product/references/team/Шаг 2. Ведение задач в Битрикс.md",
-    "team-process/Шаг 3. Жизненный цикл задачи.md": "product/references/team/Шаг 3. Жизненный цикл задачи.md",
-    "team-process/Шаг 4. Оценка задач.md": "product/references/team/Шаг 4. Оценка задач.md",
-    "team-process/Шаг 5. Работа разработчика с задачей.md": "product/references/team/Шаг 5. Работа разработчика с задачей.md",
-    "team-process/Шаг 6. Код-ревью.md": "product/references/team/Шаг 6. Код-ревью.md",
-    "team-process/Шаг 7. Тестирование.md": "product/references/team/Шаг 7. Тестирование.md",
-    "team-process/Шаг 8. Работа с багами.md": "product/references/team/Шаг 8. Работа с багами.md",
-    "team-process/Шаг 9. Работа со стендами.md": "product/references/team/Шаг 9. Работа со стендами.md",
-    "team-process/Шпаргалки по должности/Роль — QA.md": "product/references/team/Шпаргалки по должности/Роль — QA.md",
-    "team-process/Шпаргалки по должности/Роль — Менеджер.md": "product/references/team/Шпаргалки по должности/Роль — Менеджер.md",
-    "team-process/Шпаргалки по должности/Роль — Разработчик.md": "product/references/team/Шпаргалки по должности/Роль — Разработчик.md",
-    "team-process/Шпаргалки по должности/Роль — Старший разработчик.md": "product/references/team/Шпаргалки по должности/Роль — Старший разработчик.md",
-    "team-process/Шпаргалки по должности/Роль — Тим·Тех лид.md": "product/references/team/Шпаргалки по должности/Роль — Тим·Тех лид.md"
+    "rules/verify-schema-changes.md": "engineering/rules/verify-schema-changes.md"
   },
   "materials": {
     "backend/checklists/nest-change.md": {
       "encoding": "utf-8",
       "kind": "checklists",
       "origins": [
-        "obsidian:backend/nest-js/skills/review-conventions/SKILL.md",
-        "projects:tf/rtk-renting/src/orders/order.controller.ts"
+        "obsidian:backend/nest-js/skills/review-conventions/SKILL.md"
       ],
       "pack": "backend",
       "path": "backend/checklists/nest-change.md",
@@ -220,67 +188,12 @@
       "encoding": "utf-8",
       "kind": "checklists",
       "origins": [
-        "obsidian:backend/nest-js/docs/testing-security/SECURITY.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/SECURITY.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/SECURITY.md",
-        "projects:noosoft/news-noosoft/docs/SECURITY.md"
+        "obsidian:backend/nest-js/docs/testing-security/SECURITY.md"
       ],
       "pack": "backend",
       "path": "backend/checklists/nest/docs/testing-security/SECURITY.md",
       "sha256": "0f495c9ff0eb654de0e3a21312695890823d477f3902059dd9e0565a71d1bdaf",
       "title": "Security-чеклист"
-    },
-    "backend/references/go/architecture/architecture.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:backend/go/docs/architecture/architecture.md"
-      ],
-      "pack": "backend",
-      "path": "backend/references/go/architecture/architecture.md",
-      "scope": "noosoft",
-      "sha256": "6dcdea6f6f09c952621e35c717fd200ad8884bc7797614108c764bb295f0f110",
-      "title": "Architecture"
-    },
-    "backend/references/go/context/context.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:backend/go/docs/context/context.md"
-      ],
-      "pack": "backend",
-      "path": "backend/references/go/context/context.md",
-      "scope": "nootinder-api",
-      "sha256": "b9398a7c5b0045dae39fbda6a4bcdd7fff76992d027e433738c8d0a3c45b101b",
-      "title": "Context"
-    },
-    "backend/references/go/conventions/conventions.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:backend/go/docs/conventions/conventions.md"
-      ],
-      "pack": "backend",
-      "path": "backend/references/go/conventions/conventions.md",
-      "scope": "noosoft",
-      "sha256": "7d3822bf5a15f06f52367f8bb3cd807a8bd8989cd44ae5cc64cefc396b6df1be",
-      "title": "Conventions"
-    },
-    "backend/references/go/testing-security/verification.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:backend/go/docs/testing-security/verification.md"
-      ],
-      "pack": "backend",
-      "path": "backend/references/go/testing-security/verification.md",
-      "scope": "noosoft",
-      "sha256": "136a8056aca76ee043e6c5f7bf9f6ddef4f5bb6fb280b7f38821c4902cadf7fd",
-      "title": "Verification"
     },
     "backend/references/nest/docs/recipes/CONFIGURATION.md": {
       "encoding": "utf-8",
@@ -385,11 +298,7 @@
       "encoding": "utf-8",
       "kind": "references",
       "origins": [
-        "obsidian:backend/nest-js/docs/recipes/REQUEST-CONTEXT.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/REQUEST-CONTEXT.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/REQUEST-CONTEXT.md",
-        "projects:noosoft/news-noosoft/docs/REQUEST-CONTEXT.md",
-        "projects:noosoft/sovpa/api-sovpa/docs/REQUEST-CONTEXT.md"
+        "obsidian:backend/nest-js/docs/recipes/REQUEST-CONTEXT.md"
       ],
       "pack": "backend",
       "path": "backend/references/nest/docs/recipes/REQUEST-CONTEXT.md",
@@ -400,11 +309,7 @@
       "encoding": "utf-8",
       "kind": "references",
       "origins": [
-        "obsidian:backend/nest-js/docs/recipes/VALIDATORS.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/VALIDATORS.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/VALIDATORS.md",
-        "projects:noosoft/news-noosoft/docs/VALIDATORS.md",
-        "projects:noosoft/sovpa/api-sovpa/docs/VALIDATORS.md"
+        "obsidian:backend/nest-js/docs/recipes/VALIDATORS.md"
       ],
       "pack": "backend",
       "path": "backend/references/nest/docs/recipes/VALIDATORS.md",
@@ -415,10 +320,7 @@
       "encoding": "utf-8",
       "kind": "references",
       "origins": [
-        "obsidian:backend/nest-js/docs/testing-security/TESTING.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/TESTING.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/TESTING.md",
-        "projects:noosoft/news-noosoft/docs/TESTING.md"
+        "obsidian:backend/nest-js/docs/testing-security/TESTING.md"
       ],
       "pack": "backend",
       "path": "backend/references/nest/docs/testing-security/TESTING.md",
@@ -429,8 +331,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/go/docs/testing-security/verification.md",
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/verification.md"
+        "obsidian:backend/go/docs/testing-security/verification.md"
       ],
       "pack": "backend",
       "path": "backend/rules/go/verification.md",
@@ -441,8 +342,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/recipes/CONTROLLERS.md",
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/verification.md"
+        "obsidian:backend/nest-js/docs/recipes/CONTROLLERS.md"
       ],
       "pack": "backend",
       "path": "backend/rules/http/input-validation.md",
@@ -452,9 +352,6 @@
     "backend/rules/http/response-contract.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/verification.md"
-      ],
       "pack": "backend",
       "path": "backend/rules/http/response-contract.md",
       "sha256": "324565b67584bcff682badf6636aac395df693de0c37cec67863d7dcc241cc0b",
@@ -464,11 +361,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/architecture/MODULE-BOUNDARIES.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/MODULE-BOUNDARIES.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/MODULE-BOUNDARIES.md",
-        "projects:noosoft/news-noosoft/docs/MODULE-BOUNDARIES.md",
-        "projects:noosoft/sovpa/api-sovpa/docs/MODULE-BOUNDARIES.md"
+        "obsidian:backend/nest-js/docs/architecture/MODULE-BOUNDARIES.md"
       ],
       "pack": "backend",
       "path": "backend/rules/nest/docs/architecture/MODULE-BOUNDARIES.md",
@@ -490,11 +383,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/conventions/CONSTANTS.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/CONSTANTS.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/CONSTANTS.md",
-        "projects:noosoft/news-noosoft/docs/CONSTANTS.md",
-        "projects:noosoft/sovpa/api-sovpa/docs/CONSTANTS.md"
+        "obsidian:backend/nest-js/docs/conventions/CONSTANTS.md"
       ],
       "pack": "backend",
       "path": "backend/rules/nest/docs/conventions/CONSTANTS.md",
@@ -505,11 +394,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/conventions/FORMATTING.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/FORMATTING.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/FORMATTING.md",
-        "projects:noosoft/news-noosoft/docs/FORMATTING.md",
-        "projects:noosoft/sovpa/api-sovpa/docs/FORMATTING.md"
+        "obsidian:backend/nest-js/docs/conventions/FORMATTING.md"
       ],
       "pack": "backend",
       "path": "backend/rules/nest/docs/conventions/FORMATTING.md",
@@ -542,11 +427,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/principles/ADR.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/adr/README.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/adr/README.md",
-        "projects:noosoft/news-noosoft/docs/adr/README.md",
-        "projects:noosoft/sovpa/api-sovpa/docs/adr/README.md"
+        "obsidian:backend/nest-js/docs/principles/ADR.md"
       ],
       "pack": "backend",
       "path": "backend/rules/nest/docs/principles/ADR.md",
@@ -557,11 +438,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/principles/GENERAL.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/docs/GENERAL.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/GENERAL.md",
-        "projects:noosoft/news-noosoft/docs/GENERAL.md",
-        "projects:noosoft/sovpa/api-sovpa/docs/GENERAL.md"
+        "obsidian:backend/nest-js/docs/principles/GENERAL.md"
       ],
       "pack": "backend",
       "path": "backend/rules/nest/docs/principles/GENERAL.md",
@@ -579,25 +456,6 @@
       "sha256": "90cfc00b09e48ed6db38da724c7e79aba82b3262b2ee0943598dbeb55d2cdf6a",
       "title": "Язык"
     },
-    "backend/skills/add-env-var-variant-ac9400f4/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:ai-hub/starter-pack-nestjs-fastify/.agents/skills/add-env-var/SKILL.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/.claude/skills/add-env-var/SKILL.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/.agents/skills/add-env-var/SKILL.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/.claude/skills/add-env-var/SKILL.md",
-        "projects:noosoft/news-noosoft/.claude/skills/add-env-var/SKILL.md",
-        "projects:noosoft/sovpa/api-sovpa/.agents/skills/add-env-var/SKILL.md",
-        "projects:noosoft/sovpa/api-sovpa/.claude/skills/add-env-var/SKILL.md"
-      ],
-      "pack": "backend",
-      "path": "backend/skills/add-env-var-variant-ac9400f4/SKILL.md",
-      "scope": "legacy",
-      "sha256": "ac9400f46921318a1e828b7680f0d68168a64352cd2d5a6f1fad84b379a4d143",
-      "title": "Добавление переменной окружения"
-    },
     "backend/skills/add-env-var/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
@@ -608,25 +466,6 @@
       "path": "backend/skills/add-env-var/SKILL.md",
       "sha256": "36f8ed910c54955e562da30d6c238ae145a64b825ef50296512604a966030dec",
       "title": "Добавление переменной окружения"
-    },
-    "backend/skills/new-module-variant-39d8f6e0/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:ai-hub/starter-pack-nestjs-fastify/.agents/skills/new-module/SKILL.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/.claude/skills/new-module/SKILL.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/.agents/skills/new-module/SKILL.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/.claude/skills/new-module/SKILL.md",
-        "projects:noosoft/news-noosoft/.claude/skills/new-module/SKILL.md",
-        "projects:noosoft/sovpa/api-sovpa/.agents/skills/new-module/SKILL.md",
-        "projects:noosoft/sovpa/api-sovpa/.claude/skills/new-module/SKILL.md"
-      ],
-      "pack": "backend",
-      "path": "backend/skills/new-module-variant-39d8f6e0/SKILL.md",
-      "scope": "legacy",
-      "sha256": "39d8f6e0cc39e31ac2a62d345bf88941b02ecf6421195f4a6e2bad5c7c8adf6b",
-      "title": "Новый доменный модуль"
     },
     "backend/skills/new-module/SKILL.md": {
       "encoding": "utf-8",
@@ -639,25 +478,6 @@
       "sha256": "124760cd4bae63d5f4d5f4b079c4011e35766b1835310aecca8dd034838e573f",
       "title": "Новый доменный модуль"
     },
-    "backend/skills/review-conventions-variant-0e659378/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:ai-hub/starter-pack-nestjs-fastify/.agents/skills/review-conventions/SKILL.md",
-        "projects:ai-hub/starter-pack-nestjs-fastify/.claude/skills/review-conventions/SKILL.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/.agents/skills/review-conventions/SKILL.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/.claude/skills/review-conventions/SKILL.md",
-        "projects:noosoft/news-noosoft/.claude/skills/review-conventions/SKILL.md",
-        "projects:noosoft/sovpa/api-sovpa/.agents/skills/review-conventions/SKILL.md",
-        "projects:noosoft/sovpa/api-sovpa/.claude/skills/review-conventions/SKILL.md"
-      ],
-      "pack": "backend",
-      "path": "backend/skills/review-conventions-variant-0e659378/SKILL.md",
-      "scope": "legacy",
-      "sha256": "0e6593789be25190837b8769abfa5e478388bb2907b119a0734200c30bec5a74",
-      "title": "Чек-лист конвенций стартер-пака"
-    },
     "backend/skills/review-conventions/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
@@ -669,44 +489,11 @@
       "sha256": "17cf77fbe54538eca47ec549e45780713cc4af1b39558cc6750522fc2c0c0094",
       "title": "Чек-лист конвенций стартер-пака"
     },
-    "backend/skills/sovpa-backend-change/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-backend-change/SKILL.md"
-      ],
-      "pack": "backend",
-      "path": "backend/skills/sovpa-backend-change/SKILL.md",
-      "related": [
-        "backend/skills/sovpa-backend-change/references/project-context.md"
-      ],
-      "scope": "nootinder-api",
-      "sha256": "32838347845dd7410b58cfda540a4aea48d10b62700b2a30abc3f4b51ebd4722",
-      "title": "Изменение бэкенда Sovpa"
-    },
-    "backend/skills/sovpa-backend-change/references/project-context.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-backend-change/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-case-analysis/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-project-discovery/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-prototype-design/references/project-context.md"
-      ],
-      "pack": "backend",
-      "path": "backend/skills/sovpa-backend-change/references/project-context.md",
-      "scope": "nootinder-api",
-      "sha256": "3cc3e8d2286acb9a2c14a579e80811e8b5fcb3a8ef86c23067ae63b4d2e6ccba",
-      "title": "Контекст реального проекта"
-    },
     "backend/workflows/environment-config.md": {
       "encoding": "utf-8",
       "kind": "workflows",
       "origins": [
-        "obsidian:backend/nest-js/docs/recipes/CONFIGURATION.md",
-        "projects:tf/rtk-renting/src/config/configuration.ts"
+        "obsidian:backend/nest-js/docs/recipes/CONFIGURATION.md"
       ],
       "pack": "backend",
       "path": "backend/workflows/environment-config.md",
@@ -716,10 +503,6 @@
     "engineering/checklists/documentation-ready.md": {
       "encoding": "utf-8",
       "kind": "checklists",
-      "origins": [
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/local/project-context.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/PROJECT-CONTEXT.md"
-      ],
       "pack": "engineering",
       "path": "engineering/checklists/documentation-ready.md",
       "sha256": "057020f8932e51cf711cd3bf8101fbde5182eedfeccea830b629fc84e6d16698",
@@ -729,7 +512,6 @@
       "encoding": "utf-8",
       "kind": "checklists",
       "origins": [
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/verification.md",
         "obsidian:Процессы Ноософт/Шаг 7. Тестирование.md"
       ],
       "pack": "engineering",
@@ -740,9 +522,6 @@
     "engineering/rules/decision-history.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/adr/README.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/decision-history.md",
       "sha256": "0ca3a8853ea5b6d81ca9286cbd6a546709384bc4a5a344abe39c13c3dc0a0304",
@@ -752,8 +531,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/recipes/CONTROLLERS.md",
-        "projects:tf/rtk-renting/src/orders/order.controller.ts"
+        "obsidian:backend/nest-js/docs/recipes/CONTROLLERS.md"
       ],
       "pack": "engineering",
       "path": "engineering/rules/follow-nest-module-patterns.md",
@@ -763,10 +541,6 @@
     "engineering/rules/follow-route-structure.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-react-router-page.md",
-        "projects:noosoft/sovpa/client-sovpa/AGENTS.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/follow-route-structure.md",
       "sha256": "8465866e3440572c92d26374dc243f4f0e9a05ab55645164d5ac03a943ac5455",
@@ -787,8 +561,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/recipes/CONTROLLERS.md",
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/verification.md"
+        "obsidian:backend/nest-js/docs/recipes/CONTROLLERS.md"
       ],
       "pack": "engineering",
       "path": "engineering/rules/keep-http-contracts-in-sync.md",
@@ -798,7 +571,6 @@
     "engineering/rules/model-routing.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [],
       "pack": "engineering",
       "path": "engineering/rules/model-routing.md",
       "provenance": "authored",
@@ -808,10 +580,6 @@
     "engineering/rules/plan-change.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/core/code-quality.md",
-        "projects:noosoft/sovpa/client-sovpa/AGENTS.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/plan-change.md",
       "sha256": "21d427f6f05e8eae7fc6dba51b45888e5372e3715930e1ea3f03bc00a326d30c",
@@ -821,8 +589,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/go/docs/architecture/architecture.md",
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/architecture.md"
+        "obsidian:backend/go/docs/architecture/architecture.md"
       ],
       "pack": "engineering",
       "path": "engineering/rules/preserve-go-boundaries.md",
@@ -832,9 +599,6 @@
     "engineering/rules/project-facts.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/local/project-context.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/project-facts.md",
       "sha256": "e056bf25389af94417c013de3307949772b5fd989c72341821f35a2ec0b264f8",
@@ -843,9 +607,6 @@
     "engineering/rules/respect-app-router.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/nextjs-app-router/app-router.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/respect-app-router.md",
       "sha256": "66759c5905c4ff74aea3a7403e256bb362f1890f7aeea6d139eeeb9486344091",
@@ -854,10 +615,6 @@
     "engineering/rules/trace-requirements.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-case-analysis/SKILL.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-project-discovery/SKILL.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/trace-requirements.md",
       "sha256": "8be43df8e27632d4677c530406e4c8ec138acb7139afd8005e21e24f98c549d2",
@@ -866,10 +623,6 @@
     "engineering/rules/use-project-ui.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/react/component-conventions.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/AGENTS.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/use-project-ui.md",
       "sha256": "fe5fef0e3e9cba77fdc6b856f4f567d683b31d27543bcc326e1b86a72679078d",
@@ -878,10 +631,6 @@
     "engineering/rules/verify-change.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/checklists/delivery.md",
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/verification.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/verify-change.md",
       "sha256": "527049d9de7de8766e56e424714ed6dc170093e32eeb302253d1263d5e6d9a3c",
@@ -890,9 +639,6 @@
     "engineering/rules/verify-prototype.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:noosoft/noolink/skills/product-prototyping/SKILL.md"
-      ],
       "pack": "engineering",
       "path": "engineering/rules/verify-prototype.md",
       "sha256": "fe793806673a3954f0b348dfb5c97d3c7ad998c18a4ea8c117e904d47a4cf634",
@@ -902,8 +648,7 @@
       "encoding": "utf-8",
       "kind": "rules",
       "origins": [
-        "obsidian:backend/nest-js/docs/recipes/PRISMA.md",
-        "projects:noosoft/sovpa-app/nootinder-api/.claude/rules/verification.md"
+        "obsidian:backend/nest-js/docs/recipes/PRISMA.md"
       ],
       "pack": "engineering",
       "path": "engineering/rules/verify-schema-changes.md",
@@ -913,12 +658,6 @@
     "engineering/skills/review-changes/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/utils/review-changes/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/utils/review-changes/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/review-changes/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/utils/review-changes/SKILL.md"
-      ],
       "pack": "engineering",
       "path": "engineering/skills/review-changes/SKILL.md",
       "sha256": "7a5c059a99aace99723f12d9bf8ed4a5ffe7af61def916875a5eefb99bc5f7b1",
@@ -927,12 +666,6 @@
     "engineering/skills/review-changes/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/utils/review-changes/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/utils/review-changes/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/review-changes/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/utils/review-changes/agents/openai.yaml"
-      ],
       "pack": "engineering",
       "path": "engineering/skills/review-changes/agents/openai.yaml",
       "sha256": "b0775a48b6e49dd1442735dc3d8c1fde36025b80099437b46212cb03f07ef8aa",
@@ -941,10 +674,6 @@
     "engineering/templates/adr.md": {
       "encoding": "utf-8",
       "kind": "templates",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0000-template.md",
-        "projects:for-dev/starter-pack-nestjs-fastify/docs/adr/README.md"
-      ],
       "pack": "engineering",
       "path": "engineering/templates/adr.md",
       "sha256": "851e138cb256fb0dc7353366d54bdce4234ca2d6e2d42d326ea885e476fd43e4",
@@ -953,9 +682,6 @@
     "engineering/templates/checklist.md": {
       "encoding": "utf-8",
       "kind": "templates",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/templates/rule.md"
-      ],
       "pack": "engineering",
       "path": "engineering/templates/checklist.md",
       "sha256": "24d4d57b6e2817e99b279dd9b79addc0dc9c130acc3e16e101e3ed9e712303d7",
@@ -964,9 +690,6 @@
     "engineering/templates/rule.md": {
       "encoding": "utf-8",
       "kind": "templates",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/templates/rule.md"
-      ],
       "pack": "engineering",
       "path": "engineering/templates/rule.md",
       "sha256": "0e24d02333797e61e137b74c75261f7009443c576050db45542296d16143b38a",
@@ -975,9 +698,6 @@
     "engineering/templates/workflow.md": {
       "encoding": "utf-8",
       "kind": "templates",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/templates/rule.md"
-      ],
       "pack": "engineering",
       "path": "engineering/templates/workflow.md",
       "sha256": "471fed5bfdb1b703cd30bfa4daf1d2c31c370c47c6e597006f75532792ff28e1",
@@ -986,13 +706,6 @@
     "frontend/checklists/delivery.md": {
       "encoding": "utf-8",
       "kind": "checklists",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/checklists/delivery.md",
-        "projects:for-dev/starter-pack-react/docs/checklists/delivery.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/checklists/delivery.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/checklists/delivery.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/checklists/delivery.md"
-      ],
       "pack": "frontend",
       "path": "frontend/checklists/delivery.md",
       "sha256": "3c041eec655d89da5e870508f717b5003a31773f3da2a2fe0e4041960533bf9a",
@@ -1001,10 +714,6 @@
     "frontend/checklists/overlay.md": {
       "encoding": "utf-8",
       "kind": "checklists",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-modal.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/local/project-context.md"
-      ],
       "pack": "frontend",
       "path": "frontend/checklists/overlay.md",
       "provenance": "derived",
@@ -1014,13 +723,6 @@
     "frontend/examples/mui/theme-customization.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/mui/theme-customization.md",
-        "projects:for-dev/starter-pack-react/docs/examples/mui/theme-customization.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/mui/theme-customization.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/examples/mui/theme-customization.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/mui/theme-customization.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/mui/theme-customization.md",
       "sha256": "95f9c3f66b32d0ab8c3adbe12e9bfd494adcece47c5f23d68716d88f57a88fdc",
@@ -1029,11 +731,6 @@
     "frontend/examples/react-hook-form/heroui-field-adapter.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/react-hook-form/heroui-field-adapter.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/react-hook-form/heroui-field-adapter.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/react-hook-form/heroui-field-adapter.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/react-hook-form/heroui-field-adapter.md",
       "sha256": "372123951d5f92b4dd5efc9303e1f4b6023caf4bd308f203934a3e43dc238dd6",
@@ -1043,13 +740,6 @@
     "frontend/examples/react-hook-form/mui-field-adapter.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/react-hook-form/mui-field-adapter.md",
-        "projects:for-dev/starter-pack-react/docs/examples/react-hook-form/mui-field-adapter.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/react-hook-form/mui-field-adapter.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/examples/react-hook-form/mui-field-adapter.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/react-hook-form/mui-field-adapter.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/react-hook-form/mui-field-adapter.md",
       "sha256": "53caa131bb4b69fea0593a3b177794c9c94a061a458c468428750b2fafb7e9f1",
@@ -1059,11 +749,6 @@
     "frontend/examples/react-hook-form/zod-form.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/react-hook-form/zod-form.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/react-hook-form/zod-form.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/react-hook-form/zod-form.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/react-hook-form/zod-form.md",
       "sha256": "436dd6a027db80f81f9241798aeb0a8f4b690d6fe9564cb7c15dee47468fbe4e",
@@ -1072,9 +757,6 @@
     "frontend/examples/react/auth-session-axios.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/react/auth-session-axios.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/react/auth-session-axios.md",
       "related": [
@@ -1087,11 +769,6 @@
     "frontend/examples/react/modal-manager-zustand.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/react/modal-manager-zustand.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/react/modal-manager-zustand.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/react/modal-manager-zustand.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/react/modal-manager-zustand.md",
       "sha256": "f3b8cb47934bbd412d41afe874b540ff585c3bc7facf99ab2be33ee2251eda84",
@@ -1101,11 +778,6 @@
     "frontend/examples/react/url-backed-data-list.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/react/url-backed-data-list.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/react/url-backed-data-list.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/react/url-backed-data-list.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/react/url-backed-data-list.md",
       "related": [
@@ -1121,11 +793,6 @@
     "frontend/examples/react/url-query-state-adapters.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/react/url-query-state-adapters.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/react/url-query-state-adapters.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/react/url-query-state-adapters.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/react/url-query-state-adapters.md",
       "sha256": "0b8c8ac5432ef6420457644d75322575e0303afb8d80ae567a4416d348902619",
@@ -1135,13 +802,6 @@
     "frontend/examples/tanstack-query/queries-and-mutations.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/tanstack-query/queries-and-mutations.md",
-        "projects:for-dev/starter-pack-react/docs/examples/tanstack-query/queries-and-mutations.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/tanstack-query/queries-and-mutations.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/examples/tanstack-query/queries-and-mutations.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/tanstack-query/queries-and-mutations.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/tanstack-query/queries-and-mutations.md",
       "sha256": "44d14bead421353b4c504dbebcb98c3fec5e0268d998039a8dbb2953f73e8cc5",
@@ -1150,11 +810,6 @@
     "frontend/examples/tanstack-table/typed-table.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/tanstack-table/typed-table.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/tanstack-table/typed-table.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/tanstack-table/typed-table.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/tanstack-table/typed-table.md",
       "sha256": "effea727d2364c4d04460d9dbd6d591a30afff7ab8472a7110bf99ea7d0357f7",
@@ -1163,11 +818,6 @@
     "frontend/examples/zod/boundary-schemas.md": {
       "encoding": "utf-8",
       "kind": "examples",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/examples/zod/boundary-schemas.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/examples/zod/boundary-schemas.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/examples/zod/boundary-schemas.md"
-      ],
       "pack": "frontend",
       "path": "frontend/examples/zod/boundary-schemas.md",
       "sha256": "347a6a3677bf53145721b0af5175e5025a4221dda88343016c7ed26d443bd480",
@@ -1176,9 +826,6 @@
     "frontend/references/README.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/README.md"
-      ],
       "pack": "frontend",
       "path": "frontend/references/README.md",
       "related": [
@@ -1188,18 +835,13 @@
         "frontend/rules/stacks/react/component-conventions.md",
         "frontend/workflows/rule-discovery.md"
       ],
-      "sha256": "5457130ca0de2dcc43c791917cc04acf5b05ea2ee7462036385ebac079df02ed",
-      "title": "Общие frontend-правила",
-      "sourceSha256": "5c64680d81df3e77e68041219b2307e8892b49d1be67a90892de4901f2a38907"
+      "sha256": "e3e81ee3506bc238c290f8dcb7b4f337e0e743cfbaed9def308b49ad85ed68d4",
+      "sourceSha256": "5c64680d81df3e77e68041219b2307e8892b49d1be67a90892de4901f2a38907",
+      "title": "Общие frontend-правила"
     },
     "frontend/rules/architecture/bff/auth-session-reference.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/architecture/bff/auth-session-reference.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/architecture/bff/auth-session-reference.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/architecture/bff/auth-session-reference.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/architecture/bff/auth-session-reference.md",
       "sha256": "04c0d8f99150115d262d6ab4affb528b02ca44412679373de28f793372579dc6",
@@ -1208,11 +850,6 @@
     "frontend/rules/architecture/bff/boundary.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/architecture/bff/boundary.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/architecture/bff/boundary.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/architecture/bff/boundary.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/architecture/bff/boundary.md",
       "sha256": "3ef49be3e31e8d6f69d851d4920f391220868dd11fec20c15d60b757fae7f252",
@@ -1221,14 +858,6 @@
     "frontend/rules/architecture/fsd/core.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/architecture/fsd/core.md",
-        "projects:for-dev/starter-pack-react/docs/architecture/fsd/core.md",
-        "projects:noosoft/nootinder-client/docs/architecture/fsd/core.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/architecture/fsd/core.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/architecture/fsd/core.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/architecture/fsd/core.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/architecture/fsd/core.md",
       "sha256": "5a895e40500939a6eebf38ab6537addcd11bf76b80fa62c0467de8ea7de1c125",
@@ -1237,11 +866,6 @@
     "frontend/rules/architecture/fsd/nextjs-app-router.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/architecture/fsd/nextjs-app-router.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/architecture/fsd/nextjs-app-router.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/architecture/fsd/nextjs-app-router.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/architecture/fsd/nextjs-app-router.md",
       "sha256": "e7c4e9b64a95baf3fbb9915d8dcb1bf9374b30200ec283fa80a8f70aff8820a9",
@@ -1250,11 +874,6 @@
     "frontend/rules/architecture/fsd/nextjs-pages-router.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/architecture/fsd/nextjs-pages-router.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/architecture/fsd/nextjs-pages-router.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/architecture/fsd/nextjs-pages-router.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/architecture/fsd/nextjs-pages-router.md",
       "sha256": "b27d7146b955c49206c811296fe774787bc836e2b3b403d4d907a2be6e722289",
@@ -1263,14 +882,6 @@
     "frontend/rules/architecture/fsd/public-api.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/architecture/fsd/public-api.md",
-        "projects:for-dev/starter-pack-react/docs/architecture/fsd/public-api.md",
-        "projects:noosoft/nootinder-client/docs/architecture/fsd/public-api.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/architecture/fsd/public-api.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/architecture/fsd/public-api.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/architecture/fsd/public-api.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/architecture/fsd/public-api.md",
       "sha256": "83838f115ede3954642b94fea447cb7f6cef787b7cbfe41d1f9bca45b48adec3",
@@ -1279,14 +890,6 @@
     "frontend/rules/architecture/fsd/react-router.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/architecture/fsd/react-router.md",
-        "projects:for-dev/starter-pack-react/docs/architecture/fsd/react-router.md",
-        "projects:noosoft/nootinder-client/docs/architecture/fsd/react-router.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/architecture/fsd/react-router.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/architecture/fsd/react-router.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/architecture/fsd/react-router.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/architecture/fsd/react-router.md",
       "sha256": "20482407984c4e947b8ed3499536758be82acde571dc5fcddc61ee482a24bbd0",
@@ -1295,13 +898,6 @@
     "frontend/rules/core/code-quality.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/core/code-quality.md",
-        "projects:for-dev/starter-pack-react/docs/core/code-quality.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/core/code-quality.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/core/code-quality.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/core/code-quality.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/core/code-quality.md",
       "sha256": "4b5bf6176989542bfba1ab8b45dad62539c5829f9ee7f7ebc0f79b54afa3193e",
@@ -1310,11 +906,6 @@
     "frontend/rules/core/documentation.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/core/documentation.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/core/documentation.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/core/documentation.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/core/documentation.md",
       "sha256": "864dc88e396008aefa6666328a42bc86f1450def131c24f6b9650b1ea82f418e",
@@ -1323,13 +914,6 @@
     "frontend/rules/core/error-handling.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/core/error-handling.md",
-        "projects:for-dev/starter-pack-react/docs/core/error-handling.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/core/error-handling.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/core/error-handling.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/core/error-handling.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/core/error-handling.md",
       "sha256": "6789562f056b3f8904b4e9ec02ed37f464a7c9f55b2fb7e434fc0bd9865479e3",
@@ -1338,14 +922,6 @@
     "frontend/rules/core/testing.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/core/testing.md",
-        "projects:for-dev/starter-pack-react/docs/core/testing.md",
-        "projects:noosoft/nootinder-client/docs/core/testing.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/core/testing.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/core/testing.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/core/testing.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/core/testing.md",
       "sha256": "35826505a6a4796e1c7e1d18ec3b044d3e058698cc90a597b13f4fd695bc6a32",
@@ -1354,10 +930,6 @@
     "frontend/rules/form-boundaries.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-form.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/AGENTS.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/form-boundaries.md",
       "provenance": "derived",
@@ -1367,11 +939,6 @@
     "frontend/rules/stacks/heroui/components.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/heroui/components.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/heroui/components.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/heroui/components.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/heroui/components.md",
       "sha256": "3a218b1ed1dded31831aced73d6e82f82c5c0b03e545630204e7e38d4c70524a",
@@ -1380,11 +947,6 @@
     "frontend/rules/stacks/heroui/react-hook-form-fields.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/heroui/react-hook-form-fields.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/heroui/react-hook-form-fields.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/heroui/react-hook-form-fields.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/heroui/react-hook-form-fields.md",
       "sha256": "b88c875c42da2f5aea9dfc7331deda399ffb2de8f7639de2736d9f5b88902f30",
@@ -1394,13 +956,6 @@
     "frontend/rules/stacks/mui/components.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/mui/components.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/mui/components.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/mui/components.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/mui/components.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/mui/components.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/mui/components.md",
       "sha256": "48fc006262e1ad029f375629a531e1ff49f3889196349d06b05a9b92a3f45e8c",
@@ -1409,13 +964,6 @@
     "frontend/rules/stacks/mui/react-hook-form-fields.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/mui/react-hook-form-fields.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/mui/react-hook-form-fields.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/mui/react-hook-form-fields.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/mui/react-hook-form-fields.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/mui/react-hook-form-fields.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/mui/react-hook-form-fields.md",
       "sha256": "7590f7657f574853f1d453e67ed5edbd2b8799aaf1887d3e55a22409978bb0da",
@@ -1424,13 +972,6 @@
     "frontend/rules/stacks/mui/styling-and-theme.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/mui/styling-and-theme.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/mui/styling-and-theme.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/mui/styling-and-theme.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/mui/styling-and-theme.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/mui/styling-and-theme.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/mui/styling-and-theme.md",
       "sha256": "948de3b434e40294569a9a13518084ddda1026c4fb4f730f2cc17ce4e133bf9d",
@@ -1440,11 +981,6 @@
     "frontend/rules/stacks/nextjs-app-router/app-router.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/nextjs-app-router/app-router.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/nextjs-app-router/app-router.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/nextjs-app-router/app-router.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/nextjs-app-router/app-router.md",
       "sha256": "79e8e4a8576922e05acd5cfc9cb0bcb2f48ebead4b55a17706316f498c87e179",
@@ -1453,11 +989,6 @@
     "frontend/rules/stacks/nextjs-app-router/route-handlers.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/nextjs-app-router/route-handlers.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/nextjs-app-router/route-handlers.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/nextjs-app-router/route-handlers.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/nextjs-app-router/route-handlers.md",
       "sha256": "1838d1d537079e0da1f763d99e87653b9a3bdfc24bfc95ac602ab84ff96527a5",
@@ -1466,11 +997,6 @@
     "frontend/rules/stacks/nextjs-app-router/server-actions.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/nextjs-app-router/server-actions.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/nextjs-app-router/server-actions.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/nextjs-app-router/server-actions.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/nextjs-app-router/server-actions.md",
       "sha256": "aee5ced6cc9cd7aac362e1509a1cd52c944714b47c51f89a0d91532239d18403",
@@ -1479,11 +1005,6 @@
     "frontend/rules/stacks/nextjs-app-router/server-components.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/nextjs-app-router/server-components.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/nextjs-app-router/server-components.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/nextjs-app-router/server-components.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/nextjs-app-router/server-components.md",
       "sha256": "60059e373482699270ea9fea4f5e5986597e699060ebb591c06d8cc8a2a8111b",
@@ -1492,11 +1013,6 @@
     "frontend/rules/stacks/nextjs-pages-router/pages-router.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/nextjs-pages-router/pages-router.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/nextjs-pages-router/pages-router.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/nextjs-pages-router/pages-router.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/nextjs-pages-router/pages-router.md",
       "sha256": "41abbb0e112be8e529b95e776d4cfcb41b3f5b08ec25b383666596d112ec3c1e",
@@ -1505,13 +1021,6 @@
     "frontend/rules/stacks/react-hook-form/forms.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/react-hook-form/forms.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/react-hook-form/forms.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/react-hook-form/forms.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/react-hook-form/forms.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/react-hook-form/forms.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/react-hook-form/forms.md",
       "sha256": "4586bbbc37a5812da7ffe68cb2cc9427f664ee648f1fb677faf341cf457602b6",
@@ -1520,9 +1029,6 @@
     "frontend/rules/stacks/react/auth-session.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/react/auth-session.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/react/auth-session.md",
       "sha256": "e1cb569af17bb3d56e1d41f12c18c867e5d38a85d29539d677a059baead24806",
@@ -1531,13 +1037,6 @@
     "frontend/rules/stacks/react/component-conventions.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/react/component-conventions.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/react/component-conventions.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/react/component-conventions.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/react/component-conventions.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/react/component-conventions.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/react/component-conventions.md",
       "sha256": "ad344810bd035fdd9f371c35b2ae90853733c661cb16eaa80d777c338e256ae6",
@@ -1546,11 +1045,6 @@
     "frontend/rules/stacks/react/modal-manager.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/react/modal-manager.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/react/modal-manager.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/react/modal-manager.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/react/modal-manager.md",
       "sha256": "377f561c9e8fdb614a912d9af45de72a09dcb781743fff6730508c4f175b9143",
@@ -1559,11 +1053,6 @@
     "frontend/rules/stacks/react/url-query-state.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/react/url-query-state.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/react/url-query-state.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/react/url-query-state.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/react/url-query-state.md",
       "sha256": "aa409b9e51e68eebe11911bada64b3580e658e89820a7a1517c2912f91a95f6d",
@@ -1572,9 +1061,6 @@
     "frontend/rules/stacks/redux-saga/workflows.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/redux-saga/workflows.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/redux-saga/workflows.md",
       "sha256": "5847db579fdc720a9e2507022437bdbf42ee24fe9d2f881ce31ddf9234a6607f",
@@ -1583,9 +1069,6 @@
     "frontend/rules/stacks/redux-toolkit/state-management.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/redux-toolkit/state-management.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/redux-toolkit/state-management.md",
       "sha256": "ec0365680be647fb4956b49c50ff6a812a8f63238d0039c1d42acb8986c76134",
@@ -1594,9 +1077,6 @@
     "frontend/rules/stacks/rtk-query/data-fetching.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/rtk-query/data-fetching.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/rtk-query/data-fetching.md",
       "sha256": "6ac34fb79a9d4c50ae7c2fa1939977744215feda0043b16dd27ff9611fa32b0f",
@@ -1605,13 +1085,6 @@
     "frontend/rules/stacks/tanstack-query/data-fetching.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/tanstack-query/data-fetching.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/tanstack-query/data-fetching.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/tanstack-query/data-fetching.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/tanstack-query/data-fetching.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/tanstack-query/data-fetching.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/tanstack-query/data-fetching.md",
       "sha256": "1df9d2a53a6dc1a34dc4d928d4dc64cdad8dacca3ef5a9941c6fa0cad70acc83",
@@ -1620,11 +1093,6 @@
     "frontend/rules/stacks/tanstack-table/tables.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/tanstack-table/tables.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/tanstack-table/tables.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/tanstack-table/tables.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/tanstack-table/tables.md",
       "sha256": "d9f2a11edc9aea5ab73f78815e68f29f3cbf95bebfaebd2908eca770f87bcb65",
@@ -1633,11 +1101,6 @@
     "frontend/rules/stacks/typescript/documentation-comments.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/typescript/documentation-comments.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/typescript/documentation-comments.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/typescript/documentation-comments.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/typescript/documentation-comments.md",
       "sha256": "5c24d0edbc7c6b282b5898e9bea41f3fb2fe130a5839694092c8110999df6fda",
@@ -1646,14 +1109,6 @@
     "frontend/rules/stacks/typescript/naming-and-types.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/typescript/naming-and-types.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/typescript/naming-and-types.md",
-        "projects:noosoft/nootinder-client/docs/stacks/typescript/naming-and-types.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/typescript/naming-and-types.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/typescript/naming-and-types.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/typescript/naming-and-types.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/typescript/naming-and-types.md",
       "sha256": "5a6a750d8c2b4d139acb60402e006b8888812d038da6607dbe916a2c2a9d3a1b",
@@ -1662,14 +1117,6 @@
     "frontend/rules/stacks/ui-library/components.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/ui-library/components.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/ui-library/components.md",
-        "projects:noosoft/nootinder-client/docs/stacks/ui-library/components.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/ui-library/components.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/ui-library/components.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/ui-library/components.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/ui-library/components.md",
       "sha256": "c90721a5f0a6ac1bd2848637f7ff68c4e9c3e8895d36fe3bdfcb1b98da1633b7",
@@ -1678,14 +1125,6 @@
     "frontend/rules/stacks/vitest/testing.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/vitest/testing.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/vitest/testing.md",
-        "projects:noosoft/nootinder-client/docs/stacks/vitest/testing.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/vitest/testing.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/vitest/testing.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/vitest/testing.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/vitest/testing.md",
       "related": [
@@ -1697,13 +1136,6 @@
     "frontend/rules/stacks/zod/validation.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/stacks/zod/validation.md",
-        "projects:for-dev/starter-pack-react/docs/stacks/zod/validation.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/stacks/zod/validation.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/stacks/zod/validation.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/zod/validation.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/zod/validation.md",
       "sha256": "e59363a147dc11d68279256938b988b05fe8612e87c4cd0485cf3e9ba61c5215",
@@ -1712,89 +1144,14 @@
     "frontend/rules/stacks/zustand/state-management.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/stacks/zustand/state-management.md"
-      ],
       "pack": "frontend",
       "path": "frontend/rules/stacks/zustand/state-management.md",
       "sha256": "193dd637d48e92862b936510e9607a2fff0bedccd718127e3eccecadfcbfa77c",
       "title": "Zustand State Management"
     },
-    "frontend/skills/add-case/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/add-case/SKILL.md"
-      ],
-      "pack": "frontend",
-      "path": "frontend/skills/add-case/SKILL.md",
-      "scope": "client-sovpa",
-      "sha256": "59b8a8613bb2ae239f4c73af28a70ffafa65f358527fc6c8716988935d2e05d5",
-      "title": "Новый кейс Sovpa"
-    },
-    "frontend/skills/add-case/scripts/crop-screens.py": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/add-case/scripts/crop-screens.py"
-      ],
-      "pack": "frontend",
-      "path": "frontend/skills/add-case/scripts/crop-screens.py.txt",
-      "scope": "client-sovpa",
-      "sha256": "4b48c41fbd22dfc3edc77e83cb15bbb2b2348afe516b367388ecb3c6a4a4a475",
-      "title": "crop-screens"
-    },
-    "frontend/skills/add-case/scripts/shot.mjs": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/add-case/scripts/shot.mjs"
-      ],
-      "pack": "frontend",
-      "path": "frontend/skills/add-case/scripts/shot.mjs",
-      "scope": "client-sovpa",
-      "sha256": "591774198a4f780015b2717799e7276f9455f09d8219e2bd1439aca1c8410848",
-      "title": "shot"
-    },
-    "frontend/skills/add-news/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/add-news/SKILL.md"
-      ],
-      "pack": "frontend",
-      "path": "frontend/skills/add-news/SKILL.md",
-      "scope": "client-sovpa",
-      "sha256": "e3597bdb67e8963c525fb5fc0844d82c16a44805844928c5e17e1dc4445faaa3",
-      "title": "Новая новость Sovpa"
-    },
-    "frontend/skills/add-news/scripts/convert-images.py": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/add-news/scripts/convert-images.py"
-      ],
-      "pack": "frontend",
-      "path": "frontend/skills/add-news/scripts/convert-images.py.txt",
-      "scope": "client-sovpa",
-      "sha256": "b1ab77236a850b035188cd86351a1370ba5c57a9b1952d16b3696741c11a4e90",
-      "title": "convert-images"
-    },
     "frontend/skills/create-fsd-entity/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-entity/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-entity/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-fsd-entity/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/create-fsd-entity/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/create-fsd-entity/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-fsd-entity/SKILL.md",
       "sha256": "ec6590b0a2a77c9d2ea15ad8940cd5f91cfbe388af049bc0ee6e5c7c2c8840ba",
@@ -1803,13 +1160,6 @@
     "frontend/skills/create-fsd-entity/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-entity/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-entity/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-fsd-entity/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/create-fsd-entity/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/create-fsd-entity/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-fsd-entity/agents/openai.yaml",
       "sha256": "b98c070996bef6f74f1928d3b5a3b5f9762506f4ff86027b42e67d4f819f07dc",
@@ -1818,13 +1168,6 @@
     "frontend/skills/create-fsd-page/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-page/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-page/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-fsd-page/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/create-fsd-page/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/create-fsd-page/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-fsd-page/SKILL.md",
       "sha256": "d62e7e85ba938cb0c040b50cf9b79556de35a31823e23c077919d372d8471f9c",
@@ -1833,13 +1176,6 @@
     "frontend/skills/create-fsd-page/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-page/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-page/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-fsd-page/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/create-fsd-page/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/create-fsd-page/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-fsd-page/agents/openai.yaml",
       "sha256": "3633d56e3122e87eac38220e2f3f133c93f6e73c8fc57838d22ad35175195190",
@@ -1848,11 +1184,6 @@
     "frontend/skills/create-fsd-react-router-page/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-react-router-page/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-react-router-page/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/create-fsd-react-router-page/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-fsd-react-router-page/SKILL.md",
       "sha256": "e8695714dae7e64b1af5dc35687bdf4583cae815b561b6cca416de4d29156573",
@@ -1861,11 +1192,6 @@
     "frontend/skills/create-fsd-react-router-page/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-react-router-page/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/create-fsd-react-router-page/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/create-fsd-react-router-page/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-fsd-react-router-page/agents/openai.yaml",
       "sha256": "acb9fdfe125b3cd9eab7c3f9921be5707ffe19da219c1b1db0b2f918e6a39965",
@@ -1874,11 +1200,6 @@
     "frontend/skills/create-heroui-form-control/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/libraries/heroui/create-heroui-form-control/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/libraries/heroui/create-heroui-form-control/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/heroui/create-heroui-form-control/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-heroui-form-control/SKILL.md",
       "sha256": "aa82b637fa1c1bf2b3f18cff650fc8e35b621e862e712f497943629a8cd438df",
@@ -1887,11 +1208,6 @@
     "frontend/skills/create-heroui-form-control/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/libraries/heroui/create-heroui-form-control/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/libraries/heroui/create-heroui-form-control/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/heroui/create-heroui-form-control/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-heroui-form-control/agents/openai.yaml",
       "sha256": "a4397291f52c653cae050e5d12345a1db6eeb51fee28b43f81f1c651b55e9fc7",
@@ -1900,12 +1216,6 @@
     "frontend/skills/create-mui-form-control/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/libraries/mui/create-mui-form-control/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/libraries/mui/create-mui-form-control/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-mui-form-control/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/mui/create-mui-form-control/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-mui-form-control/SKILL.md",
       "sha256": "cf7c8a60d6c9bcc5e273e6e09513d3a048ecce899dcbf9271b918127115295b8",
@@ -1914,12 +1224,6 @@
     "frontend/skills/create-mui-form-control/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/libraries/mui/create-mui-form-control/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/libraries/mui/create-mui-form-control/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-mui-form-control/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/mui/create-mui-form-control/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-mui-form-control/agents/openai.yaml",
       "sha256": "15dc2f554a526995aaf8487875e5aafd290d2a107341d657195cf06df9f716de",
@@ -1928,13 +1232,6 @@
     "frontend/skills/create-react-modal/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/libraries/modal-manager/create-react-modal/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/libraries/modal-manager/create-react-modal/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-react-modal/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/modal-manager/create-react-modal/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/create-react-modal/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-react-modal/SKILL.md",
       "sha256": "72c2ed7de1883b5ab1f4f237595a59b7c8bd23657f935e18d1e1ee0535b7e717",
@@ -1943,13 +1240,6 @@
     "frontend/skills/create-react-modal/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/libraries/modal-manager/create-react-modal/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/libraries/modal-manager/create-react-modal/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/create-react-modal/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/modal-manager/create-react-modal/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/create-react-modal/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-react-modal/agents/openai.yaml",
       "sha256": "1618df0a4ec5a2dc9ebb0c3181c8278e103d8d037d16c2d18b51e5847a557f7a",
@@ -1958,9 +1248,6 @@
     "frontend/skills/create-redux-saga/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/redux-saga/create-redux-saga/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-redux-saga/SKILL.md",
       "sha256": "e699f4c441419f32f02d5ceda085b83aa3a25e664991d7dc71044974d755032e",
@@ -1969,9 +1256,6 @@
     "frontend/skills/create-redux-saga/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/redux-saga/create-redux-saga/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-redux-saga/agents/openai.yaml",
       "sha256": "5813d781ed7aacc991d0763ee911ff12d9d4057b743c2ed6c5e42c04759a6e5f",
@@ -1980,9 +1264,6 @@
     "frontend/skills/create-redux-slice/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/redux-toolkit/create-redux-slice/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-redux-slice/SKILL.md",
       "sha256": "9fe2d265a8d957bcbf0084f2196ba85df93184e0c8513dd24e67d8bcbb5a007e",
@@ -1991,9 +1272,6 @@
     "frontend/skills/create-redux-slice/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/redux-toolkit/create-redux-slice/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-redux-slice/agents/openai.yaml",
       "sha256": "737abbb00ee8c66ea39e09f5bcd7cc68eb491814644d53825bda6a73b3d6eb00",
@@ -2002,9 +1280,6 @@
     "frontend/skills/create-rtk-query-endpoint/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/redux-toolkit/create-rtk-query-endpoint/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-rtk-query-endpoint/SKILL.md",
       "sha256": "89839447b52d27396ec15eb5c4f335d2a17e42412ea019cc2fe0b87a64a154cb",
@@ -2013,9 +1288,6 @@
     "frontend/skills/create-rtk-query-endpoint/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/redux-toolkit/create-rtk-query-endpoint/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-rtk-query-endpoint/agents/openai.yaml",
       "sha256": "f5e95cc1fa8e69a4d40c5096342819c955967096d5e7a5db5a2e4f7b17f36e09",
@@ -2024,11 +1296,6 @@
     "frontend/skills/create-server-action/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/frameworks/nextjs/create-server-action/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/frameworks/nextjs/create-server-action/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/frameworks/nextjs/create-server-action/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-server-action/SKILL.md",
       "sha256": "8c66a1585b5bb4f8194afb17059a1b97728d7b02821d834cf58a6069ff3eb2ca",
@@ -2037,11 +1304,6 @@
     "frontend/skills/create-server-action/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/frameworks/nextjs/create-server-action/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/frameworks/nextjs/create-server-action/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/frameworks/nextjs/create-server-action/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/create-server-action/agents/openai.yaml",
       "sha256": "41007e8fa6b4336f7d50f398d4d8afe161e7de11af851ec1bb55d05b84960904",
@@ -2050,11 +1312,6 @@
     "frontend/skills/design-taste-frontend/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:noosoft/nootinder-client/.claude/skills/design-taste-frontend/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.claude/skills/design-taste-frontend/SKILL.md",
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/design-taste-frontend/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/design-taste-frontend/SKILL.md",
       "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
@@ -2063,13 +1320,6 @@
     "frontend/skills/feature-sliced-design/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/SKILL.md",
       "sha256": "58d7bb9de2df9d1e93c4ac1398e2267094c1158ded9fe495c1af1e710c0bf0d3",
@@ -2078,13 +1328,6 @@
     "frontend/skills/feature-sliced-design/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/agents/openai.yaml",
       "sha256": "60f9b7babc8bb4e1fc9b11ad2808b5c910057305aa7e2b2a04e2e387b000e2cb",
@@ -2093,13 +1336,6 @@
     "frontend/skills/feature-sliced-design/references/asset-handling.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/asset-handling.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/asset-handling.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/references/asset-handling.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/references/asset-handling.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/references/asset-handling.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/references/asset-handling.md",
       "sha256": "bda6ea91d98c519dda0d6b0fbdbaf92d7eb5145f2b6a0c7de28dc22472559adb",
@@ -2108,13 +1344,6 @@
     "frontend/skills/feature-sliced-design/references/cross-import-patterns.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/cross-import-patterns.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/cross-import-patterns.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/references/cross-import-patterns.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/references/cross-import-patterns.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/references/cross-import-patterns.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/references/cross-import-patterns.md",
       "sha256": "aa9e61bb0437f62f29ad4d276ea6780189410df485fed565a3faa74a13feee62",
@@ -2123,13 +1352,6 @@
     "frontend/skills/feature-sliced-design/references/excessive-entities.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/excessive-entities.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/excessive-entities.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/references/excessive-entities.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/references/excessive-entities.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/references/excessive-entities.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/references/excessive-entities.md",
       "sha256": "dfae12fb1c3b2f8845ba0442002902173d964745fa5db50cd431eca9dd3fc8f7",
@@ -2138,13 +1360,6 @@
     "frontend/skills/feature-sliced-design/references/framework-integration.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/framework-integration.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/framework-integration.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/references/framework-integration.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/references/framework-integration.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/references/framework-integration.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/references/framework-integration.md",
       "sha256": "600fb79bc1cd05651b3d0879bdde797f71e125e9b0937d78b04dd2da56a89090",
@@ -2153,13 +1368,6 @@
     "frontend/skills/feature-sliced-design/references/layer-structure.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/layer-structure.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/layer-structure.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/references/layer-structure.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/references/layer-structure.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/references/layer-structure.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/references/layer-structure.md",
       "sha256": "6e5fe6640be4235bdac117e13c70db6ce307f9d9db2963aa9b0acdf68a55ef17",
@@ -2168,13 +1376,6 @@
     "frontend/skills/feature-sliced-design/references/migration-guide.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/migration-guide.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/migration-guide.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/references/migration-guide.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/references/migration-guide.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/references/migration-guide.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/references/migration-guide.md",
       "sha256": "1db4fcdb73dd62fc72c8a3a8447b39ffb3196c36fc79af7a61353d2616e1b35c",
@@ -2183,13 +1384,6 @@
     "frontend/skills/feature-sliced-design/references/practical-examples.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/practical-examples.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/references/practical-examples.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/references/practical-examples.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/references/practical-examples.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/references/practical-examples.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/references/practical-examples.md",
       "sha256": "02bee08bd886cf3a932e50a7f05be8e4903fc4758bcb6cf85c6b7b8b79946189",
@@ -2198,51 +1392,22 @@
     "frontend/skills/feature-sliced-design/upstream.json": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/upstream.json",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/react/architecture/fsd/feature-sliced-design/upstream.json",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/feature-sliced-design/upstream.json",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/architecture/fsd/feature-sliced-design/upstream.json",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/feature-sliced-design/upstream.json"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/feature-sliced-design/upstream.json",
       "sha256": "cd388ab04baf11d9e9c5a11b510d9bc3f37d225859c84a773ae5e892f9e5a17e",
       "title": "upstream"
     },
-    "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/sovpa-app/sovpa-app-client/.claude/skills/high-end-visual-design/SKILL.md",
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/high-end-visual-design/SKILL.md"
-      ],
-      "pack": "frontend",
-      "path": "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md",
-      "scope": "client-sovpa",
-      "sha256": "e1e32f5e2d420872c6c7332b53d5ff7721946766b78c4822b424c2d512c8fdbc",
-      "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)"
-    },
     "frontend/skills/high-end-visual-design/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:noosoft/nootinder-client/.claude/skills/high-end-visual-design/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/high-end-visual-design/SKILL.md",
-      "sha256": "30bbbb87ff40cb2169fe6acfc3d14da0a3294c379278cd32da8f4af9ed91faa0",
-      "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)"
+      "sha256": "356c916fefc896db61a0786f3d73826c8bcae5a7a284b9f8c2a4de45d399dc4a",
+      "title": "Визуальная доработка интерфейса"
     },
     "frontend/skills/redesign-existing-projects/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:noosoft/nootinder-client/.claude/skills/redesign-existing-projects/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.claude/skills/redesign-existing-projects/SKILL.md",
-        "projects:noosoft/sovpa/client-sovpa/.claude/skills/redesign-existing-projects/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/redesign-existing-projects/SKILL.md",
       "sha256": "98ad3e5b051bfb71b2795f7e8a6aa0d32b51ee095606c098a4b2822ac07926c9",
@@ -2251,9 +1416,6 @@
     "frontend/skills/zod/LICENSE": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/typescript/libraries/zod/LICENSE"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zod/LICENSE",
       "sha256": "65342e913bd9ffda3b4e7ba86b203e5a6f8f21d1d8b5a27961f02b69f58410dc",
@@ -2262,9 +1424,6 @@
     "frontend/skills/zod/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/typescript/libraries/zod/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zod/SKILL.md",
       "related": [
@@ -2278,9 +1437,6 @@
     "frontend/skills/zod/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/typescript/libraries/zod/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zod/agents/openai.yaml",
       "sha256": "96546bff045d2758bdc5e3317c6c41c4d8a748420ee39a4cc35c0a53c39eb706",
@@ -2289,9 +1445,6 @@
     "frontend/skills/zod/references/api-v4.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/typescript/libraries/zod/references/api-v4.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zod/references/api-v4.md",
       "sha256": "b6090477408db23242ec21aad1c392bbed3a90227cd68b620f6b789316379a1b",
@@ -2300,9 +1453,6 @@
     "frontend/skills/zod/references/migration-v4.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/typescript/libraries/zod/references/migration-v4.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zod/references/migration-v4.md",
       "sha256": "a68fa60c30520adb095a69a7a775cc5bb80651a093ad96e1925dbb8811fe3b40",
@@ -2311,9 +1461,6 @@
     "frontend/skills/zod/references/testing.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/typescript/libraries/zod/references/testing.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zod/references/testing.md",
       "sha256": "4c14f4fda0f663b56fd3ef9088a35ce215b7988878a16a6183a34c9af270a026",
@@ -2322,9 +1469,6 @@
     "frontend/skills/zod/upstream.json": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/typescript/libraries/zod/upstream.json"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zod/upstream.json",
       "sha256": "f56f2dca11007bdea892966b64ae657d43f936da3f88fcf8b4346962297f9776",
@@ -2333,9 +1477,6 @@
     "frontend/skills/zustand/LICENSE": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/LICENSE"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/LICENSE",
       "sha256": "4530f92f44fe545e18773c7bbe0c312b0f04b78c161bdb784ff24f0ace9a5592",
@@ -2344,9 +1485,6 @@
     "frontend/skills/zustand/SKILL.md": {
       "encoding": "utf-8",
       "kind": "skills",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/SKILL.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/SKILL.md",
       "related": [
@@ -2361,9 +1499,6 @@
     "frontend/skills/zustand/agents/openai.yaml": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/agents/openai.yaml"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/agents/openai.yaml",
       "sha256": "7ae74cfdd98fecf1b1ce96af53811226cccdae8261680bd4763468f537dd85cd",
@@ -2372,9 +1507,6 @@
     "frontend/skills/zustand/references/api-v5.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/references/api-v5.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/references/api-v5.md",
       "sha256": "00732f13a627cf1754b2023bf1735d07e3a48f96e2394bc0ae2fef27e622f269",
@@ -2383,9 +1515,6 @@
     "frontend/skills/zustand/references/migration-v5.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/references/migration-v5.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/references/migration-v5.md",
       "sha256": "3c20cb91ef53a6faa7b7429bfd85ba19004656c3aa566c38516424e1e0b4ead8",
@@ -2394,9 +1523,6 @@
     "frontend/skills/zustand/references/persistence-nextjs.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/references/persistence-nextjs.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/references/persistence-nextjs.md",
       "sha256": "6f5aab6dd9ea3350018dcc71fdd444f8d95224f4e08384bfe1cf3e2f750a0687",
@@ -2405,9 +1531,6 @@
     "frontend/skills/zustand/references/testing.md": {
       "encoding": "utf-8",
       "kind": "references",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/references/testing.md"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/references/testing.md",
       "sha256": "ec7efabdfe953907c9c911708e2e0566ef19639ac5b5e67b138062e171d9394b",
@@ -2416,9 +1539,6 @@
     "frontend/skills/zustand/upstream.json": {
       "encoding": "utf-8",
       "kind": "assets",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/react/libraries/zustand/upstream.json"
-      ],
       "pack": "frontend",
       "path": "frontend/skills/zustand/upstream.json",
       "sha256": "587c95dc4b63afc394356a8a58b55e4c5b0fa4e7d6bbb1fba702e9921b1644fa",
@@ -2427,9 +1547,6 @@
     "frontend/templates/project-agents.md": {
       "encoding": "utf-8",
       "kind": "templates",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/templates/project-agents.md"
-      ],
       "pack": "frontend",
       "path": "frontend/templates/project-agents.md",
       "sha256": "1340f2b3c07ec9085474c0df34216790be59ffa3e652f2be0dce445c2ada49f9",
@@ -2438,11 +1555,6 @@
     "frontend/templates/project-context.md": {
       "encoding": "utf-8",
       "kind": "templates",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/templates/project-context.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/templates/project-context.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/templates/project-context.md"
-      ],
       "pack": "frontend",
       "path": "frontend/templates/project-context.md",
       "sha256": "59a204e97d0ce2b6cedef08df9584dc165e3b30301d5ad13a447eb458a10effa",
@@ -2451,11 +1563,6 @@
     "frontend/templates/rule.md": {
       "encoding": "utf-8",
       "kind": "templates",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/templates/rule.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/templates/rule.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/templates/rule.md"
-      ],
       "pack": "frontend",
       "path": "frontend/templates/rule.md",
       "sha256": "ae0ea47b41ba5876bf0b9eeb38d4a848fcfa963a0d2bc18fb6b38079dbfdafc0",
@@ -2464,11 +1571,6 @@
     "frontend/workflows/adding-bff-auth-session.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-bff-auth-session.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-bff-auth-session.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-bff-auth-session.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-bff-auth-session.md",
       "related": [
@@ -2481,13 +1583,6 @@
     "frontend/workflows/adding-client-query.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-client-query.md",
-        "projects:for-dev/starter-pack-react/docs/workflows/adding-client-query.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-client-query.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/workflows/adding-client-query.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-client-query.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-client-query.md",
       "sha256": "5c211dc6b37a2226b46d68bd0d68f2322cc49f68119fd2589e91091da9ebc271",
@@ -2496,11 +1591,6 @@
     "frontend/workflows/adding-data-list-page.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-data-list-page.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-data-list-page.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-data-list-page.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-data-list-page.md",
       "sha256": "923514b2622db8133c30f056d8618e5e3e0acb629276981e96d870be1b1e9e4b",
@@ -2509,14 +1599,6 @@
     "frontend/workflows/adding-form.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-form.md",
-        "projects:for-dev/starter-pack-react/docs/workflows/adding-form.md",
-        "projects:noosoft/nootinder-client/docs/workflows/adding-form.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-form.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/workflows/adding-form.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-form.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-form.md",
       "sha256": "4d5f41494a18b774307ca19e191d75caf59b0a01ff4c128aa49c131c1b3fa0c4",
@@ -2525,11 +1607,6 @@
     "frontend/workflows/adding-fsd-entity.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-fsd-entity.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-fsd-entity.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-fsd-entity.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-fsd-entity.md",
       "sha256": "6989b06e45680b91a9183f383f7247780f2890871f8b886392580a31893ad730",
@@ -2538,11 +1615,6 @@
     "frontend/workflows/adding-modal.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-modal.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-modal.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-modal.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-modal.md",
       "sha256": "4a83a0f6453528974371f4e543b2305cf2ead8f9a2df290a4d83ca0271d95eee",
@@ -2552,11 +1624,6 @@
     "frontend/workflows/adding-nextjs-pages-router-page.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-nextjs-pages-router-page.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-nextjs-pages-router-page.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-nextjs-pages-router-page.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-nextjs-pages-router-page.md",
       "sha256": "bdcba118631c51bf81bb328d33ad3ae7d55a9d58afc18a38a388f2ad19159a92",
@@ -2565,11 +1632,6 @@
     "frontend/workflows/adding-page.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-page.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-page.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-page.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-page.md",
       "sha256": "ce7ecbac684c71a854b662e237d00b8e875b5d94b3d62da5725de2b23efb22f4",
@@ -2578,14 +1640,6 @@
     "frontend/workflows/adding-react-router-page.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-react-router-page.md",
-        "projects:for-dev/starter-pack-react/docs/workflows/adding-react-router-page.md",
-        "projects:noosoft/nootinder-client/docs/workflows/adding-react-router-page.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-react-router-page.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/workflows/adding-react-router-page.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-react-router-page.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-react-router-page.md",
       "sha256": "d339fb7eecc73736f64666ab28c08bef53398210d9c56abe678897c4dfd8a2e1",
@@ -2595,9 +1649,6 @@
     "frontend/workflows/adding-redux-saga.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-redux-saga.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-redux-saga.md",
       "sha256": "766dccda42cb13d4fdd3c787ace16851d7a8308ff102dee05a8bb7c854b85e2b",
@@ -2606,9 +1657,6 @@
     "frontend/workflows/adding-redux-slice.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-redux-slice.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-redux-slice.md",
       "sha256": "635c7bd1827d98f1eb87516b35bc78a47ddcf98707f26be1bc8e2a34032b5fe4",
@@ -2617,11 +1665,6 @@
     "frontend/workflows/adding-route-handler.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-route-handler.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-route-handler.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-route-handler.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-route-handler.md",
       "sha256": "c8d4a56a3d7e9d64271761e1ce5d2c6f9469a3f01f4d032e0c2c9b32ebaab5fe",
@@ -2630,9 +1673,6 @@
     "frontend/workflows/adding-rtk-query-endpoint.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-rtk-query-endpoint.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-rtk-query-endpoint.md",
       "sha256": "b562bf58b45bdb21996c75907b1133b6369c79e3f18e6a159cfc40fbd3edcaa1",
@@ -2641,11 +1681,6 @@
     "frontend/workflows/adding-server-action.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-server-action.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-server-action.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-server-action.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-server-action.md",
       "sha256": "fbafa9c4ce22554846cc34a1d7a4d03f8fad1fbf8614faddb0bf07d4b361997c",
@@ -2654,11 +1689,6 @@
     "frontend/workflows/adding-table.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-table.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-table.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-table.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-table.md",
       "sha256": "7561138eb85f36ae0c153843377bcead4f901f4073f36bc75784cddf841d246b",
@@ -2667,11 +1697,6 @@
     "frontend/workflows/adding-url-backed-list-state.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/adding-url-backed-list-state.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/adding-url-backed-list-state.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/adding-url-backed-list-state.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/adding-url-backed-list-state.md",
       "related": [
@@ -2684,26 +1709,22 @@
     "frontend/workflows/code-review.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/code-review.md",
-        "projects:for-dev/starter-pack-react/docs/workflows/code-review.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/code-review.md",
-        "projects:noosoft/sovpa/client-sovpa/docs/workflows/code-review.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/code-review.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/code-review.md",
       "sha256": "f59d9f1c7b7a70731e434a28661040e3e81892241ea098a7dd52c79ead138611",
       "title": "Code Review"
     },
+    "frontend/workflows/publishing-site-content.md": {
+      "encoding": "utf-8",
+      "kind": "workflows",
+      "pack": "frontend",
+      "path": "frontend/workflows/publishing-site-content.md",
+      "sha256": "d98f691f2fc57b935d6e7e68895b0a4cf2b01c575a75c208f77c93fd870864fe",
+      "title": "Публикация контента на сайте"
+    },
     "frontend/workflows/rule-discovery.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/workflows/rule-discovery.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/workflows/rule-discovery.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/workflows/rule-discovery.md"
-      ],
       "pack": "frontend",
       "path": "frontend/workflows/rule-discovery.md",
       "sha256": "5bb587627d4bfcf561eba88d87fdd7d1773759b9af39690709edf0112819e547",
@@ -2712,9 +1733,6 @@
     "git/checklists/commit-ready.md": {
       "encoding": "utf-8",
       "kind": "checklists",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/utils/commit/SKILL.md"
-      ],
       "pack": "git",
       "path": "git/checklists/commit-ready.md",
       "sha256": "a86dc1347dff30c2c1349d734a60a72486bd5ce5b4a108524f146470fb217959",
@@ -2753,517 +1771,25 @@
       "sha256": "9df3dd87816bfeffcdcfc7284eaea7cecabe619943dc1e8f01bb956d7ae9c66f",
       "title": "Формат заголовка Conventional Commits"
     },
-    "git/skills/commit-variant-e53cbeeb/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/utils/commit/SKILL.md",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/commit/SKILL.md"
-      ],
-      "pack": "git",
-      "path": "git/skills/commit-variant-e53cbeeb/SKILL.md",
-      "scope": "restomagic-front",
-      "sha256": "e53cbeeb2fb0d75786b4aac45126f413712e6850a3ddf4503bb364dfe0e8a921",
-      "title": "Commit"
-    },
-    "git/skills/commit-variant-e53cbeeb/agents/openai.yaml": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/utils/commit/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/utils/commit/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/commit/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/utils/commit/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/commit/agents/openai.yaml"
-      ],
-      "pack": "git",
-      "path": "git/skills/commit-variant-e53cbeeb/agents/openai.yaml",
-      "scope": "restomagic-front",
-      "sha256": "511664ad002297b4abfb95dd11c0573488bcb5a08b3b1ed9aa6f7dfb0c75e4e9",
-      "title": "openai"
-    },
-    "git/skills/commit/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/utils/commit/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/utils/commit/SKILL.md",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/commit/SKILL.md"
-      ],
-      "pack": "git",
-      "path": "git/skills/commit/SKILL.md",
-      "scope": "legacy",
-      "sha256": "63a8adf6129323f308216250455155013cf108148fc3c3e137965103e95791a5",
-      "title": "Commit"
-    },
-    "git/skills/commit/agents/openai.yaml": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/utils/commit/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/shared/ai-frontend-rules/skills/utils/commit/agents/openai.yaml",
-        "projects:noosoft/sovpa-app/sovpa-app-client/.agents/skills/commit/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/shared/skills/utils/commit/agents/openai.yaml",
-        "projects:resto/restomagic-front/restomagic-front/.agents/skills/commit/agents/openai.yaml"
-      ],
-      "pack": "git",
-      "path": "git/skills/commit-variant-e53cbeeb/agents/openai.yaml",
-      "scope": "legacy",
-      "sha256": "511664ad002297b4abfb95dd11c0573488bcb5a08b3b1ed9aa6f7dfb0c75e4e9",
-      "title": "openai"
-    },
     "git/workflows/select-commit-changes.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:for-dev/ai-frontend-rules/skills/utils/commit/SKILL.md"
-      ],
       "pack": "git",
       "path": "git/workflows/select-commit-changes.md",
       "sha256": "40bc86e75a3aa99241a0b1a7020695c0233f43973a2aeef5bc6fca31cc611688",
       "title": "Выбор состава коммита"
     },
-    "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Manrope-OFL.txt": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Manrope-OFL.txt"
-      ],
-      "pack": "mobile",
-      "path": "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Manrope-OFL.txt",
-      "scope": "nootinder-mobile",
-      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac",
-      "title": "Manrope-OFL"
-    },
-    "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Roboto-OFL.txt": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Roboto-OFL.txt"
-      ],
-      "pack": "mobile",
-      "path": "mobile/assets/projects/nootinder-mobile/core/presentation/src/commonMain/composeResources/files/font_licenses/Roboto-OFL.txt",
-      "scope": "nootinder-mobile",
-      "sha256": "ee94f8704aa81e9a3bf4271e8320e99d975a3ee08ea45a088b494b918476ec12",
-      "title": "Roboto-OFL"
-    },
-    "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png": {
-      "encoding": "binary",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png"
-      ],
-      "pack": "mobile",
-      "path": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png",
-      "scope": "nootinder-mobile",
-      "sha256": "eb94c47e05c8463720d07e5713ee159e57cb5b410198ea422ddfd5912b1a2302",
-      "title": "01-modules-and-kmp"
-    },
-    "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png": {
-      "encoding": "binary",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png"
-      ],
-      "pack": "mobile",
-      "path": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png",
-      "scope": "nootinder-mobile",
-      "sha256": "1e02a8308540e1adcbecf9ed6f15c992d2e2ca3e63cee97700fb2c9374ddb360",
-      "title": "02-feature-layers"
-    },
-    "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png": {
-      "encoding": "binary",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png"
-      ],
-      "pack": "mobile",
-      "path": "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png",
-      "scope": "nootinder-mobile",
-      "sha256": "25503b5f2aae4f8429991c9034a22166a56c76745d9b806cb4dc2e2a380094b5",
-      "title": "03-stack-offline-multitenant"
-    },
     "mobile/checklists/platform-verification.md": {
       "encoding": "utf-8",
       "kind": "checklists",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/mobile-testing.md"
-      ],
       "pack": "mobile",
       "path": "mobile/checklists/platform-verification.md",
       "sha256": "67dccd58e6407bcf249b58abb40f08fda5f7aeabec84a0c01677964d9a1e24e6",
       "title": "Проверки мобильной фичи"
     },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md",
-      "related": [
-        "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md",
-        "mobile/references/projects/nootinder-mobile/docs/architecture.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "dae62d6c3167d91823ec63ddc8a473cdf96f3a054afe35818d62036848c5bf60",
-      "title": "0001. Modular feature api/impl split",
-      "sourceSha256": "20bfcffb1204cc2100ec49ce07c737fcb2fbd9a59fbd6f34809f544712a979f9"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md",
-      "related": [
-        "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "4a0346c62a0541849f0e072cf0aa8eb23747015770a69483e6dd3cf521dbdfca",
-      "title": "0002. Feature layered architecture (Presentation / Domain / Data)",
-      "sourceSha256": "c70c32ee92eb764f591e573df666b29875b2f0654b50bc5056576645f211c81c"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0003-offline-first.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0003-offline-first.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0003-offline-first.md",
-      "related": [
-        "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png",
-        "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "ce676b9f98623e6978ceed0d745ffe71ad0b550b110a277321971568e90a789d",
-      "title": "0003. Offline-First data strategy",
-      "sourceSha256": "a7bcdf5bbc125fe1ddff5b8bb48f6bf351cc762538b0ee57f2601002eac4b84d"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0004-multi-tenant-theming.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0004-multi-tenant-theming.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0004-multi-tenant-theming.md",
-      "related": [
-        "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "db2e91f77439e2e3e399ad3454afb1f9a0e57683dd21e9354920c887f4768323",
-      "title": "0004. Multi-tenant theming and feature flags",
-      "sourceSha256": "505b2ef5f1aae199a0880e0c06d9cac4c402277630013171ce068ff70f1f9be1"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0005-feature-news-module.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0005-feature-news-module.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0005-feature-news-module.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md",
-        "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "9a2619274b639a2db86201ff9b6e23612df9be9d9206d405b867a1ac653aeb44",
-      "title": "0005. Feature News module (лента новостей саммита)"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0006-localization-strings.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0006-localization-strings.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0006-localization-strings.md",
-      "scope": "nootinder-mobile",
-      "sha256": "2b787a1b684f800712e5143f491e31d45bdd362f2998173536c414fdaffd57ae",
-      "title": "0006. Локализация: строковые ресурсы, UiText и StringProvider"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0007-summit-chat-socket.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0007-summit-chat-socket.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0007-summit-chat-socket.md",
-      "scope": "nootinder-mobile",
-      "sha256": "bc5732c10c43395be8d8b7af02d63a039dd77fd2d19f05fda12e49dbf1862356",
-      "title": "0007. Сокет чатов на уровне саммита"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0008-call-sign-in.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0008-call-sign-in.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0008-call-sign-in.md",
-      "scope": "nootinder-mobile",
-      "sha256": "41fef07847e342daf4b1705cf6d908ee17bf55d74bfa4b12bdcd76a75e6d2603",
-      "title": "0008. Вход звонком через /api/auth/otp"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0009-summit-profile-bio-cache.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0009-summit-profile-bio-cache.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0009-summit-profile-bio-cache.md",
-      "scope": "nootinder-mobile",
-      "sha256": "de90c8f32ef6b873ef9cc3a994943d8a609fdca7e362f7760f2f325db91b2459",
-      "title": "ADR 0009: Хранение описания участника саммита"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0010-program-type-cache.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0010-program-type-cache.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0010-program-type-cache.md",
-      "scope": "nootinder-mobile",
-      "sha256": "4d511c3614558bcb9437339737da83fca36cf213ff4e91205ee30b932bb3c20a",
-      "title": "ADR 0010: Типы программы из API в фильтрах и кеше"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/0011-connectivity-recovery.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0011-connectivity-recovery.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/0011-connectivity-recovery.md",
-      "scope": "nootinder-mobile",
-      "sha256": "5a05ef0b7295d4ea3d9bfe0c96cbdc156ea23448ac128b3461395de8edcc0e3b",
-      "title": "ADR 0011: Общий статус подключения и обновление после восстановления сети"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/adr/README.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/README.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/adr/README.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0003-offline-first.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0004-multi-tenant-theming.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0006-localization-strings.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0007-summit-chat-socket.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0008-call-sign-in.md",
-        "mobile/references/projects/nootinder-mobile/docs/architecture.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "65a650ae2153fa8ce759ad4ea15446173470b23a011dca1bf748485a425fb046",
-      "title": "Architecture Decision Records (ADR)"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/architecture.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/architecture.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-      "related": [
-        "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/01-modules-and-kmp.png",
-        "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/02-feature-layers.png",
-        "mobile/assets/projects/nootinder-mobile/docs/architecture/diagrams/03-stack-offline-multitenant.png",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0001-modular-feature-api-impl.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0002-feature-layered-architecture.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0003-offline-first.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0004-multi-tenant-theming.md",
-        "mobile/references/projects/nootinder-mobile/docs/commands.md",
-        "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md",
-        "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "0bdd33cd10a563bb9826638c350835aa227b5582dba896bd556971394a44b2f5",
-      "title": "Architecture",
-      "sourceSha256": "33b0643c5ef0259f256e676baca83e886e31f72a8df7afd146d74bf29b45d71c"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/cache-improvement-proposal.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/cache-improvement-proposal.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/cache-improvement-proposal.md",
-      "scope": "nootinder-mobile",
-      "sha256": "2e0eee06532b0f28606bc897c84369a965beedef5c142fbca6168ad6a571231e",
-      "title": "Предложение по кешу"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/commands.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/commands.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/commands.md",
-      "related": [
-        "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "88fad985ddc90ad6eb91690eff221b1f617860fe316ab89c0c324b7019f56256",
-      "title": "Commands",
-      "sourceSha256": "90d1fbe3a527bd9a2b32391729b7bed7e9a8ee39d6a23a44514ed1782bb3c710"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/data-flow-offline-first.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/adr/0003-offline-first.md",
-        "mobile/references/projects/nootinder-mobile/docs/architecture.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "a11745daab683cedacddbbce65d62eb36dcf73542fdd44d3781c842889575b55",
-      "title": "Offline-First: сеть → Room → UI"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/deeplinks.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/deeplinks.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/deeplinks.md",
-      "scope": "nootinder-mobile",
-      "sha256": "5b303b6a06c4f668ff32a24f2ab4463420c9175f447961769b9c8316c02dcbe8",
-      "title": "Диплинки"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/implementation-progress.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/implementation-progress.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/implementation-progress.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/adr/0009-summit-profile-bio-cache.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0010-program-type-cache.md",
-        "mobile/references/projects/nootinder-mobile/docs/adr/0011-connectivity-recovery.md",
-        "mobile/references/projects/nootinder-mobile/docs/cache-improvement-proposal.md",
-        "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
-        "mobile/references/projects/nootinder-mobile/docs/pwa-parity-audit.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "34a8ab3df9ca93f3889f48a5f7f524c2b1896ef5251f67d885f5e8bbde47dd51",
-      "title": "Прогресс приведения мобильного приложения к PWA",
-      "sourceSha256": "9118a07577a8b31037f0d75e994c6654fc6f532f7cf8d7e0c4e2ea1e947c00c3"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/mobile-testing.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/implementation-progress.md",
-        "mobile/references/projects/nootinder-mobile/docs/pwa-parity-audit.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "4cb7e27d5c694c407a2497c9d4b22ed8e765f7db0181918028e56261712f0cc6",
-      "title": "Как проверять мобильное приложение"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/prompts/README.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/prompts/README.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/prompts/README.md",
-      "related": [
-        "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md",
-        "mobile/workflows/projects/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md",
-        "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "745003d7f7f063bf8774c7e8537d29864afc9bd037de19d169839cf353b18315",
-      "title": "Automation prompts",
-      "sourceSha256": "6dd4c19b7c49a2c8a640001cea8c8f35460d21ef572af5df268e2cace6c48fd2"
-    },
-    "mobile/references/projects/nootinder-mobile/docs/pwa-parity-audit.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/pwa-parity-audit.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/references/projects/nootinder-mobile/docs/pwa-parity-audit.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-        "mobile/references/projects/nootinder-mobile/docs/implementation-progress.md",
-        "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
-        "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "c42cbadd0d2e2c9932819853463577059a8d6af3c616ec8e7400851d7f02c2b8",
-      "title": "Соответствие мобильного приложения PWA",
-      "sourceSha256": "2e78d999e475649504797965fdbef739fdbe2bbdc749ad0c7c28afc7f8b31fb4"
-    },
     "mobile/rules/deep-link.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/deeplinks.md"
-      ],
       "pack": "mobile",
       "path": "mobile/rules/deep-link.md",
       "sha256": "5e68292e209e3cf1eef3504f755616e447c58f50de748fbad4e9b60f98651caf",
@@ -3272,10 +1798,6 @@
     "mobile/rules/kmp/project-boundaries.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/AGENTS.md",
-        "projects:noosoft/nootinder-mobile/docs/mobile-testing.md"
-      ],
       "pack": "mobile",
       "path": "mobile/rules/kmp/project-boundaries.md",
       "sha256": "5569a5c8d382f5513f6296059eeae32c1e41f9be1c3db01df78c7a1119b43eb2",
@@ -3284,128 +1806,18 @@
     "mobile/rules/offline-state.md": {
       "encoding": "utf-8",
       "kind": "rules",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/data-flow-offline-first.md",
-        "projects:noosoft/nootinder-mobile/docs/adr/0011-connectivity-recovery.md"
-      ],
       "pack": "mobile",
       "path": "mobile/rules/offline-state.md",
       "sha256": "0e6c48bd1b1b1a7911598f2485dfbc4eb7b8337a3810c50fe30c82e6496f27ab",
       "title": "Мобильное состояние вне сети"
     },
-    "mobile/rules/projects/nootinder-mobile/.cursor/rules/kmp-agent.mdc": {
-      "encoding": "utf-8",
-      "kind": "rules",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/.cursor/rules/kmp-agent.mdc"
-      ],
-      "pack": "mobile",
-      "path": "mobile/rules/projects/nootinder-mobile/.cursor/rules/kmp-agent.mdc",
-      "scope": "nootinder-mobile",
-      "sha256": "104ac2aa82de6c588b744c8616ba028e590686e3f3ee804ce81bdc9ee768c83a",
-      "title": "sovpa agent rules"
-    },
-    "mobile/rules/projects/nootinder-mobile/.cursorrules": {
-      "encoding": "utf-8",
-      "kind": "rules",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/.cursorrules"
-      ],
-      "pack": "mobile",
-      "path": "mobile/rules/projects/nootinder-mobile/.cursorrules",
-      "scope": "nootinder-mobile",
-      "sha256": "48dc667b643125cacdd74db0158ba4fbde1e7e04482d0ea00b1a1c6c71d23e0f",
-      "title": ".cursorrules"
-    },
-    "mobile/rules/projects/nootinder-mobile/CLAUDE.md": {
-      "encoding": "utf-8",
-      "kind": "rules",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/CLAUDE.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/rules/projects/nootinder-mobile/CLAUDE.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-        "mobile/references/projects/nootinder-mobile/docs/commands.md",
-        "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "cdc427f963462af059763f6905dc1b2dcb412c5cc495e84d55cdc6e5692b8116",
-      "title": "CLAUDE.md",
-      "sourceSha256": "403235d70328f8b99575ca5382eaf7b45c1296265494e83329949714bfde2afc"
-    },
-    "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md": {
-      "encoding": "utf-8",
-      "kind": "rules",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/AGENTS.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/rules/projects/nootinder-mobile/docs/AGENTS.md",
-      "related": [
-        "mobile/references/projects/nootinder-mobile/docs/adr/0006-localization-strings.md",
-        "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-        "mobile/references/projects/nootinder-mobile/docs/commands.md"
-      ],
-      "scope": "nootinder-mobile",
-      "sha256": "2c4d89f72919ce765a958d3c855764f46228e65a824fb9783e02f8d01a9b2848",
-      "title": "AGENT.md",
-      "sourceSha256": "02bd5f65151ae7533d90ad6a1557f5a3557e913b13d69a464d3f2a62d7ffea3a"
-    },
-    "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md": {
-      "encoding": "utf-8",
-      "kind": "templates",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/adr/0000-template.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md",
-      "scope": "nootinder-mobile",
-      "sha256": "a1dd693abfbbd2424dd637f3dd19b867463e6096b21f728abe6c86098cd9e6aa",
-      "title": "NNNN. Title"
-    },
     "mobile/workflows/add-feature.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md"
-      ],
       "pack": "mobile",
       "path": "mobile/workflows/add-feature.md",
-      "sha256": "ef309a68dffcc370ce673534bd5f3689f358f760efa1a38cb0b19229297fd3f5",
+      "sha256": "74beff3fce2434bdec7aa59bba12d5382eea10439476b77cec4c980a53f2e038",
       "title": "Добавление мобильной фичи"
-    },
-    "mobile/workflows/projects/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md": {
-      "encoding": "utf-8",
-      "kind": "workflows",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/workflows/projects/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md",
-      "scope": "nootinder-mobile",
-      "sha256": "69800637ae8a074f25228e356a7641a725af0a59f6050afc5edbaaee561c5a73",
-      "title": "001. Setup KMP + Compose agent tooling"
-    },
-    "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md": {
-      "encoding": "utf-8",
-      "kind": "workflows",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md"
-      ],
-      "pack": "mobile",
-      "path": "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md",
-      "scope": "nootinder-mobile",
-      "sha256": "522739ec614171a244e5ea7caca6c90a8fd1c67282f89ac8e36ac01e876691b3",
-      "title": "002. Как создать feature-модуль и экран (чеклист)"
     },
     "product/checklists/release-readiness.md": {
       "encoding": "utf-8",
@@ -3418,448 +1830,10 @@
       "sha256": "9f44f098cf53618e28e70ef56e8f5b419da2bc7e838148695fdd9523ca018778",
       "title": "Готовность к выпуску"
     },
-    "product/references/team/AI/AI-внедрение-видение.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/AI/AI-внедрение-видение.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/AI/AI-внедрение-видение.md",
-      "scope": "noosoft",
-      "sha256": "8da53577a0b7f095e4ee736de0e18448120f0731de573eba43b6e00bdced3326",
-      "title": "Моё видение внедрения AI"
-    },
-    "product/references/team/Шаг 1. Настройка проекта в Битрикс.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 1. Настройка проекта в Битрикс.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 1. Настройка проекта в Битрикс.md",
-      "scope": "noosoft",
-      "sha256": "2f5de92d90c460fb65da6b88e35bd1a4dc151d361fcf4dfd6a0d96df375c90a9",
-      "title": "Кто настраивает"
-    },
-    "product/references/team/Шаг 10. Приёмка задачи.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 10. Приёмка задачи.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 10. Приёмка задачи.md",
-      "scope": "noosoft",
-      "sha256": "4ed0f91e14ad8bf2dd2f93869e5c79c3b70e26d9d07cbfd5651bdd68d6494422",
-      "title": "Шаг 10. Приёмка задачи"
-    },
-    "product/references/team/Шаг 11. Релиз и ХотФикс.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 11. Релиз и ХотФикс.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 11. Релиз и ХотФикс.md",
-      "scope": "noosoft",
-      "sha256": "a74f0861c22444ef34135faf676e68f4bc4aa459be380dff5a248831d2d20637",
-      "title": "Время и день релиза"
-    },
-    "product/references/team/Шаг 12. Коммуникации внутри команды.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 12. Коммуникации внутри команды.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 12. Коммуникации внутри команды.md",
-      "scope": "noosoft",
-      "sha256": "24cc76ce41c7b1ac996ead0bbfd84a4f4082d3fef270bece32842b23f824e276",
-      "title": "Каналы связи"
-    },
-    "product/references/team/Шаг 13. Коммуникации с клиентом.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 13. Коммуникации с клиентом.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 13. Коммуникации с клиентом.md",
-      "scope": "noosoft",
-      "sha256": "83f434c326e98467fe4d4fb67d3eb19b8c6147c17d00d752f9da1ddb52b42cd6",
-      "title": "Основная точка контакта"
-    },
-    "product/references/team/Шаг 2. Ведение задач в Битрикс.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 2. Ведение задач в Битрикс.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 2. Ведение задач в Битрикс.md",
-      "scope": "noosoft",
-      "sha256": "737723361c4377bc7848ce5786e15b89acefdb61254b5f6828a6794d49d2fdec",
-      "title": "Источники задач"
-    },
-    "product/references/team/Шаг 3. Жизненный цикл задачи.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 3. Жизненный цикл задачи.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 3. Жизненный цикл задачи.md",
-      "scope": "noosoft",
-      "sha256": "eedfbd976896adbfdc559c89e93fdd4b25788e58c426218722ae7b76b3b15e61",
-      "title": "Жизненный цикл задачи"
-    },
-    "product/references/team/Шаг 4. Оценка задач.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 4. Оценка задач.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 4. Оценка задач.md",
-      "scope": "noosoft",
-      "sha256": "b3300a64af9e3ceaafe0c0c0d231f01bb90d57fcbe5d9017c5813361cbace68e",
-      "title": "Кто оценивает"
-    },
-    "product/references/team/Шаг 5. Работа разработчика с задачей.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 5. Работа разработчика с задачей.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 5. Работа разработчика с задачей.md",
-      "scope": "noosoft",
-      "sha256": "8de6864c779dd8391051925aa05ce2c7dc8ee3eda89f81dcedc8e3c6263e8791",
-      "title": "1. Взять задачу в работу"
-    },
-    "product/references/team/Шаг 6. Код-ревью.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 6. Код-ревью.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 6. Код-ревью.md",
-      "scope": "noosoft",
-      "sha256": "0a15bb044f5c853df9ed0e3f5960a78101efe679cdad7ecc495b70eec47954a0",
-      "title": "Шаг 6. Код-ревью"
-    },
-    "product/references/team/Шаг 7. Тестирование.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 7. Тестирование.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 7. Тестирование.md",
-      "scope": "noosoft",
-      "sha256": "3adcdee8118fbc8d31670d23cccb9d58acdb978ceade42aefc37234bbad488a3",
-      "title": "Шаг 7. Тестирование"
-    },
-    "product/references/team/Шаг 8. Работа с багами.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 8. Работа с багами.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 8. Работа с багами.md",
-      "scope": "noosoft",
-      "sha256": "7e38f24bc1ca99cb8f73c03ab0b0da68ec8fb2f1c8d39ea6197853cb7ff40d1b",
-      "title": "Шаг 8. Работа с багами"
-    },
-    "product/references/team/Шаг 9. Работа со стендами.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шаг 9. Работа со стендами.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шаг 9. Работа со стендами.md",
-      "scope": "noosoft",
-      "sha256": "0776e27bf918e3f7676ec6cc4a9364a84e51f1795dd4cbac8dac9b210b0e55fe",
-      "title": "Шаг 9. Работа со стендами"
-    },
-    "product/references/team/Шпаргалки по должности/Роль — QA.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шпаргалки по должности/Роль — QA.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шпаргалки по должности/Роль — QA.md",
-      "scope": "noosoft",
-      "sha256": "2b99ae9120ffdd529b948f85b1c11c50bff7b4c729e299b36ca25e9aa3de8689",
-      "title": "Шпаргалка: QA (Тестировщик)"
-    },
-    "product/references/team/Шпаргалки по должности/Роль — Менеджер.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шпаргалки по должности/Роль — Менеджер.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шпаргалки по должности/Роль — Менеджер.md",
-      "scope": "noosoft",
-      "sha256": "7931fa7d899e10f69fbc9e5d433807c909f7b45a38b4c4e73c2edaf79334d868",
-      "title": "Шпаргалка: Менеджер"
-    },
-    "product/references/team/Шпаргалки по должности/Роль — Разработчик.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шпаргалки по должности/Роль — Разработчик.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шпаргалки по должности/Роль — Разработчик.md",
-      "scope": "noosoft",
-      "sha256": "e222145e9b4154a0a2366770e8cc8a9e0e213d9138b41c5bbd3f4aa31e96228a",
-      "title": "Шпаргалка: Разработчик"
-    },
-    "product/references/team/Шпаргалки по должности/Роль — Старший разработчик.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шпаргалки по должности/Роль — Старший разработчик.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шпаргалки по должности/Роль — Старший разработчик.md",
-      "scope": "noosoft",
-      "sha256": "9bfe987ab5c1d78fbd4a9eab825243e7b7adac849f015a634ff7ecdc55a71e1a",
-      "title": "Шпаргалка: Старший разработчик"
-    },
-    "product/references/team/Шпаргалки по должности/Роль — Тим·Тех лид.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "historical",
-      "origins": [
-        "obsidian:Процессы Ноософт/Шпаргалки по должности/Роль — Тим·Тех лид.md"
-      ],
-      "pack": "product",
-      "path": "product/references/team/Шпаргалки по должности/Роль — Тим·Тех лид.md",
-      "scope": "noosoft",
-      "sha256": "55b94949ab066618130720d98bc1b6c85f74027ce9c7e9223dbe8b4a7ef0735c",
-      "title": "Шпаргалка: Тим/Тех лид"
-    },
-    "product/skills/product-prototyping/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/noolink/skills.zip!skills/product-prototyping/SKILL.md",
-        "projects:noosoft/noolink/skills/product-prototyping/SKILL.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/product-prototyping/SKILL.md",
-      "related": [
-        "product/skills/product-prototyping/references/noolink.md",
-        "product/skills/product-prototyping/references/platforms.md",
-        "product/skills/product-prototyping/references/review.md",
-        "product/skills/product-prototyping/references/sovpa-visual-style.md"
-      ],
-      "scope": "noolink",
-      "sha256": "7abbfe6d907fd4398be84eea6f0a3ef001f3f24ebc095353d36e947366801b1c",
-      "title": "Продуктовые прототипы"
-    },
-    "product/skills/product-prototyping/agents/openai.yaml": {
-      "encoding": "utf-8",
-      "kind": "assets",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/noolink/skills.zip!skills/product-prototyping/agents/openai.yaml",
-        "projects:noosoft/noolink/skills/product-prototyping/agents/openai.yaml"
-      ],
-      "pack": "product",
-      "path": "product/skills/product-prototyping/agents/openai.yaml",
-      "scope": "noolink",
-      "sha256": "92cea24f80dafa714947ea9329897697559fe8198cb1fe3b1e170cb49213fca5",
-      "title": "openai"
-    },
-    "product/skills/product-prototyping/references/noolink.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/noolink/skills.zip!skills/product-prototyping/references/noolink.md",
-        "projects:noosoft/noolink/skills/product-prototyping/references/noolink.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/product-prototyping/references/noolink.md",
-      "scope": "noolink",
-      "sha256": "95f5f14b60feb96bebdfacb8b592ff8f70c4591d205c613c2282cda67a668b25",
-      "title": "Прототип Noolink"
-    },
-    "product/skills/product-prototyping/references/platforms.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/noolink/skills.zip!skills/product-prototyping/references/platforms.md",
-        "projects:noosoft/noolink/skills/product-prototyping/references/platforms.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/product-prototyping/references/platforms.md",
-      "scope": "noolink",
-      "sha256": "8927676968fe22bad80c7362938c37bcb74ec44f2d2ba59940e7e423797d6e0b",
-      "title": "Платформы и компоновка"
-    },
-    "product/skills/product-prototyping/references/review.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/noolink/skills.zip!skills/product-prototyping/references/review.md",
-        "projects:noosoft/noolink/skills/product-prototyping/references/review.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/product-prototyping/references/review.md",
-      "scope": "noolink",
-      "sha256": "cf1a96c24a98d6594163f21497781ed7ac7cad9977948dc91fe5f05b07cd642d",
-      "title": "Проверка и передача"
-    },
-    "product/skills/product-prototyping/references/sovpa-visual-style.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "projects:noosoft/noolink/skills.zip!skills/product-prototyping/references/sovpa-visual-style.md",
-        "projects:noosoft/noolink/skills/product-prototyping/references/sovpa-visual-style.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/product-prototyping/references/sovpa-visual-style.md",
-      "scope": "noolink",
-      "sha256": "675eb43351d8560e6916603a254bc2f2de427a7615efc4bb47db0ff9dd13cdb5",
-      "title": "Визуальный профиль Sovpa"
-    },
-    "product/skills/sovpa-case-analysis/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-case-analysis/SKILL.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/sovpa-case-analysis/SKILL.md",
-      "related": [
-        "product/skills/sovpa-case-analysis/references/project-context.md"
-      ],
-      "scope": "sovpa",
-      "sha256": "9fb55b956250db6a1b92287de2635a3866264c10d2a0b46823061e7f0d83ccb3",
-      "title": "Аналитика и подготовка кейсов",
-      "sourceSha256": "b8d332b5ae89f7c3300c14053d8350246749b11c49aaf89ce85df54e64441280"
-    },
-    "product/skills/sovpa-case-analysis/references/project-context.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-backend-change/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-case-analysis/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-project-discovery/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-prototype-design/references/project-context.md"
-      ],
-      "pack": "product",
-      "path": "backend/skills/sovpa-backend-change/references/project-context.md",
-      "scope": "sovpa",
-      "sha256": "3cc3e8d2286acb9a2c14a579e80811e8b5fcb3a8ef86c23067ae63b4d2e6ccba",
-      "title": "Контекст реального проекта"
-    },
-    "product/skills/sovpa-project-discovery/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-project-discovery/SKILL.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/sovpa-project-discovery/SKILL.md",
-      "related": [
-        "product/skills/sovpa-project-discovery/references/project-context.md"
-      ],
-      "scope": "sovpa",
-      "sha256": "c2433c76b984b8ee80dee9eb856bf175c25fd255ac75ff5a6d924cb79eb80d21",
-      "title": "Проработка проекта",
-      "sourceSha256": "cc862ceaaabed36434b59f38ea534b7c83d5ccdf42532594195477e8fbfc65bc"
-    },
-    "product/skills/sovpa-project-discovery/references/project-context.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-backend-change/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-case-analysis/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-project-discovery/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-prototype-design/references/project-context.md"
-      ],
-      "pack": "product",
-      "path": "backend/skills/sovpa-backend-change/references/project-context.md",
-      "scope": "sovpa",
-      "sha256": "3cc3e8d2286acb9a2c14a579e80811e8b5fcb3a8ef86c23067ae63b4d2e6ccba",
-      "title": "Контекст реального проекта"
-    },
-    "product/skills/sovpa-prototype-design/SKILL.md": {
-      "encoding": "utf-8",
-      "kind": "skills",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-prototype-design/SKILL.md"
-      ],
-      "pack": "product",
-      "path": "product/skills/sovpa-prototype-design/SKILL.md",
-      "related": [
-        "product/skills/sovpa-prototype-design/references/project-context.md"
-      ],
-      "scope": "sovpa",
-      "sha256": "e7aca3f2181daabb857b3dbcdbc8e29dcecdb02c171b41a6ab0ca9f684764b6d",
-      "title": "Прототипирование и дизайн",
-      "sourceSha256": "88df23ea7e8be75edfa53fbb38a198f3584cc1a31fc34c5d4afa4b0c30423e41"
-    },
-    "product/skills/sovpa-prototype-design/references/project-context.md": {
-      "encoding": "utf-8",
-      "kind": "references",
-      "lifecycle": "project-snapshot",
-      "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-backend-change/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-case-analysis/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-project-discovery/references/project-context.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-prototype-design/references/project-context.md"
-      ],
-      "pack": "product",
-      "path": "backend/skills/sovpa-backend-change/references/project-context.md",
-      "scope": "sovpa",
-      "sha256": "3cc3e8d2286acb9a2c14a579e80811e8b5fcb3a8ef86c23067ae63b4d2e6ccba",
-      "title": "Контекст реального проекта"
-    },
     "product/workflows/discovery-and-analysis.md": {
       "encoding": "utf-8",
       "kind": "workflows",
       "origins": [
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-case-analysis/SKILL.md",
-        "obsidian:Встреча по ИИ/Кейс Sovpa/skills/sovpa-project-discovery/SKILL.md",
         "obsidian:Процессы Ноософт/Шаг 4. Оценка задач.md"
       ],
       "pack": "product",
@@ -3870,12 +1844,9 @@
     "product/workflows/prototyping.md": {
       "encoding": "utf-8",
       "kind": "workflows",
-      "origins": [
-        "projects:noosoft/noolink/skills/product-prototyping/SKILL.md"
-      ],
       "pack": "product",
       "path": "product/workflows/prototyping.md",
-      "sha256": "009f1ad33095548d5f18c98d38f490cc208bbde99c876de01649d9b25ea4595a",
+      "sha256": "48274b91487ce0e0a6ecead4ac05e8aeee879ac4078ae866fe1c7ac71261a5f6",
       "title": "Прототипирование"
     },
     "product/workflows/quality-and-release.md": {
@@ -3897,8 +1868,7 @@
       "encoding": "utf-8",
       "kind": "workflows",
       "origins": [
-        "obsidian:Разное всякое/Процесс разработки литобзора и плана экспериментов.docx.md",
-        "projects:study/V2 — Промпт для Claude_ магистерская диссертация по цифровой экономике.md"
+        "obsidian:Разное всякое/Процесс разработки литобзора и плана экспериментов.docx.md"
       ],
       "pack": "research",
       "path": "research/workflows/literature-and-experiments.md",

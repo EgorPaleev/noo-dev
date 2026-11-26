@@ -36,46 +36,6 @@
       "path": "mobile/checklists/platform-verification.md",
       "kind": "checklists",
       "title": "Проверки мобильной фичи"
-    },
-    {
-      "id": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-      "load": "on-demand",
-      "projectPath": "docs/architecture.md",
-      "path": "mobile/references/projects/nootinder-mobile/docs/architecture.md",
-      "kind": "references",
-      "title": "Architecture",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
-    },
-    {
-      "id": "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md",
-      "load": "on-demand",
-      "projectPath": "docs/prompts/002-create-feature-module-and-screen.md",
-      "path": "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md",
-      "kind": "workflows",
-      "title": "002. Как создать feature-модуль и экран (чеклист)",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
-    },
-    {
-      "id": "mobile/references/projects/nootinder-mobile/docs/commands.md",
-      "load": "on-demand",
-      "projectPath": "docs/commands.md",
-      "path": "mobile/references/projects/nootinder-mobile/docs/commands.md",
-      "kind": "references",
-      "title": "Commands",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
-    },
-    {
-      "id": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
-      "load": "on-demand",
-      "projectPath": "docs/mobile-testing.md",
-      "path": "mobile/references/projects/nootinder-mobile/docs/mobile-testing.md",
-      "kind": "references",
-      "title": "Как проверять мобильное приложение",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
     }
   ]
 }

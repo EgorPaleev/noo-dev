@@ -3,19 +3,5 @@
     "path": "mobile/workflows/add-feature.md",
     "kind": "workflows",
     "title": "Добавление мобильной фичи"
-  },
-  "mobile/workflows/projects/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md": {
-    "path": "mobile/workflows/projects/nootinder-mobile/docs/prompts/001-setup-kmp-compose-agent.md",
-    "kind": "workflows",
-    "title": "001. Setup KMP + Compose agent tooling",
-    "scope": "nootinder-mobile",
-    "lifecycle": "project-snapshot"
-  },
-  "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md": {
-    "path": "mobile/workflows/projects/nootinder-mobile/docs/prompts/002-create-feature-module-and-screen.md",
-    "kind": "workflows",
-    "title": "002. Как создать feature-модуль и экран (чеклист)",
-    "scope": "nootinder-mobile",
-    "lifecycle": "project-snapshot"
   }
 }

@@ -7,13 +7,11 @@
   "output": "change-set",
   "materials": [
     {
-      "id": "frontend/skills/add-case/SKILL.md",
-      "load": "on-demand",
-      "path": "frontend/skills/add-case/SKILL.md",
-      "kind": "skills",
-      "title": "Новый кейс Sovpa",
-      "scope": "client-sovpa",
-      "lifecycle": "project-snapshot"
+      "id": "frontend/workflows/publishing-site-content.md",
+      "load": "default",
+      "path": "frontend/workflows/publishing-site-content.md",
+      "kind": "workflows",
+      "title": "Публикация контента на сайте"
     }
   ]
 }

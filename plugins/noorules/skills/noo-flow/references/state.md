@@ -14,7 +14,7 @@
 {
   "schemaVersion": 1,
   "pipeline": "review-only",
-  "pluginVersion": "0.4.7",
+  "pluginVersion": "0.5.0",
   "plan": {
     "path": "feature-review-plan.md",
     "fingerprint": "git:0123456789abcdef0123456789abcdef01234567"

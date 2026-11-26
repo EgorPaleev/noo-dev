@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.0",
+  "version": "0.5.0",
   "presets": {
     "core": {
       "rules": [
@@ -392,44 +392,7 @@
   "compatibleProfileCatalogs": [
     "0.1.0",
     "0.2.0",
-    "0.3.0"
-  ],
-  "scopes": [
-    {
-      "id": "sovpa",
-      "packageName": "sovpa-app-client"
-    },
-    {
-      "id": "client-sovpa",
-      "packageName": "sovpa-site"
-    },
-    {
-      "id": "nootinder-client",
-      "packageName": "nootinder-client"
-    },
-    {
-      "id": "nootinder-api",
-      "goModule": "github.com/evrostos/nootinder-golang-api"
-    },
-    {
-      "id": "nootinder-mobile",
-      "paths": [
-        "docs/adr/0001-modular-feature-api-impl.md",
-        "shared/build.gradle.kts",
-        "iosApp"
-      ]
-    },
-    {
-      "id": "noolink",
-      "paths": [
-        "case-1-vhod",
-        "case-13-admin",
-        "skills/product-prototyping/SKILL.md"
-      ]
-    },
-    {
-      "id": "restomagic-front",
-      "packageName": "restomagic-front"
-    }
+    "0.3.0",
+    "0.4.0"
   ]
 }

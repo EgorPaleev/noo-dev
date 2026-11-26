@@ -21,16 +21,6 @@
       "title": "Проверка проектной документации"
     },
     {
-      "id": "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md",
-      "load": "on-demand",
-      "projectPath": "docs/adr/0000-template.md",
-      "path": "mobile/templates/projects/nootinder-mobile/docs/adr/0000-template.md",
-      "kind": "templates",
-      "title": "NNNN. Title",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
-    },
-    {
       "id": "engineering/rules/decision-history.md",
       "load": "default",
       "path": "engineering/rules/decision-history.md",

@@ -19,16 +19,6 @@
       "path": "mobile/checklists/platform-verification.md",
       "kind": "checklists",
       "title": "Проверки мобильной фичи"
-    },
-    {
-      "id": "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md",
-      "load": "on-demand",
-      "projectPath": "docs/data-flow-offline-first.md",
-      "path": "mobile/references/projects/nootinder-mobile/docs/data-flow-offline-first.md",
-      "kind": "references",
-      "title": "Offline-First: сеть → Room → UI",
-      "scope": "nootinder-mobile",
-      "lifecycle": "project-snapshot"
     }
   ]
 }

@@ -1,32 +1,4 @@
 {
-  "backend/references/go/architecture/architecture.md": {
-    "path": "backend/references/go/architecture/architecture.md",
-    "kind": "references",
-    "title": "Architecture",
-    "scope": "noosoft",
-    "lifecycle": "historical"
-  },
-  "backend/references/go/context/context.md": {
-    "path": "backend/references/go/context/context.md",
-    "kind": "references",
-    "title": "Context",
-    "scope": "nootinder-api",
-    "lifecycle": "project-snapshot"
-  },
-  "backend/references/go/conventions/conventions.md": {
-    "path": "backend/references/go/conventions/conventions.md",
-    "kind": "references",
-    "title": "Conventions",
-    "scope": "noosoft",
-    "lifecycle": "historical"
-  },
-  "backend/references/go/testing-security/verification.md": {
-    "path": "backend/references/go/testing-security/verification.md",
-    "kind": "references",
-    "title": "Verification",
-    "scope": "noosoft",
-    "lifecycle": "historical"
-  },
   "backend/references/nest/docs/recipes/CONFIGURATION.md": {
     "path": "backend/references/nest/docs/recipes/CONFIGURATION.md",
     "kind": "references",

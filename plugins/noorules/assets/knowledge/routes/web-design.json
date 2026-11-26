@@ -16,6 +16,7 @@
     {
       "id": "frontend/skills/design-taste-frontend/SKILL.md",
       "load": "on-demand",
+      "when": "Задача требует выбрать визуальное направление лендинга, портфолио или промостраницы.",
       "path": "frontend/skills/design-taste-frontend/SKILL.md",
       "kind": "skills",
       "title": "tasteskill: Anti-Slop Frontend Skill"
@@ -23,6 +24,7 @@
     {
       "id": "frontend/skills/redesign-existing-projects/SKILL.md",
       "load": "on-demand",
+      "when": "В задачу входит аудит и изменение существующего интерфейса.",
       "path": "frontend/skills/redesign-existing-projects/SKILL.md",
       "kind": "skills",
       "title": "Redesign Skill"

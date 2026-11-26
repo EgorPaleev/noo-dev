@@ -1,7 +1,7 @@
 {
   "name": "noorules",
-  "version": "0.4.7",
-  "description": "Разработка, ревью, тестирование и выпуск.",
+  "version": "0.5.0",
+  "description": "Собирает контекст репозитория и помогает выстроить разработку, ревью, тестирование и выпуск.",
   "skills": "./skills/",
   "interface": {
     "displayName": "NooRules Dev"

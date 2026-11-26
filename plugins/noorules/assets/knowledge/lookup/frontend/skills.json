@@ -1,39 +1,4 @@
 {
-  "frontend/skills/add-case/SKILL.md": {
-    "path": "frontend/skills/add-case/SKILL.md",
-    "kind": "skills",
-    "title": "Новый кейс Sovpa",
-    "scope": "client-sovpa",
-    "lifecycle": "project-snapshot"
-  },
-  "frontend/skills/add-case/scripts/crop-screens.py": {
-    "path": "frontend/skills/add-case/scripts/crop-screens.py.txt",
-    "kind": "assets",
-    "title": "crop-screens",
-    "scope": "client-sovpa",
-    "lifecycle": "project-snapshot"
-  },
-  "frontend/skills/add-case/scripts/shot.mjs": {
-    "path": "frontend/skills/add-case/scripts/shot.mjs",
-    "kind": "assets",
-    "title": "shot",
-    "scope": "client-sovpa",
-    "lifecycle": "project-snapshot"
-  },
-  "frontend/skills/add-news/SKILL.md": {
-    "path": "frontend/skills/add-news/SKILL.md",
-    "kind": "skills",
-    "title": "Новая новость Sovpa",
-    "scope": "client-sovpa",
-    "lifecycle": "project-snapshot"
-  },
-  "frontend/skills/add-news/scripts/convert-images.py": {
-    "path": "frontend/skills/add-news/scripts/convert-images.py.txt",
-    "kind": "assets",
-    "title": "convert-images",
-    "scope": "client-sovpa",
-    "lifecycle": "project-snapshot"
-  },
   "frontend/skills/create-fsd-entity/SKILL.md": {
     "path": "frontend/skills/create-fsd-entity/SKILL.md",
     "kind": "skills",
@@ -189,17 +154,10 @@
     "kind": "assets",
     "title": "upstream"
   },
-  "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md": {
-    "path": "frontend/skills/high-end-visual-design-variant-e1e32f5e/SKILL.md",
-    "kind": "skills",
-    "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)",
-    "scope": "client-sovpa",
-    "lifecycle": "project-snapshot"
-  },
   "frontend/skills/high-end-visual-design/SKILL.md": {
     "path": "frontend/skills/high-end-visual-design/SKILL.md",
     "kind": "skills",
-    "title": "Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)"
+    "title": "Визуальная доработка интерфейса"
   },
   "frontend/skills/redesign-existing-projects/SKILL.md": {
     "path": "frontend/skills/redesign-existing-projects/SKILL.md",

@@ -41,15 +41,6 @@
       "title": "Controllers"
     },
     {
-      "id": "backend/skills/sovpa-backend-change/SKILL.md",
-      "load": "on-demand",
-      "path": "backend/skills/sovpa-backend-change/SKILL.md",
-      "kind": "skills",
-      "title": "Изменение бэкенда Sovpa",
-      "scope": "nootinder-api",
-      "lifecycle": "project-snapshot"
-    },
-    {
       "id": "backend/rules/http/input-validation.md",
       "load": "default",
       "path": "backend/rules/http/input-validation.md",
