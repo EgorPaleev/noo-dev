@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "noorules",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "Собирает контекст репозитория и помогает выстроить разработку, ревью, тестирование и выпуск."
 }
