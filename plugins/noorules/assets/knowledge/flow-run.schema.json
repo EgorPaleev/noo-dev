@@ -5,6 +5,7 @@
   "required": ["schemaVersion", "pipeline", "pluginVersion", "steps", "externalInputs"],
   "properties": {
     "schemaVersion": {"const": 1},
+    "closed": {"type": "boolean"},
     "pipeline": {"$ref": "#/$defs/id"},
     "pluginVersion": {"type": "string", "minLength": 1},
     "plan": {"$ref": "#/$defs/file"},
