@@ -1,9 +1,12 @@
 ---
 name: noo-delivery
 description: "Готовит отчёт QA, фиксирует решение о приёмке или составляет пакет подготовки выпуска."
+disable-model-invocation: true
 ---
 
 # QA и выпуск
+
+Сначала [проверь подключение текущего проекта](../noo-rules/references/project-context.md#подключение-проекта). Выполняй этот навык NooRules Dev в подключённом проекте.
 
 Для нового запроса используй [порядок входа рабочего навыка](../noo-rules/references/project-context.md#вызов-рабочего-навыка).
 

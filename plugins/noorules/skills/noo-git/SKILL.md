@@ -1,9 +1,12 @@
 ---
 name: noo-git
 description: "Объясняет Conventional Commits или готовит состав и сообщение Git-коммита по правилам текущего проекта."
+disable-model-invocation: true
 ---
 
 # Правила Git
+
+Сначала [проверь подключение текущего проекта](../noo-rules/references/project-context.md#подключение-проекта). Выполняй этот навык NooRules Dev в подключённом проекте.
 
 Для нового запроса используй [порядок входа рабочего навыка](../noo-rules/references/project-context.md#вызов-рабочего-навыка).
 
